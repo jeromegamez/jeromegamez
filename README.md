@@ -37,7 +37,6 @@ projects in the [BESTE](https://github.com/beste),
 
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [jeromegamez/issue-template-tests](https://github.com/jeromegamez/issue-template-tests) - A repo to test how issue templates look like before using them elsewhere
-- [jeromegamez/laravel58-with-firebase](https://github.com/jeromegamez/laravel58-with-firebase) - Laravel 5.8 with a custom Firebase configuration for https://github.com/kreait/laravel-firebase/issues/141
 - [jeromegamez/clock-poc](https://github.com/jeromegamez/clock-poc) - Proof of concept for the proposed clock PSR
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects.
 - [jeromegamez/php-library-template](https://github.com/jeromegamez/php-library-template) - This project has been replaced by https://github.com/jeromegamez/cookiecutter-php-project
@@ -45,6 +44,7 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
 - [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application.
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application.
+- [jeromegamez/mite-api-authentication-php](https://github.com/jeromegamez/mite-api-authentication-php) - Authentication middlewares to access the APIs of https://mite.yo.lk
 
 #### 🔭 Latest releases I've contributed to
 
