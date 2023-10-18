@@ -22,15 +22,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (5 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 month ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks (2 months ago)
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (3 months ago)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (4 months ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (4 months ago)
 
 #### 🌱 My latest projects
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.223.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.223.0), 1 day ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.223.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.223.0), 2 days ago) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.1](https://github.com/milanvarady/Applite/releases/tag/v1.2.1), 2 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (today)
-- [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (2 days ago)
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨ (3 days ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (4 days ago)
-- [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (6 days ago)
+- [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (1 day ago)
+- [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (3 days ago)
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨ (4 days ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (5 days ago)
+- [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (1 week ago)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (1 week ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform  🏓 (1 week ago)
 - [GravityPDF/querypath](https://github.com/GravityPDF/querypath) - A fork of QueryPath: a PHP library for HTML(5)/XML querying (CSS 4 or XPath) and processing (like jQuery) with PHP8.2 support (1 week ago)
