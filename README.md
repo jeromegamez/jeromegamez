@@ -22,6 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur. (today)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
@@ -31,10 +32,10 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks (2 months ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (4 months ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur.
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [jeromegamez/issue-template-tests](https://github.com/jeromegamez/issue-template-tests) - A repo to test how issue templates look like before using them elsewhere
 - [jeromegamez/clock-poc](https://github.com/jeromegamez/clock-poc) - Proof of concept for the proposed clock PSR
@@ -44,7 +45,6 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
 - [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application.
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application.
-- [jeromegamez/mite-api-authentication-php](https://github.com/jeromegamez/mite-api-authentication-php) - Authentication middlewares to access the APIs of https://mite.yo.lk
 
 #### 🔭 Latest releases I've contributed to
 
