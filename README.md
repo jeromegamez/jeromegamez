@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur. (today)
 - [mgrajcarek/uuid-shortener](https://github.com/mgrajcarek/uuid-shortener) - A simple RFC 4122 UUID shortener library. Change your 36 chars long ID into it&#39;s shorter equivalent. (3 days ago)
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (4 days ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (1 week ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform  🏓 (1 week ago)
 - [GravityPDF/querypath](https://github.com/GravityPDF/querypath) - A fork of QueryPath: a PHP library for HTML(5)/XML querying (CSS 4 or XPath) and processing (like jQuery) with PHP8.2 support (2 weeks ago)
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
