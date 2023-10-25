@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (today)
 - [sidz/phpstan-rules](https://github.com/sidz/phpstan-rules) - Additional rules for phpstan/phpstan.  (1 day ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur. (4 days ago)
 - [mgrajcarek/uuid-shortener](https://github.com/mgrajcarek/uuid-shortener) - A simple RFC 4122 UUID shortener library. Change your 36 chars long ID into it&#39;s shorter equivalent. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (1 week ago)
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. (2 weeks ago)
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇 (2 weeks ago)
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform  🏓 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
