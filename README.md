@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur. (3 days ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (3 days ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
@@ -35,7 +35,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🌱 My latest projects
 
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur.
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [jeromegamez/issue-template-tests](https://github.com/jeromegamez/issue-template-tests) - A repo to test how issue templates look like before using them elsewhere
 - [jeromegamez/clock-poc](https://github.com/jeromegamez/clock-poc) - Proof of concept for the proposed clock PSR
@@ -76,7 +76,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (1 day ago)
 - [sidz/phpstan-rules](https://github.com/sidz/phpstan-rules) - Additional rules for phpstan/phpstan.  (2 days ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - A proxy for pinboard.in feeds that fixes the keywords to be displayed correctly in NewsBlur. (5 days ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (5 days ago)
 - [mgrajcarek/uuid-shortener](https://github.com/mgrajcarek/uuid-shortener) - A simple RFC 4122 UUID shortener library. Change your 36 chars long ID into it&#39;s shorter equivalent. (1 week ago)
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (1 week ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (1 week ago)
