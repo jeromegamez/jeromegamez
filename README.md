@@ -91,11 +91,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [kehoecj](https://github.com/kehoecj)
 - [emanuuele](https://github.com/emanuuele)
 - [mn0unreal](https://github.com/mn0unreal)
 - [the-provost](https://github.com/the-provost)
 - [AnasMually](https://github.com/AnasMually)
-- [Neustradamus](https://github.com/Neustradamus)
 
 #### 💬 Feedback
 
