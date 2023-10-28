@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), today) - User-friendly GUI macOS application for Homebrew Casks
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.224.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.224.0), 1 day ago) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.1](https://github.com/milanvarady/Applite/releases/tag/v1.2.1), 4 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 1 month ago) - PHP CS Fixer Config used in BESTE projects
