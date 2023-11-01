@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (today)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (today)
 - [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (1 day ago)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (2 weeks ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (2 weeks ago)
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨ (2 weeks ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
