@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (today)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 day ago)
 - [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [mgrajcarek/uuid-shortener](https://github.com/mgrajcarek/uuid-shortener) - A simple RFC 4122 UUID shortener library. Change your 36 chars long ID into it&#39;s shorter equivalent. (2 weeks ago)
 - [benholmen/defrag](https://github.com/benholmen/defrag) - Disk defrag output for PHPUnit tests (2 weeks ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (2 weeks ago)
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨ (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
