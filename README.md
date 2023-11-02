@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.225.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.225.0), today) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 5 days ago) - User-friendly GUI macOS application for Homebrew Casks
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.224.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.224.0), 6 days ago) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 4 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
