@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 week ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.225.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.225.0), today) - Google Cloud Client Library for PHP
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 5 days ago) - User-friendly GUI macOS application for Homebrew Casks
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.225.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.225.0), 1 day ago) - Google Cloud Client Library for PHP
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 6 days ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 4 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
@@ -68,16 +68,16 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (4 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
-- [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
+- [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Populate mfaInfo from list instead of assuming a single object](https://github.com/kreait/firebase-php/pull/784) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [fix Enums not being cast when calling `Model::toArray()`](https://github.com/mongodb/laravel-mongodb/pull/2522) on [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (today)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 day ago)
-- [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (2 days ago)
+- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (1 day ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 days ago)
+- [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (3 days ago)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (1 week ago)
 - [sidz/phpstan-rules](https://github.com/sidz/phpstan-rules) - Additional rules for phpstan/phpstan.  (1 week ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 week ago)
