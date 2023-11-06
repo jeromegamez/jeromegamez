@@ -23,12 +23,12 @@ projects in the [BESTE](https://github.com/beste),
 #### 👷 What I'm currently working on
 
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 week ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 weeks ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 month ago)
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 months ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 months ago)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks (2 months ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (4 months ago)
@@ -48,11 +48,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 2 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.225.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.225.0), 3 days ago) - Google Cloud Client Library for PHP
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 3 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.225.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.225.0), 4 days ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.1.0](https://github.com/jeromegamez/mite-php/releases/tag/3.1.0), 5 months ago) - Interact with mite from your PHP application.
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.2.0), 7 months ago) - A PHP library to work with Firebase tokens
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (today)
-- [distantnative/retour-for-kirby](https://github.com/distantnative/retour-for-kirby) - Kirby CMS plugin to manage redirects and track 404s right from the Panel (today)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 day ago)
-- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (3 days ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (4 days ago)
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (4 days ago)
-- [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (5 days ago)
+- [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (1 day ago)
+- [distantnative/retour-for-kirby](https://github.com/distantnative/retour-for-kirby) - Kirby CMS plugin to manage redirects and track 404s right from the Panel (1 day ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 days ago)
+- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (4 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (5 days ago)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (5 days ago)
+- [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (6 days ago)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (1 week ago)
 - [sidz/phpstan-rules](https://github.com/sidz/phpstan-rules) - Additional rules for phpstan/phpstan.  (1 week ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 weeks ago)
