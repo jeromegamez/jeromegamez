@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (today)
 - [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (5 days ago)
 - [distantnative/retour-for-kirby](https://github.com/distantnative/retour-for-kirby) - Kirby CMS plugin to manage redirects and track 404s right from the Panel (5 days ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [utopia-php/framework](https://github.com/utopia-php/framework) - Lite &amp; fast micro PHP framework that is **easy to learn**. (1 week ago)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (2 weeks ago)
 - [sidz/phpstan-rules](https://github.com/sidz/phpstan-rules) - Additional rules for phpstan/phpstan.  (2 weeks ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
