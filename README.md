@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (3 weeks ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -50,7 +50,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 1 week ago) - Google Cloud Client Library for PHP
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 2 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 3 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.6.0](https://github.com/kreait/firebase-php/releases/tag/7.6.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
@@ -64,7 +64,7 @@ projects in the [BESTE](https://github.com/beste),
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (3 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
-- [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
+- [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (5 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (today)
-- [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (today)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (today)
-- [PhotoFolder/PhotoFolder](https://github.com/PhotoFolder/PhotoFolder) - File explorer made for pictures - Auto detect faces and objects locally (1 day ago)
-- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (4 days ago)
+- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (1 day ago)
+- [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (1 day ago)
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (1 day ago)
+- [PhotoFolder/PhotoFolder](https://github.com/PhotoFolder/PhotoFolder) - File explorer made for pictures - Auto detect faces and objects locally (2 days ago)
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (5 days ago)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 week ago)
 - [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (1 week ago)
 - [distantnative/retour-for-kirby](https://github.com/distantnative/retour-for-kirby) - Kirby CMS plugin to manage redirects and track 404s right from the Panel (1 week ago)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 week ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 weeks ago)
 - [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
