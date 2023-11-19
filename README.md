@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel (today)
 - [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (2 days ago)
 - [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (2 days ago)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api) - FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data (2 weeks ago)
 - [distantnative/retour-for-kirby](https://github.com/distantnative/retour-for-kirby) - Kirby CMS plugin to manage redirects and track 404s right from the Panel (2 weeks ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 weeks ago)
-- [lizdotsh/Apple-Photos-DB-Explorer](https://github.com/lizdotsh/Apple-Photos-DB-Explorer) - What does Apple Photos think about you? (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
