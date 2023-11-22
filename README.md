@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (today)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (4 weeks ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 days ago)
+- [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 days ago)
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (3 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (today)
-- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (today)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (today)
-- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (2 days ago)
-- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel (2 days ago)
-- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (4 days ago)
-- [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (4 days ago)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (4 days ago)
-- [PhotoFolder/PhotoFolder](https://github.com/PhotoFolder/PhotoFolder) - File explorer made for pictures - Auto detect faces and objects locally (5 days ago)
+- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (1 day ago)
+- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (1 day ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 day ago)
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (3 days ago)
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel (3 days ago)
+- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (5 days ago)
+- [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (5 days ago)
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (5 days ago)
+- [PhotoFolder/PhotoFolder](https://github.com/PhotoFolder/PhotoFolder) - File explorer made for pictures - Auto detect faces and objects locally (6 days ago)
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
