@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (today)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 day ago)
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (2 days ago)
 - [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (6 days ago)
 - [aws-samples/aws-control-tower-org-setup-sample](https://github.com/aws-samples/aws-control-tower-org-setup-sample) - Automated AWS Organizations configuration for security operations (6 days ago)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (6 days ago)
-- [PhotoFolder/PhotoFolder](https://github.com/PhotoFolder/PhotoFolder) - File explorer made for pictures - Auto detect faces and objects locally (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
