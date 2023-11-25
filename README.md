@@ -48,6 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), today) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), today) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), today) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 2 weeks ago) - Google Cloud Client Library for PHP
@@ -57,7 +58,6 @@ projects in the [BESTE](https://github.com/beste),
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.1.0](https://github.com/jeromegamez/mite-php/releases/tag/3.1.0), 5 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([6.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/6.1.0), 9 months ago) - Type-safe collections based on Laravel Collections
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.1.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.1.0), 10 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 
 #### 🔨 My recent Pull Requests
 
