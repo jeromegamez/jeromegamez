@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.7.0](https://github.com/kreait/firebase-php/releases/tag/7.7.0), today) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), today) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), today) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
