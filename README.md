@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (today)
 - [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (1 day ago)
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (2 days ago)
 - [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (5 days ago)
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (1 week ago)
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel (1 week ago)
-- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
