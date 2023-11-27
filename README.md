@@ -22,8 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
@@ -31,7 +32,6 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 months ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 months ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,6 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), today) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 days ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), 2 days ago) - A PHP library to work with Firebase tokens
@@ -57,7 +58,6 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.1.0](https://github.com/jeromegamez/mite-php/releases/tag/3.1.0), 5 months ago) - Interact with mite from your PHP application.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([6.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/6.1.0), 9 months ago) - Type-safe collections based on Laravel Collections
 
 #### 🔨 My recent Pull Requests
 
