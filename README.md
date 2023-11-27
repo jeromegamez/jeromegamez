@@ -22,14 +22,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 day ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 months ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 months ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 months ago)
 
@@ -48,12 +48,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 1 day ago) - A simple JSON helper to decode and encode JSON
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), 1 day ago) - A PHP library to work with Firebase tokens
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 days ago) - A simple JSON helper to decode and encode JSON
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), 2 days ago) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 4 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.4.0](https://github.com/kreait/laravel-firebase/releases/tag/5.4.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.1.0](https://github.com/jeromegamez/mite-php/releases/tag/3.1.0), 5 months ago) - Interact with mite from your PHP application.
@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (today)
-- [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (1 day ago)
-- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (2 days ago)
-- [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (3 days ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (4 days ago)
-- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (5 days ago)
-- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (5 days ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (5 days ago)
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (1 day ago)
+- [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (2 days ago)
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (3 days ago)
+- [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (4 days ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (5 days ago)
+- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (6 days ago)
+- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (6 days ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (6 days ago)
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (1 week ago)
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tristan-bellosta](https://github.com/tristan-bellosta) (2 days ago)
+- [tristan-bellosta](https://github.com/tristan-bellosta) (3 days ago)
 - [bennyt2](https://github.com/bennyt2) (1 year ago)
 
 #### 👯 Check out some of my recent followers
