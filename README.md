@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [bnomei/kirby-blueprints](https://github.com/bnomei/kirby-blueprints) - Kirby Ink - PHP Class based Blueprints for Kirby CMS (today)
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (1 day ago)
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (2 days ago)
 - [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (1 week ago)
 - [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (1 week ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
-- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
