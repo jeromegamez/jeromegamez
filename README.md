@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 day ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -48,10 +48,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), today) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 days ago) - A simple JSON helper to decode and encode JSON
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), 2 days ago) - A PHP library to work with Firebase tokens
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 1 day ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 3 days ago) - A simple JSON helper to decode and encode JSON
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.8.0](https://github.com/kreait/firebase-php/releases/tag/7.8.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.0.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.0.0), 3 days ago) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 day ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (3 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
@@ -70,24 +71,23 @@ projects in the [BESTE](https://github.com/beste),
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (5 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
-- [Populate mfaInfo from list instead of assuming a single object](https://github.com/kreait/firebase-php/pull/784) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (today)
-- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (1 day ago)
-- [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (2 days ago)
-- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (3 days ago)
-- [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (4 days ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (5 days ago)
-- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (6 days ago)
-- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (6 days ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (6 days ago)
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (1 day ago)
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (2 days ago)
+- [Locastic/Loggastic](https://github.com/Locastic/Loggastic) - Symfony bundle for logging activity logs to ElasticSearch (3 days ago)
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (4 days ago)
+- [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (5 days ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (6 days ago)
+- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (1 week ago)
+- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (1 week ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tristan-bellosta](https://github.com/tristan-bellosta) (3 days ago)
+- [tristan-bellosta](https://github.com/tristan-bellosta) (4 days ago)
 - [bennyt2](https://github.com/bennyt2) (1 year ago)
 
 #### 👯 Check out some of my recent followers
