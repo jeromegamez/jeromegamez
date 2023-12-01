@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [Whapi-Cloud](https://github.com/Whapi-Cloud)
 - [gogl92](https://github.com/gogl92)
 - [Zuruuh](https://github.com/Zuruuh)
 - [chaibin](https://github.com/chaibin)
 - [szepeviktor](https://github.com/szepeviktor)
-- [williamdes](https://github.com/williamdes)
 
 #### 💬 Feedback
 
