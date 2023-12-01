@@ -48,13 +48,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.227.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.227.0), today) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.5.0](https://github.com/kreait/laravel-firebase/releases/tag/5.5.0), today) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.1.1](https://github.com/kreait/firebase-bundle/releases/tag/5.1.1), today) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.0](https://github.com/kreait/firebase-php/releases/tag/7.9.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 1 day ago) - A PHP library to work with Firebase tokens
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 4 days ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 6 days ago) - A simple JSON helper to decode and encode JSON
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.226.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.226.0), 3 weeks ago) - Google Cloud Client Library for PHP
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 4 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([2.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/2.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
@@ -74,6 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action (today)
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (today)
+- [mauricerenck/pexels-image-field](https://github.com/mauricerenck/pexels-image-field) -  (today)
 - [bnomei/kirby-blueprints](https://github.com/bnomei/kirby-blueprints) - Kirby Ink - PHP Class based Blueprints for Kirby CMS (3 days ago)
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (4 days ago)
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (5 days ago)
@@ -81,9 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (1 week ago)
 - [porscheofficial/terraform-aws-ecr-watch](https://github.com/porscheofficial/terraform-aws-ecr-watch) - A Dashboard for AWS ECR usage based on CloudWatch log insight queries (1 week ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 week ago)
-- [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian (1 week ago)
-- [brick/varexporter](https://github.com/brick/varexporter) - A powerful alternative to var_export(), which can export closures and objects without __set_state() (1 week ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
