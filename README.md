@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 days ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (3 days ago)
