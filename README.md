@@ -87,16 +87,17 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [therohitdas](https://github.com/therohitdas) (today)
 - [tristan-bellosta](https://github.com/tristan-bellosta) (1 week ago)
 - [bennyt2](https://github.com/bennyt2) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
+- [therohitdas](https://github.com/therohitdas)
 - [suendri](https://github.com/suendri)
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
 - [gogl92](https://github.com/gogl92)
 - [Zuruuh](https://github.com/Zuruuh)
-- [chaibin](https://github.com/chaibin)
 
 #### 💬 Feedback
 
