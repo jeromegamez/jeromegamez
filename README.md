@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (today)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (today)
 - [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (1 day ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 day ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (5 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (1 week ago)
 - [mauricerenck/pexels-image-field](https://github.com/mauricerenck/pexels-image-field) -  (1 week ago)
 - [bnomei/kirby-blueprints](https://github.com/bnomei/kirby-blueprints) - Kirby Ink - PHP Class based Blueprints for Kirby CMS (1 week ago)
-- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI (1 week ago)
-- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don&#39;t let friends make certain types of data visualization - What are they and why are they bad.  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
