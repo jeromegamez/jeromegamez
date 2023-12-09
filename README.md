@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (today)
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (today)
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (today)
 - [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action (1 week ago)
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (1 week ago)
 - [mauricerenck/pexels-image-field](https://github.com/mauricerenck/pexels-image-field) -  (1 week ago)
-- [bnomei/kirby-blueprints](https://github.com/bnomei/kirby-blueprints) - Kirby Ink - PHP Class based Blueprints for Kirby CMS (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
