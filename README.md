@@ -48,6 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.0), today) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.229.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.229.0), 2 days ago) - Google Cloud Client Library for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 6 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 1 week ago) - Unofficial Firebase Admin SDK for PHP
@@ -56,7 +57,6 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 2 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 weeks ago) - A simple JSON helper to decode and encode JSON
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.2](https://github.com/milanvarady/Applite/releases/tag/v1.2.2), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
 
 #### 🔨 My recent Pull Requests
