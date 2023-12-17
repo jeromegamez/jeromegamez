@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration date (today)
 - [barryvdh/composer-cleanup-plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Composer plugin for cleaning up unused files from packages. (5 days ago)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform (1 week ago)
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 week ago)
 - [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (1 week ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
