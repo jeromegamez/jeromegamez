@@ -75,7 +75,7 @@ projects in the [BESTE](https://github.com/beste),
 #### ⭐ Recent Stars
 
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan (3 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration date/version (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration (3 days ago)
 - [barryvdh/composer-cleanup-plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Composer plugin for cleaning up unused files from packages. (1 week ago)
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment (1 week ago)
 - [alpipego/workerist](https://github.com/alpipego/workerist) - Cloudflare worker for serverless private PHP package repository. (1 week ago)
