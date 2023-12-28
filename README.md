@@ -93,11 +93,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [rubekx](https://github.com/rubekx)
 - [therohitdas](https://github.com/therohitdas)
 - [suendri](https://github.com/suendri)
 - [Whapi-Cloud](https://github.com/Whapi-Cloud)
 - [gogl92](https://github.com/gogl92)
-- [Zuruuh](https://github.com/Zuruuh)
 
 #### 💬 Feedback
 
