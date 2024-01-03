@@ -88,7 +88,6 @@ projects in the [BESTE](https://github.com/beste),
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [magnuswikhog](https://github.com/magnuswikhog) (3 weeks ago)
-- [therohitdas](https://github.com/therohitdas) (1 month ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
