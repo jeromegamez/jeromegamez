@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator (today)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (3 days ago)
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (4 days ago)
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [kenshodigital/kirby-htmldoc](https://github.com/kenshodigital/kirby-htmldoc) - Minifies HTML5 output for Kirby templates. (2 weeks ago)
 - [WyriHaximus/phpstan-reactphp](https://github.com/WyriHaximus/phpstan-reactphp) - ReactPHP extension for PHPStan (3 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - Todo comments with expiration (3 weeks ago)
-- [barryvdh/composer-cleanup-plugin](https://github.com/barryvdh/composer-cleanup-plugin) - Composer plugin for cleaning up unused files from packages. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
