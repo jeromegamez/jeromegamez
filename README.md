@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (3 days ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (5 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (6 days ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (3 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (4 weeks ago)
