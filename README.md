@@ -30,8 +30,8 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 month ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 month ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 month ago)
 
 #### 🌱 My latest projects
 
