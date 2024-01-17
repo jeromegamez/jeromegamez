@@ -48,10 +48,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.3](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.3), today) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.6.0](https://github.com/kreait/laravel-firebase/releases/tag/5.6.0), 5 days ago) - A Laravel package for the Firebase PHP Admin SDK
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.231.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.231.0), 5 days ago) - Google Cloud Client Library for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.0), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.1.1](https://github.com/kreait/firebase-bundle/releases/tag/5.1.1), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
