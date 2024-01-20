@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 weeks ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.232.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.232.0), today) - Google Cloud Client Library for PHP
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 2 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.232.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.232.0), 1 day ago) - Google Cloud Client Library for PHP
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 3 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.6.0](https://github.com/kreait/laravel-firebase/releases/tag/5.6.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (5 days ago)
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (5 days ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (6 days ago)
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (6 days ago)
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator (1 week ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (2 weeks ago)
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (2 weeks ago)
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (2 weeks ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 weeks ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (3 weeks ago)
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application (4 weeks ago)
-- [kenshodigital/kirby-htmldoc](https://github.com/kenshodigital/kirby-htmldoc) - Minifies HTML5 output for Kirby templates. (4 weeks ago)
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application (1 month ago)
+- [kenshodigital/kirby-htmldoc](https://github.com/kenshodigital/kirby-htmldoc) - Minifies HTML5 output for Kirby templates. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
