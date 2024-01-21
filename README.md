@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (today)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 week ago)
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator (2 weeks ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 weeks ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (3 weeks ago)
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application (1 month ago)
-- [kenshodigital/kirby-htmldoc](https://github.com/kenshodigital/kirby-htmldoc) - Minifies HTML5 output for Kirby templates. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
