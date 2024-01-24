@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 weeks ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 weeks ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.232.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.232.0), 4 days ago) - Google Cloud Client Library for PHP
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 6 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.232.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.232.0), 5 days ago) - Google Cloud Client Library for PHP
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.6.0](https://github.com/kreait/laravel-firebase/releases/tag/5.6.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -57,7 +57,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.1.1](https://github.com/kreait/firebase-bundle/releases/tag/5.1.1), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 1 month ago) - A simple JSON helper to decode and encode JSON
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 months ago) - A simple JSON helper to decode and encode JSON
 
 #### 🔨 My recent Pull Requests
 
@@ -69,19 +69,19 @@ projects in the [BESTE](https://github.com/beste),
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (7 months ago)
-- [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
+- [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
 - [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 day ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 days ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (2 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (3 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 week ago)
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator (2 weeks ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (2 weeks ago)
-- [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (2 weeks ago)
-- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (2 weeks ago)
+- [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux &amp; Windows. (3 weeks ago)
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation (3 weeks ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (3 weeks ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (3 weeks ago)
 
