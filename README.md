@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (today)
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (2 days ago)
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data (5 days ago)
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It&#39;s just plain PHP. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 weeks ago)
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator (3 weeks ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
