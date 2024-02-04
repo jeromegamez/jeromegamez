@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [lornajane/developer-style-guide](https://github.com/lornajane/developer-style-guide) - Writing style guide for technical documentation, aimed at non-specialist writers, such as software developers (today)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (today)
-- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (2 days ago)
-- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data (5 days ago)
+- [lornajane/developer-style-guide](https://github.com/lornajane/developer-style-guide) - Writing style guide for technical documentation, aimed at non-specialist writers, such as software developers (1 day ago)
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (1 day ago)
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose (3 days ago)
+- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data (6 days ago)
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It&#39;s just plain PHP. (1 week ago)
 - [dseguy/phptips](https://github.com/dseguy/phptips) - A treasure trove of PHP tips and tricks, from Internet!  (1 week ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 week ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 week ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 weeks ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 weeks ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
