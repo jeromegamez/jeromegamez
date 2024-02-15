@@ -22,14 +22,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 month ago)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 month ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 months ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 months ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
 
@@ -48,11 +48,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.234.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.234.0), 5 days ago) - Google Cloud Client Library for PHP
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.234.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.234.0), 6 days ago) - Google Cloud Client Library for PHP
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 3 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 4 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.6.0](https://github.com/kreait/laravel-firebase/releases/tag/5.6.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 2 months ago) - A PHP library to work with Firebase tokens
@@ -74,10 +74,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [timnarr/kirby-imagex](https://github.com/timnarr/kirby-imagex) - Modern Images for Kirby CMS – This plugin helps you orchestrate modern, responsive and performant images in Kirby. (3 days ago)
-- [ramsey/asdf-php](https://github.com/ramsey/asdf-php) - PHP plugin for the asdf version manager (4 days ago)
-- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱 (5 days ago)
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration (6 days ago)
+- [timnarr/kirby-imagex](https://github.com/timnarr/kirby-imagex) - Modern Images for Kirby CMS – This plugin helps you orchestrate modern, responsive and performant images in Kirby. (4 days ago)
+- [ramsey/asdf-php](https://github.com/ramsey/asdf-php) - PHP plugin for the asdf version manager (5 days ago)
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱 (6 days ago)
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration (1 week ago)
 - [jeromegamez/ansible-macos-playbook](https://github.com/jeromegamez/ansible-macos-playbook) - macOs setup and configuration via Ansible. (1 week ago)
 - [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) - A symbol font for sketchybar, initialized with the symbols from simple-bar (1 week ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
