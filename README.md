@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [php-tui/cli-parser](https://github.com/php-tui/cli-parser) - Type-safe CLI argument parser (today)
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (4 days ago)
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible. (6 days ago)
 - [timnarr/kirby-imagex](https://github.com/timnarr/kirby-imagex) - Modern Images for Kirby CMS – This plugin helps you orchestrate modern, responsive and performant images in Kirby. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/ansible-macos-playbook](https://github.com/jeromegamez/ansible-macos-playbook) - macOs setup and configuration via Ansible. (2 weeks ago)
 - [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) - A symbol font for sketchybar, initialized with the symbols from simple-bar (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
