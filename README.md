@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 days ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -48,16 +48,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.2), today) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.7.0](https://github.com/kreait/laravel-firebase/releases/tag/5.7.0), 3 days ago) - A Laravel package for the Firebase PHP Admin SDK
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.235.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.235.0), 6 days ago) - Google Cloud Client Library for PHP
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.2), 1 day ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.7.0](https://github.com/kreait/laravel-firebase/releases/tag/5.7.0), 4 days ago) - A Laravel package for the Firebase PHP Admin SDK
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.235.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.235.0), 1 week ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 4 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.0.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.0.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 2 months ago) - A PHP library to work with Firebase tokens
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 2 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 2 months ago) - A simple JSON helper to decode and encode JSON
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 3 months ago) - A simple JSON helper to decode and encode JSON
 
 #### 🔨 My recent Pull Requests
 
@@ -69,21 +69,21 @@ projects in the [BESTE](https://github.com/beste),
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (8 months ago)
-- [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
+- [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [php-tui/cli-parser](https://github.com/php-tui/cli-parser) - Type-safe CLI argument parser (today)
-- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (4 days ago)
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible. (6 days ago)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 day ago)
+- [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs (1 day ago)
+- [php-tui/cli-parser](https://github.com/php-tui/cli-parser) - Type-safe CLI argument parser (1 day ago)
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (5 days ago)
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible. (1 week ago)
 - [timnarr/kirby-imagex](https://github.com/timnarr/kirby-imagex) - Modern Images for Kirby CMS – This plugin helps you orchestrate modern, responsive and performant images in Kirby. (1 week ago)
 - [ramsey/asdf-php](https://github.com/ramsey/asdf-php) - PHP plugin for the asdf version manager (1 week ago)
-- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱 (1 week ago)
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱 (2 weeks ago)
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration (2 weeks ago)
 - [jeromegamez/ansible-macos-playbook](https://github.com/jeromegamez/ansible-macos-playbook) - macOs setup and configuration via Ansible. (2 weeks ago)
-- [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font) - A symbol font for sketchybar, initialized with the symbols from simple-bar (2 weeks ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
