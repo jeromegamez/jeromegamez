@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (today)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (5 days ago)
 - [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [timnarr/kirby-imagex](https://github.com/timnarr/kirby-imagex) - Modern Images for Kirby CMS – This plugin helps you orchestrate modern, responsive and performant images in Kirby. (2 weeks ago)
 - [ramsey/asdf-php](https://github.com/ramsey/asdf-php) - PHP plugin for the asdf version manager (2 weeks ago)
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱 (2 weeks ago)
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
