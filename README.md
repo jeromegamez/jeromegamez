@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 day ago)
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (1 day ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 weeks ago)
 - [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs (2 weeks ago)
-- [php-tui/cli-parser](https://github.com/php-tui/cli-parser) - Type-safe CLI argument parser (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
