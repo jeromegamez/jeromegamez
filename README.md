@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.3](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.3), 4 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.3](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.3), 5 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.237.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.237.0), 1 week ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.3](https://github.com/milanvarady/Applite/releases/tag/v1.2.3), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
@@ -74,10 +74,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (today)
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 day ago)
-- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (1 day ago)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (6 days ago)
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (1 day ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (2 days ago)
+- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (2 days ago)
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (1 week ago)
