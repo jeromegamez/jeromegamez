@@ -22,14 +22,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (today)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 day ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 week ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 weeks ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 weeks ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 months ago)
 
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), today) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 1 day ago) - A Laravel package for the Firebase PHP Admin SDK
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.3](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.3), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.237.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.237.0), 1 week ago) - Google Cloud Client Library for PHP
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 days ago)
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (4 days ago)
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (5 days ago)
-- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (5 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 days ago)
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (5 days ago)
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (6 days ago)
+- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (6 days ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 📦 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (2 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 weeks ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 weeks ago)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
