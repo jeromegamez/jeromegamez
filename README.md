@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [iangrunt/multi-cloud-terragrunt-filesystem](https://github.com/iangrunt/multi-cloud-terragrunt-filesystem) -  (today)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (5 days ago)
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (6 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 📦 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (2 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 weeks ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
