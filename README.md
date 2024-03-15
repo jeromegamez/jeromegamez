@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.238.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.238.0), today) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 2 days ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.237.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.237.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.3](https://github.com/milanvarady/Applite/releases/tag/v1.2.3), 2 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
