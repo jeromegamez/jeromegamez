@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [hammer-tools/php-hammer](https://github.com/hammer-tools/php-hammer) - PHP Hammer is an inspections and tools plugin compatible with Intellij IDEA / PhpStorm. (today)
 - [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform (1 day ago)
 - [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform (1 day ago)
 - [iangrunt/multi-cloud-terragrunt-filesystem](https://github.com/iangrunt/multi-cloud-terragrunt-filesystem) -  (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (1 week ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 weeks ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
