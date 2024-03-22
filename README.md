@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.239.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.239.0), today) - Google Cloud Client Library for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 5 days ago) - Type-safe collections based on Laravel Collections
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.238.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.238.0), 1 week ago) - Google Cloud Client Library for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 3 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.3](https://github.com/milanvarady/Applite/releases/tag/v1.2.3), 3 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
