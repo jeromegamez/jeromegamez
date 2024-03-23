@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (today)
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for HTML and terminal (1 day ago)
 - [phranck/Amazon-Alternativen](https://github.com/phranck/Amazon-Alternativen) - Shopping Alternativen für den deutschsprachigen Raum (6 days ago)
 - [hammer-tools/php-hammer](https://github.com/hammer-tools/php-hammer) - PHP Hammer is an inspections and tools plugin compatible with Intellij IDEA / PhpStorm. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (2 weeks ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (2 weeks ago)
-- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
