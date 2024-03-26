@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (today)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (7 months ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (9 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
-- [Add backward compatibility checks](https://github.com/kreait/firebase-php/pull/792) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 
 #### ⭐ Recent Stars
 
