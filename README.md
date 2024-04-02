@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (5 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (today)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 5 days ago) - Interact with mite from your PHP application.
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 6 days ago) - Interact with mite from your PHP application.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.239.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.239.0), 1 week ago) - Google Cloud Client Library for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 2 weeks ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -56,12 +56,12 @@ projects in the [BESTE](https://github.com/beste),
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.3](https://github.com/milanvarady/Applite/releases/tag/v1.2.3), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 3 months ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.9.1](https://github.com/kreait/firebase-php/releases/tag/7.9.1), 4 months ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([4.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/4.3.0), 4 months ago) - A PHP library to work with Firebase tokens
 
 #### 🔨 My recent Pull Requests
 
-- [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 days ago)
+- [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (7 months ago)
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (1 day ago)
-- [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured. (4 days ago)
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (2 days ago)
+- [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured. (5 days ago)
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (1 week ago)
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal (1 week ago)
 - [phranck/Amazon-Alternativen](https://github.com/phranck/Amazon-Alternativen) - Shopping Alternativen für den deutschsprachigen Raum (2 weeks ago)
