@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (today)
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (2 days ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (2 days ago)
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [phranck/Amazon-Alternativen](https://github.com/phranck/Amazon-Alternativen) - Shopping Alternativen für den deutschsprachigen Raum (2 weeks ago)
 - [hammer-tools/php-hammer](https://github.com/hammer-tools/php-hammer) - PHP Hammer is an inspections and tools plugin compatible with Intellij IDEA / PhpStorm. (2 weeks ago)
 - [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform (3 weeks ago)
-- [gruntwork-io/terragrunt-infrastructure-live-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
