@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (4 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (5 days ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 weeks ago)
@@ -50,7 +50,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 week ago) - Interact with mite from your PHP application.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.239.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.239.0), 2 weeks ago) - Google Cloud Client Library for PHP
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 2 weeks ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 3 weeks ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.3](https://github.com/milanvarady/Applite/releases/tag/v1.2.3), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
@@ -64,7 +64,7 @@ projects in the [BESTE](https://github.com/beste),
 - [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
-- [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (7 months ago)
+- [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (8 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
@@ -74,14 +74,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (1 day ago)
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (3 days ago)
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (3 days ago)
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (6 days ago)
+- [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (2 days ago)
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (4 days ago)
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (4 days ago)
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (1 week ago)
 - [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured. (1 week ago)
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (2 weeks ago)
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal (2 weeks ago)
-- [phranck/Amazon-Alternativen](https://github.com/phranck/Amazon-Alternativen) - Shopping Alternativen für den deutschsprachigen Raum (2 weeks ago)
+- [phranck/Amazon-Alternativen](https://github.com/phranck/Amazon-Alternativen) - Shopping Alternativen für den deutschsprachigen Raum (3 weeks ago)
 - [hammer-tools/php-hammer](https://github.com/hammer-tools/php-hammer) - PHP Hammer is an inspections and tools plugin compatible with Intellij IDEA / PhpStorm. (3 weeks ago)
 - [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform (3 weeks ago)
 
