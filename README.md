@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (today)
 - [Excoriate/terragrunt-ref-arch](https://github.com/Excoriate/terragrunt-ref-arch) - Highly scalable and available reference architecture for Terragrunt. (2 days ago)
 - [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (3 days ago)
 - [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ciccionamente/WeExpire](https://github.com/ciccionamente/WeExpire) - WeExpire is the first opensource tool for creating emergency notes that can be read by your trusted contacts only after your death or if you are seriously injured. (2 weeks ago)
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file. (3 weeks ago)
 - [tempestphp/highlight](https://github.com/tempestphp/highlight) - 🎨 Fast, extensible, server-side code highlighting for web and terminal (3 weeks ago)
-- [hammer-tools/php-hammer](https://github.com/hammer-tools/php-hammer) - PHP Hammer is an inspections and tools plugin compatible with Intellij IDEA / PhpStorm. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
