@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
@@ -48,10 +48,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.241.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.241.0), 3 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.241.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.241.0), 4 days ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 2 weeks ago) - Interact with mite from your PHP application.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 4 weeks ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.2.0](https://github.com/kreait/firebase-bundle/releases/tag/5.2.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
@@ -61,23 +61,23 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Try improving performance and reliability by using HTTP 2.0](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (8 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
-- [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
+- [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (10 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (2 days ago)
-- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (2 days ago)
-- [Excoriate/terragrunt-ref-arch](https://github.com/Excoriate/terragrunt-ref-arch) - Highly scalable and available reference architecture for Terragrunt. (4 days ago)
-- [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (5 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (3 days ago)
+- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (3 days ago)
+- [Excoriate/terragrunt-ref-arch](https://github.com/Excoriate/terragrunt-ref-arch) - Highly scalable and available reference architecture for Terragrunt. (5 days ago)
+- [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (6 days ago)
 - [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (1 week ago)
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (1 week ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 week ago)
