@@ -75,7 +75,7 @@ projects in the [BESTE](https://github.com/beste),
 #### ⭐ Recent Stars
 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 day ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - A lightweight but also all-inclusive event sourcing library with a focus on developer experience and based on doctrine dbal (4 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (4 days ago)
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (4 days ago)
 - [Excoriate/terragrunt-ref-arch](https://github.com/Excoriate/terragrunt-ref-arch) - Highly scalable and available reference architecture for Terragrunt. (6 days ago)
 - [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (1 week ago)
