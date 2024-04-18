@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [xvelasqu](https://github.com/xvelasqu)
 - [thesoorajsingh](https://github.com/thesoorajsingh)
 - [0x0elliot](https://github.com/0x0elliot)
 - [Pardeshi-Aditya](https://github.com/Pardeshi-Aditya)
 - [Bdiwy](https://github.com/Bdiwy)
-- [acbhaskar1](https://github.com/acbhaskar1)
 
 #### 💬 Feedback
 
