@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.241.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.241.0), 6 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.241.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.241.0), 1 week ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 3 weeks ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
@@ -74,12 +74,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 days ago)
-- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (5 days ago)
-- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (5 days ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (3 days ago)
+- [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (6 days ago)
+- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (6 days ago)
 - [Excoriate/terragrunt-ref-arch](https://github.com/Excoriate/terragrunt-ref-arch) - Highly scalable and available reference architecture for Terragrunt. (1 week ago)
 - [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (1 week ago)
-- [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (1 week ago)
+- [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (2 weeks ago)
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (2 weeks ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (2 weeks ago)
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (2 weeks ago)
