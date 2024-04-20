@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (today)
+- [jsonsystems/public](https://github.com/jsonsystems/public) -  (today)
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (1 day ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (4 days ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (1 week ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [tungbq/AWSHub](https://github.com/tungbq/AWSHub) - 📚 Collection of AWS Services documentation and learning resources ☁️ (1 week ago)
 - [RIASorg/optimized-php-image](https://github.com/RIASorg/optimized-php-image) - An optimized PHP Docker Image (2 weeks ago)
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams (2 weeks ago)
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (2 weeks ago)
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
