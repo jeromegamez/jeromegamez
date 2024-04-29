@@ -22,14 +22,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (3 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 month ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 months ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 months ago)
 
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.243.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.243.0), 2 days ago) - Google Cloud Client Library for PHP
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.243.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.243.0), 3 days ago) - Google Cloud Client Library for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 3 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (5 days ago)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (5 days ago)
+- [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (6 days ago)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (6 days ago)
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language. (1 week ago)
 - [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (1 week ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (1 week ago)
