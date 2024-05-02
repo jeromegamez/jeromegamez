@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (4 weeks ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.243.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.243.0), 5 days ago) - Google Cloud Client Library for PHP
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 6 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.243.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.243.0), 6 days ago) - Google Cloud Client Library for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 3 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (1 day ago)
 - [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (1 week ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 week ago)
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (1 week ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 weeks ago)
 - [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) - An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience. (2 weeks ago)
-- [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
