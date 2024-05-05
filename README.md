@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 1 day ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 2 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 3 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 4 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -69,13 +69,13 @@ projects in the [BESTE](https://github.com/beste),
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
-- [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (10 months ago)
+- [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (11 months ago)
 - [Allow adding Guzzle Config options and middlewares](https://github.com/kreait/firebase-php/pull/799) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (1 day ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (3 days ago)
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (2 days ago)
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (4 days ago)
 - [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (1 week ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 week ago)
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language. (2 weeks ago)
