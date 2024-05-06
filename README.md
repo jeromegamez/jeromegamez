@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 2 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 3 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 4 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (2 days ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (4 days ago)
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (3 days ago)
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (5 days ago)
 - [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (1 week ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 week ago)
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language. (2 weeks ago)
