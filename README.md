@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 3 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 4 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.10.0](https://github.com/kreait/firebase-php/releases/tag/7.10.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 4 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.4](https://github.com/milanvarady/Applite/releases/tag/v1.2.4), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 1 month ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -64,7 +64,7 @@ projects in the [BESTE](https://github.com/beste),
 - [Improve throughput when sending FCM Messages by using HTTP/2](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Add support for setting additional options when creating the Firestore component](https://github.com/kreait/firebase-php/pull/840) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
-- [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (8 months ago)
+- [Add Orion to the &#34;Browsers&#34; category](https://github.com/milanvarady/Applite/pull/21) on [milanvarady/Applite](https://github.com/milanvarady/Applite) (9 months ago)
 - [Use same Client Config for the used `CachedKeySet` as in the other components](https://github.com/kreait/firebase-php/pull/813) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (3 days ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (5 days ago)
-- [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (1 week ago)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 week ago)
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (4 days ago)
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (6 days ago)
+- [tempestphp/tempest-console](https://github.com/tempestphp/tempest-console) - Frictionless command line interfaces with PHP (2 weeks ago)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (2 weeks ago)
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language. (2 weeks ago)
 - [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (2 weeks ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (2 weeks ago)
 - [jsonsystems/public](https://github.com/jsonsystems/public) -  (2 weeks ago)
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (2 weeks ago)
-- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 weeks ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
