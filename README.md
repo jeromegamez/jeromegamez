@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 month ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 2 days ago) - User-friendly GUI macOS application for Homebrew Casks
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.11.0](https://github.com/kreait/firebase-php/releases/tag/7.11.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 3 days ago) - User-friendly GUI macOS application for Homebrew Casks
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.11.0](https://github.com/kreait/firebase-php/releases/tag/7.11.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 1 week ago) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.244.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.244.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 1 month ago) - Interact with mite from your PHP application.
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (1 day ago)
-- [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud (3 days ago)
+- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (2 days ago)
+- [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud (4 days ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
 - [mongodb/mongo-php-builder](https://github.com/mongodb/mongo-php-builder) - (experimental) Aggregation and Query Builder for the MongoDB PHP Driver (1 week ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) -  (1 week ago)
