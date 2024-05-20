@@ -22,6 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (today)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
@@ -29,9 +30,8 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 months ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 months ago)
-- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 months ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -91,11 +91,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [proweb](https://github.com/proweb)
 - [WyriHaximus](https://github.com/WyriHaximus)
 - [riyadamr](https://github.com/riyadamr)
 - [alihardan](https://github.com/alihardan)
 - [sammorozov](https://github.com/sammorozov)
-- [xvelasqu](https://github.com/xvelasqu)
 
 #### 💬 Feedback
 
