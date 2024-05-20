@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (today)
 - [Add support for setting client properties](https://github.com/jakubkulhan/bunny/pull/150) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
 - [Improve throughput when sending FCM Messages by using HTTP/2](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Simplify convoluted Dynamic Link operations](https://github.com/kreait/firebase-php/pull/810) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 - [Use FCM HTTP V1 Api for Batch Messaging](https://github.com/kreait/firebase-php/pull/805) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (11 months ago)
 - [Add support for Remote Config Parameter Value Types](https://github.com/kreait/firebase-php/pull/801) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (11 months ago)
-- [feat: Enable the usage of `&#34;psr/http-message&#34;: &#34;^1.0|^2.0&#34;`](https://github.com/googleapis/google-cloud-php/pull/6338) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (11 months ago)
 
 #### ⭐ Recent Stars
 
