@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (1 day ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.245.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.245.0), 5 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.246.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.246.0), 1 day ago) - Google Cloud Client Library for PHP
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.11.0](https://github.com/kreait/firebase-php/releases/tag/7.11.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 2 weeks ago) - A PHP library to work with Firebase tokens
@@ -61,21 +61,21 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 day ago)
-- [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 days ago)
-- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 days ago)
-- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 days ago)
-- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 days ago)
-- [Add support for setting client properties](https://github.com/jakubkulhan/bunny/pull/150) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
-- [Improve throughput when sending FCM Messages by using HTTP/2](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
+- [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 days ago)
+- [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 days ago)
+- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 days ago)
+- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 days ago)
+- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 days ago)
+- [Add support for setting client properties](https://github.com/jakubkulhan/bunny/pull/150) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [Improve throughput when sending FCM Messages by using HTTP/2](https://github.com/kreait/firebase-php/pull/874) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
+- [Release 8.0](https://github.com/kreait/firebase-php/pull/847) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (2 days ago)
-- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (3 days ago)
+- [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (3 days ago)
+- [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (4 days ago)
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (1 week ago)
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud (1 week ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (2 weeks ago)
