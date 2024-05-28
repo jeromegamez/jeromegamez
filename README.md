@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (today)
 - [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  (3 days ago)
 - [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (6 days ago)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [mongodb/mongo-php-builder](https://github.com/mongodb/mongo-php-builder) - (experimental) Aggregation and Query Builder for the MongoDB PHP Driver (2 weeks ago)
 - [MammatusPHP/queue](https://github.com/MammatusPHP/queue) -  (2 weeks ago)
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform (3 weeks ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
