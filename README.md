@@ -22,11 +22,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (5 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (6 days ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
@@ -48,22 +48,22 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.3.0](https://github.com/kreait/firebase-bundle/releases/tag/5.3.0), 1 day ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.12.0](https://github.com/kreait/firebase-php/releases/tag/7.12.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.246.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.246.0), 5 days ago) - Google Cloud Client Library for PHP
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 1 week ago) - User-friendly GUI macOS application for Homebrew Casks
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.3.0](https://github.com/kreait/firebase-bundle/releases/tag/5.3.0), 2 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.12.0](https://github.com/kreait/firebase-php/releases/tag/7.12.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.246.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.246.0), 6 days ago) - Google Cloud Client Library for PHP
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 2 weeks ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 2 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 2 months ago) - Type-safe collections based on Laravel Collections
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.8.0](https://github.com/kreait/laravel-firebase/releases/tag/5.8.0), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 3 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 5 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 
 #### 🔨 My recent Pull Requests
 
-- [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 days ago)
-- [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
-- [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (6 days ago)
+- [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 days ago)
+- [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
+- [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 week ago)
 - [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
-- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (1 day ago)
-- [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  (4 days ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 days ago)
+- [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (2 days ago)
+- [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  (5 days ago)
 - [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (1 week ago)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (1 week ago)
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (1 week ago)
