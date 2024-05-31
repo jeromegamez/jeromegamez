@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool (today)
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (3 days ago)
 - [cspray/assert-throws](https://github.com/cspray/assert-throws) - A library for testing complex exceptions (3 days ago)
 - [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud (2 weeks ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (3 weeks ago)
 - [mongodb/mongo-php-builder](https://github.com/mongodb/mongo-php-builder) - (experimental) Aggregation and Query Builder for the MongoDB PHP Driver (3 weeks ago)
-- [MammatusPHP/queue](https://github.com/MammatusPHP/queue) -  (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
