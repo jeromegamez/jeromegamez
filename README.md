@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (today)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - Swiss knife in pocket of every upgrade architect! (3 days ago)
 - [chillerlan/php-oauth](https://github.com/chillerlan/php-oauth) - A fully transparent, framework agnostic PSR-18 OAuth client. (3 days ago)
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (2 weeks ago)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (2 weeks ago)
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (2 weeks ago)
-- [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
