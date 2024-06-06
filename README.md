@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain (today)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 day ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - Swiss knife in pocket of every upgrade architect! (4 days ago)
 - [chillerlan/php-oauth](https://github.com/chillerlan/php-oauth) - A fully transparent, framework agnostic PSR-18 OAuth client. (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php) - Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  (1 week ago)
 - [ajgarlag/AjglBreakpointTwigExtension](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints (2 weeks ago)
 - [ecoAPM/php-libyear](https://github.com/ecoAPM/php-libyear) - A simple measure of dependency freshness (2 weeks ago)
-- [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A Symfony bundle to backup, restore and anonymize your data (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
