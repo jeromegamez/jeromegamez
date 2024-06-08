@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation (today)
+- [azjezz/assess](https://github.com/azjezz/assess) - Unix filesystem notifications library for PHP. (today)
 - [remind101/empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS) (1 day ago)
 - [flavioheleno/php-active-releases-action](https://github.com/flavioheleno/php-active-releases-action) - This action retrieves a list of active PHP Releases (2 days ago)
 - [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird) - Truly independent web browser (2 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (3 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - Swiss knife in pocket of every upgrade architect! (6 days ago)
 - [chillerlan/php-oauth](https://github.com/chillerlan/php-oauth) - A fully transparent, framework agnostic PSR-18 OAuth client. (6 days ago)
-- [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool (1 week ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
