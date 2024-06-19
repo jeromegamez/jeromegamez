@@ -65,21 +65,21 @@ projects in the [BESTE](https://github.com/beste),
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
 - [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (3 weeks ago)
-- [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
-- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
-- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
-- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 weeks ago)
-- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (4 weeks ago)
+- [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
+- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
+- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
+- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
+- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 - [Add support for setting client properties](https://github.com/jakubkulhan/bunny/pull/150) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (1 day ago)
-- [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal (2 days ago)
-- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (2 days ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 days ago)
-- [darkphnx/ical-filter-proxy](https://github.com/darkphnx/ical-filter-proxy) - Reads an iCal URL, parses it according to user defined rules and serves a filtered version (3 days ago)
-- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (3 days ago)
+- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (2 days ago)
+- [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal (3 days ago)
+- [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (3 days ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (4 days ago)
+- [darkphnx/ical-filter-proxy](https://github.com/darkphnx/ical-filter-proxy) - Reads an iCal URL, parses it according to user defined rules and serves a filtered version (4 days ago)
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (4 days ago)
 - [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute (1 week ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 week ago)
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation (1 week ago)
@@ -87,6 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [Paco777](https://github.com/Paco777) (1 day ago)
 - [wdes](https://github.com/wdes) (1 week ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
