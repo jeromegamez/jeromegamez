@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (today)
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (1 day ago)
 - [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (6 days ago)
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (1 week ago)
 - [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute (2 weeks ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (2 weeks ago)
-- [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
