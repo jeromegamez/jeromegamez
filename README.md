@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (today)
 - [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 - [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
-- [Add support for setting client properties](https://github.com/jakubkulhan/bunny/pull/150) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 
 #### ⭐ Recent Stars
 
@@ -87,6 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [exitable](https://github.com/exitable) (today)
 - [Paco777](https://github.com/Paco777) (1 week ago)
 - [wdes](https://github.com/wdes) (2 weeks ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
