@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [rickclephas/KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - Library to use AndroidX/Kotlin ViewModels with SwiftUI (today)
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (1 day ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (1 week ago)
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 weeks ago)
 - [darkphnx/ical-filter-proxy](https://github.com/darkphnx/ical-filter-proxy) - Reads an iCal URL, parses it according to user defined rules and serves a filtered version (2 weeks ago)
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block. (2 weeks ago)
-- [akrabat/ip-address-middleware](https://github.com/akrabat/ip-address-middleware) - PSR-7 Middleware that determines the client IP address and stores it as an ServerRequest attribute (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
