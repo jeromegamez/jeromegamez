@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (today)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 day ago)
 - [rickclephas/KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - Library to use AndroidX/Kotlin ViewModels with SwiftUI (1 day ago)
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal (2 weeks ago)
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (2 weeks ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 weeks ago)
-- [darkphnx/ical-filter-proxy](https://github.com/darkphnx/ical-filter-proxy) - Reads an iCal URL, parses it according to user defined rules and serves a filtered version (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
