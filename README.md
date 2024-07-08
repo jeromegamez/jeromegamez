@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.13.1](https://github.com/kreait/firebase-php/releases/tag/7.13.1), 5 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.13.1](https://github.com/kreait/firebase-php/releases/tag/7.13.1), 6 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.3.0](https://github.com/kreait/firebase-bundle/releases/tag/5.3.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (6 days ago)
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (1 week ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 week ago)
 - [rickclephas/KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - Library to use AndroidX/Kotlin ViewModels with SwiftUI (1 week ago)
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (1 week ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (2 weeks ago)
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (2 weeks ago)
-- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (2 weeks ago)
+- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (3 weeks ago)
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal (3 weeks ago)
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. (3 weeks ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 weeks ago)
@@ -89,7 +89,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [exitable](https://github.com/exitable) (1 week ago)
 - [Paco777](https://github.com/Paco777) (2 weeks ago)
-- [wdes](https://github.com/wdes) (3 weeks ago)
+- [wdes](https://github.com/wdes) (4 weeks ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
