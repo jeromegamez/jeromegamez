@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 day ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
-- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (1 day ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 day ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 day ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 day ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 day ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
+- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (2 days ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 days ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 days ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -48,13 +48,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 6 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 1 week ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.13.1](https://github.com/kreait/firebase-php/releases/tag/7.13.1), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 1 month ago) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 2 months ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 2 months ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 3 months ago) - Interact with mite from your PHP application.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 3 months ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 4 months ago) - Type-safe collections based on Laravel Collections
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.1.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.1.0), 4 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 7 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 7 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (1 day ago)
-- [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (3 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (1 week ago)
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (2 days ago)
+- [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (4 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (2 weeks ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 weeks ago)
 - [rickclephas/KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - Library to use AndroidX/Kotlin ViewModels with SwiftUI (2 weeks ago)
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (2 weeks ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 weeks ago)
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (3 weeks ago)
-- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (3 weeks ago)
+- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
