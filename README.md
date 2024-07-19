@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (5 days ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (5 days ago)
-- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (5 days ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (5 days ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (5 days ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (5 days ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (5 days ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (5 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (5 days ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (6 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
+- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (6 days ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (6 days ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (6 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (6 days ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -61,20 +61,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 - [Replace `elseif`s with early returns in `Connection`](https://github.com/jakubkulhan/bunny/pull/153) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
 - [Migrate local ignores to `@phpstan-ignore` and address them](https://github.com/kreait/firebase-php/pull/898) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
-- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (1 month ago)
+- [Catch `Throwable` and let the exception converter handle details](https://github.com/kreait/firebase-php/pull/896) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
+- [Fix `WebPushNotification` Shape](https://github.com/kreait/firebase-php/pull/895) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
+- [Generate better connections](https://github.com/jakubkulhan/bunny/pull/152) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 months ago)
+- [Remove unreachable condition and bring PHPStan to Level5](https://github.com/jakubkulhan/bunny/pull/151) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (5 days ago)
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (6 days ago)
 - [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (1 week ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (2 weeks ago)
@@ -87,8 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [exitable](https://github.com/exitable) (2 weeks ago)
-- [Paco777](https://github.com/Paco777) (1 month ago)
+- [exitable](https://github.com/exitable) (3 weeks ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
