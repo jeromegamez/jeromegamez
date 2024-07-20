@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (6 days ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
-- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (6 days ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (6 days ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (6 days ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (6 days ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (6 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (6 days ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 week ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
+- [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (1 week ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 week ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 week ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (6 days ago)
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (1 week ago)
 - [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (1 week ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. (2 weeks ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 weeks ago)
 - [rickclephas/KMP-ObservableViewModel](https://github.com/rickclephas/KMP-ObservableViewModel) - Library to use AndroidX/Kotlin ViewModels with SwiftUI (2 weeks ago)
-- [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (2 weeks ago)
+- [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (3 weeks ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 weeks ago)
-- [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (3 weeks ago)
+- [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (4 weeks ago)
 - [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
