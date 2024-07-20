@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (today)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (1 week ago)
 - [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (1 week ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (3 weeks ago)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (3 weeks ago)
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time (4 weeks ago)
-- [mikhail-m1/axe](https://github.com/mikhail-m1/axe) - AWS CloudWatch log viewer (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
