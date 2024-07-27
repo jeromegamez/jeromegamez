@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (today)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (3 days ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (3 days ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (1 week ago)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (2 weeks ago)
 - [MicahParks/jwkset](https://github.com/MicahParks/jwkset) - A JWK and JWK Set implementation. An auto-cachine JWK Set HTTP client is provided. Generate, validate, and inspect JWKs. Self-host this project&#39;s website: https://jwkset.com (2 weeks ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
