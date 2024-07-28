@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [omariu5](https://github.com/omariu5)
 - [minhquandeveloper](https://github.com/minhquandeveloper)
 - [Horpey](https://github.com/Horpey)
 - [AK-1000](https://github.com/AK-1000)
 - [proweb](https://github.com/proweb)
-- [WyriHaximus](https://github.com/WyriHaximus)
 
 #### 💬 Feedback
 
