@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (6 days ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (6 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 week ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 weeks ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 weeks ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 weeks ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (today)
-- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (2 days ago)
-- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (6 days ago)
+- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (1 day ago)
+- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (3 days ago)
+- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (1 week ago)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (1 week ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (1 week ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 week ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 week ago)
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (1 week ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (1 week ago)
-- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (1 week ago)
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (2 weeks ago)
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
