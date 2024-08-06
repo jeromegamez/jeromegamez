@@ -25,8 +25,8 @@ projects in the [BESTE](https://github.com/beste),
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 week ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 week ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 weeks ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE Filesystem for your Google calendar (1 day ago)
-- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (1 day ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (1 day ago)
-- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (3 days ago)
-- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (5 days ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE Filesystem for your Google calendar (2 days ago)
+- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (2 days ago)
+- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (2 days ago)
+- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (4 days ago)
+- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (6 days ago)
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (1 week ago)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (1 week ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (1 week ago)
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (1 week ago)
+- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 weeks ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
