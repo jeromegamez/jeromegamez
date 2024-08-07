@@ -49,7 +49,7 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔭 Latest releases I've contributed to
 
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.2.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.2.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 4 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.13.1](https://github.com/kreait/firebase-php/releases/tag/7.13.1), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 2 months ago) - User-friendly GUI macOS application for Homebrew Casks
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE Filesystem for your Google calendar (2 days ago)
-- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (2 days ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (2 days ago)
-- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (4 days ago)
-- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (6 days ago)
+- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (1 day ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (3 days ago)
+- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (3 days ago)
+- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (3 days ago)
+- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (5 days ago)
+- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (1 week ago)
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (1 week ago)
-- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (1 week ago)
-- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (1 week ago)
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (2 weeks ago)
+- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 weeks ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
