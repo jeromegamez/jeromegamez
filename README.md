@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 week ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 weeks ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 weeks ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 weeks ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (4 weeks ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 weeks ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 weeks ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (3 days ago)
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (5 days ago)
-- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (5 days ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (5 days ago)
+- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (4 days ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (6 days ago)
+- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (6 days ago)
+- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (6 days ago)
 - [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (1 week ago)
 - [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (1 week ago)
-- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (1 week ago)
+- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (2 weeks ago)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (2 weeks ago)
 - [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 weeks ago)
