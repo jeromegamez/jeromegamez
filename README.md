@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (4 days ago)
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (6 days ago)
-- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (6 days ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (6 days ago)
+- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (1 day ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
+- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (5 days ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
+- [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (1 week ago)
+- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (1 week ago)
 - [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (1 week ago)
 - [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (1 week ago)
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (2 weeks ago)
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues (2 weeks ago)
-- [event-driven-io/Pongo](https://github.com/event-driven-io/Pongo) - Pongo - Mongo but on Postgres and with strong consistency benefits (2 weeks ago)
-- [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
