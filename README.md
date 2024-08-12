@@ -27,11 +27,11 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (4 weeks ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 weeks ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 weeks ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 month ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -52,16 +52,16 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.13.1](https://github.com/kreait/firebase-php/releases/tag/7.13.1), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) ([v1.2.5](https://github.com/milanvarady/Applite/releases/tag/v1.2.5), 2 months ago) - User-friendly GUI macOS application for Homebrew Casks
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 3 months ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 4 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 4 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 7 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 8 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 8 months ago) - A simple JSON helper to decode and encode JSON
 
 #### 🔨 My recent Pull Requests
 
-- [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (1 day ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
-- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (5 days ago)
+- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (2 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 days ago)
+- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (6 days ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (1 week ago)
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (1 week ago)
