@@ -54,7 +54,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.1.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.1.0), 3 months ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 4 months ago) - Interact with mite from your PHP application.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 4 months ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 5 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 8 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 8 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [beste/json](https://github.com/beste/json) ([1.3.0](https://github.com/beste/json/releases/tag/1.3.0), 8 months ago) - A simple JSON helper to decode and encode JSON
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (1 day ago)
-- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (3 days ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (3 days ago)
+- [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (2 days ago)
+- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (4 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (4 days ago)
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (1 week ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (1 week ago)
 - [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (1 week ago)
 - [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers (1 week ago)
-- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (1 week ago)
+- [aws-ia/terraform-aws-iam-identity-center](https://github.com/aws-ia/terraform-aws-iam-identity-center) -  (2 weeks ago)
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
