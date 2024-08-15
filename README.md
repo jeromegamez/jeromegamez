@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (2 days ago)
-- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (4 days ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (4 days ago)
+- [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (3 days ago)
+- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (5 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (5 days ago)
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (1 week ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (1 week ago)
