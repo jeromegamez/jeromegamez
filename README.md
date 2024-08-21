@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (today)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (1 day ago)
 - [florianziegler/kirby-photo-stats](https://github.com/florianziegler/kirby-photo-stats) - Calculate and display statistics about the photos you published on your blog. (1 day ago)
 - [aws-samples/secured-bastion-host-terraform](https://github.com/aws-samples/secured-bastion-host-terraform) - This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instance Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys. (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin (2 weeks ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (2 weeks ago)
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons (2 weeks ago)
-- [incidentalhq/incidental](https://github.com/incidentalhq/incidental) - An opensource incident management platform integrating with Slack. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
