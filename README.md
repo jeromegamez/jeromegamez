@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (today)
 - [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (1 day ago)
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (5 days ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [aws-samples/secured-bastion-host-terraform](https://github.com/aws-samples/secured-bastion-host-terraform) - This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instance Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys. (1 week ago)
 - [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (2 weeks ago)
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (2 weeks ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
