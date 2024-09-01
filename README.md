@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (5 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (6 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 5 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 6 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.14.0](https://github.com/kreait/firebase-php/releases/tag/7.14.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.0](https://github.com/beste/json/releases/tag/1.5.0), 2 weeks ago) - A simple JSON helper to decode and encode JSON
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (1 day ago)
-- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (2 days ago)
-- [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (6 days ago)
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (1 day ago)
+- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (2 days ago)
+- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (3 days ago)
+- [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (1 week ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (1 week ago)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (1 week ago)
 - [florianziegler/kirby-photo-stats](https://github.com/florianziegler/kirby-photo-stats) - Calculate and display statistics about the photos you published on your blog. (1 week ago)
-- [aws-samples/secured-bastion-host-terraform](https://github.com/aws-samples/secured-bastion-host-terraform) - This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instance Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys. (1 week ago)
+- [aws-samples/secured-bastion-host-terraform](https://github.com/aws-samples/secured-bastion-host-terraform) - This project provides and example of how you can use the combination of AWS Systems Manager Session Manager and Amazon EC2 Instance Connect to securely connect to an Amazon Elastic Compute Cloud (Amazon EC2) bastion host without exposing any inbound ports to the public internet or using long-lived SSH keys. (2 weeks ago)
 - [vanodevium/toml](https://github.com/vanodevium/toml) - PHP library for encoding and decoding TOML (2 weeks ago)
-- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
