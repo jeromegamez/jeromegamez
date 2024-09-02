@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (6 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 6 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.14.0](https://github.com/kreait/firebase-php/releases/tag/7.14.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.0](https://github.com/beste/json/releases/tag/1.5.0), 2 weeks ago) - A simple JSON helper to decode and encode JSON
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
+- [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (2 weeks ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -74,10 +74,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (today)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (1 day ago)
-- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (2 days ago)
-- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (3 days ago)
+- [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (1 day ago)
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (2 days ago)
+- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (3 days ago)
+- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (4 days ago)
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (1 week ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (1 week ago)
