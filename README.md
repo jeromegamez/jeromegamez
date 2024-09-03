@@ -82,7 +82,7 @@ projects in the [BESTE](https://github.com/beste),
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (1 week ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (1 week ago)
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities. (2 weeks ago)
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities (2 weeks ago)
 - [florianziegler/kirby-photo-stats](https://github.com/florianziegler/kirby-photo-stats) - Calculate and display statistics about the photos you published on your blog. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
