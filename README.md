@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration (2 days ago)
-- [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (3 days ago)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (4 days ago)
-- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (5 days ago)
-- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (6 days ago)
+- [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration (3 days ago)
+- [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (4 days ago)
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (5 days ago)
+- [contributte/framex](https://github.com/contributte/framex) - 🥾 Bootloader for Framework X and Nette Framework (@nette). (6 days ago)
+- [incident-io/terraform-provider-incident](https://github.com/incident-io/terraform-provider-incident) - This project is the official terraform provider for incident.io. (1 week ago)
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem (1 week ago)
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system. (1 week ago)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better. (2 weeks ago)
