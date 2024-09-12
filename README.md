@@ -78,7 +78,7 @@ projects in the [BESTE](https://github.com/beste),
 - [arokettu/composer-license-manager](https://github.com/arokettu/composer-license-manager) - License management plugin for Composer (3 days ago)
 - [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers (4 days ago)
 - [aws-ia/terraform-aws-permission-sets](https://github.com/aws-ia/terraform-aws-permission-sets) -  (5 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - PHP unused code detection via PHPStan extension. (1 week ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (1 week ago)
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. (1 week ago)
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration (1 week ago)
 - [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (1 week ago)
