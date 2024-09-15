@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [milospetkovic](https://github.com/milospetkovic)
 - [mohammedterfa](https://github.com/mohammedterfa)
 - [AlexTodessa](https://github.com/AlexTodessa)
 - [nocturnalDev11](https://github.com/nocturnalDev11)
 - [standardgalactic](https://github.com/standardgalactic)
-- [zeon-neon](https://github.com/zeon-neon)
 
 #### 💬 Feedback
 
