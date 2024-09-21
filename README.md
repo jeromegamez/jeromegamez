@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (3 weeks ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
@@ -53,7 +53,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.0](https://github.com/beste/json/releases/tag/1.5.0), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.4.0](https://github.com/kreait/firebase-bundle/releases/tag/5.4.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 5 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 6 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 9 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 days ago)
+- [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 days ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (1 month ago)
@@ -74,12 +74,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (3 days ago)
-- [spriebsch/eventstore](https://github.com/spriebsch/eventstore) - Lightweight Sqlite-based Event Store. (3 days ago)
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (4 days ago)
+- [spriebsch/eventstore](https://github.com/spriebsch/eventstore) - Lightweight Sqlite-based Event Store. (4 days ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (1 week ago)
 - [arokettu/composer-license-manager](https://github.com/arokettu/composer-license-manager) - License management plugin for Composer (1 week ago)
 - [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers (1 week ago)
-- [aws-ia/terraform-aws-permission-sets](https://github.com/aws-ia/terraform-aws-permission-sets) -  (1 week ago)
+- [aws-ia/terraform-aws-permission-sets](https://github.com/aws-ia/terraform-aws-permission-sets) -  (2 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (2 weeks ago)
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. (2 weeks ago)
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration (2 weeks ago)
@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [crattanak89](https://github.com/crattanak89)
 - [JSn1nj4](https://github.com/JSn1nj4)
 - [milospetkovic](https://github.com/milospetkovic)
 - [mohammedterfa](https://github.com/mohammedterfa)
 - [AlexTodessa](https://github.com/AlexTodessa)
-- [nocturnalDev11](https://github.com/nocturnalDev11)
 
 #### 💬 Feedback
 
