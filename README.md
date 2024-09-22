@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (today)
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (5 days ago)
 - [spriebsch/eventstore](https://github.com/spriebsch/eventstore) - Lightweight Sqlite-based Event Store. (5 days ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (2 weeks ago)
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. (2 weeks ago)
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration (2 weeks ago)
-- [kevinswiber/postman2openapi](https://github.com/kevinswiber/postman2openapi) - Convert a Postman collection to an OpenAPI definition. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
