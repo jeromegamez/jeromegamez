@@ -74,14 +74,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1 (3 days ago)
-- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (5 days ago)
+- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1 (4 days ago)
+- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (6 days ago)
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 - [spriebsch/eventstore](https://github.com/spriebsch/eventstore) - Lightweight Sqlite-based Event Store. (1 week ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (2 weeks ago)
 - [arokettu/composer-license-manager](https://github.com/arokettu/composer-license-manager) - License management plugin for Composer (2 weeks ago)
 - [mirkolenz/nixos](https://github.com/mirkolenz/nixos) - Personal nix-based configuration for all my computers and servers (2 weeks ago)
-- [aws-ia/terraform-aws-permission-sets](https://github.com/aws-ia/terraform-aws-permission-sets) -  (2 weeks ago)
+- [aws-ia/terraform-aws-permission-sets](https://github.com/aws-ia/terraform-aws-permission-sets) -  (3 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. (3 weeks ago)
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. (3 weeks ago)
 
@@ -92,11 +92,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
-- [DarmorGamz](https://github.com/DarmorGamz)
 - [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 - [crattanak89](https://github.com/crattanak89)
 - [JSn1nj4](https://github.com/JSn1nj4)
 - [milospetkovic](https://github.com/milospetkovic)
+- [mohammedterfa](https://github.com/mohammedterfa)
 
 #### 💬 Feedback
 
