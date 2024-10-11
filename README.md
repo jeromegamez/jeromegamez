@@ -31,7 +31,7 @@ projects in the [BESTE](https://github.com/beste),
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 month ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 months ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket. (1 day ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software. (1 day ago)
-- [dantleech/gherkin-lint-php](https://github.com/dantleech/gherkin-lint-php) - PHP Gherkin Linter (1 day ago)
-- [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (4 days ago)
-- [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (4 days ago)
+- [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket. (2 days ago)
+- [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software. (2 days ago)
+- [dantleech/gherkin-lint-php](https://github.com/dantleech/gherkin-lint-php) - PHP Gherkin Linter (2 days ago)
+- [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (5 days ago)
+- [shish/safe](https://github.com/shish/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (5 days ago)
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator (1 week ago)
 - [WyriHaximus/github-workflows](https://github.com/WyriHaximus/github-workflows) - Shared GitHub Actions Workflows (1 week ago)
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1 (2 weeks ago)
