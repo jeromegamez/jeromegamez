@@ -67,27 +67,27 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (2 months ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
-- [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
+- [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Replace `*Enum` classes with a native Enums](https://github.com/jakubkulhan/bunny/pull/154) on [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 days ago)
-- [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (2 days ago)
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (4 days ago)
-- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text (5 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (6 days ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 days ago)
+- [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (3 days ago)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (5 days ago)
+- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text (6 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 week ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan (1 week ago)
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
-- [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) - 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream. (1 week ago)
+- [fspoettel/linkding-on-fly](https://github.com/fspoettel/linkding-on-fly) - 🔖 Run linkding on fly.io. Backup the bookmark DB to cloud storage with litestream. (2 weeks ago)
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [exitable](https://github.com/exitable) (3 months ago)
+- [exitable](https://github.com/exitable) (4 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
