@@ -87,6 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [beitomartinez](https://github.com/beitomartinez) (today)
 - [exitable](https://github.com/exitable) (4 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
