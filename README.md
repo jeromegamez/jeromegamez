@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (5 days ago)
-- [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (5 days ago)
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (5 days ago)
-- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (6 days ago)
+- [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (6 days ago)
+- [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (6 days ago)
+- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (6 days ago)
+- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (1 week ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 week ago)
 - [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (1 week ago)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (1 week ago)
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text (1 week ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 weeks ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [beitomartinez](https://github.com/beitomartinez) (2 days ago)
+- [beitomartinez](https://github.com/beitomartinez) (3 days ago)
 - [exitable](https://github.com/exitable) (4 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
