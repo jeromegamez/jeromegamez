@@ -74,7 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (1 day ago)
+- [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (2 days ago)
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (1 week ago)
 - [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (1 week ago)
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (1 week ago)
