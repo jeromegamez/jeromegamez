@@ -56,7 +56,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 4 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 7 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 7 months ago) - Type-safe collections based on Laravel Collections
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 10 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 11 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.2.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.2.0), 11 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 
 #### 🔨 My recent Pull Requests
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [matvp91/superstreamer](https://github.com/matvp91/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (1 day ago)
-- [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (5 days ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 day ago)
+- [matvp91/superstreamer](https://github.com/matvp91/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (2 days ago)
+- [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (6 days ago)
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (2 weeks ago)
 - [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (2 weeks ago)
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (2 weeks ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 weeks ago)
 - [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (2 weeks ago)
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (2 weeks ago)
-- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text (3 weeks ago)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
