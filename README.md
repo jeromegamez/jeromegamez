@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 weeks ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.5.0](https://github.com/kreait/firebase-bundle/releases/tag/5.5.0), 3 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.5.0](https://github.com/kreait/firebase-bundle/releases/tag/5.5.0), 4 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.15.0](https://github.com/kreait/firebase-php/releases/tag/7.15.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 2 months ago) - A PHP library to work with Firebase tokens
@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 days ago)
-- [matvp91/superstreamer](https://github.com/matvp91/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (3 days ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (3 days ago)
+- [matvp91/superstreamer](https://github.com/matvp91/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (4 days ago)
 - [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (1 week ago)
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (2 weeks ago)
 - [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (2 weeks ago)
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (2 weeks ago)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 weeks ago)
-- [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (2 weeks ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 weeks ago)
+- [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (3 weeks ago)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [beitomartinez](https://github.com/beitomartinez) (1 week ago)
+- [beitomartinez](https://github.com/beitomartinez) (2 weeks ago)
 - [exitable](https://github.com/exitable) (4 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
