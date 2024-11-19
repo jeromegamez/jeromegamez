@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (3 days ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 week ago)
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (3 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 weeks ago)
-- [maantje/charts](https://github.com/maantje/charts) - Make SVG charts with PHP (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
