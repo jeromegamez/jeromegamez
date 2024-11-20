@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
@@ -48,12 +48,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.5.0](https://github.com/kreait/firebase-bundle/releases/tag/5.5.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 3 months ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.0](https://github.com/beste/json/releases/tag/1.5.0), 3 months ago) - A simple JSON helper to decode and encode JSON
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 4 months ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.9.1](https://github.com/kreait/laravel-firebase/releases/tag/5.9.1), 5 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.2.0](https://github.com/jeromegamez/mite-php/releases/tag/3.2.0), 7 months ago) - Interact with mite from your PHP application.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 8 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 11 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
-- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (3 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (4 days ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 week ago)
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (1 week ago)
 - [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (2 weeks ago)
@@ -83,11 +83,11 @@ projects in the [BESTE](https://github.com/beste),
 - [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (3 weeks ago)
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (3 weeks ago)
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 weeks ago)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 weeks ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [beitomartinez](https://github.com/beitomartinez) (2 weeks ago)
+- [beitomartinez](https://github.com/beitomartinez) (3 weeks ago)
 - [exitable](https://github.com/exitable) (4 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
