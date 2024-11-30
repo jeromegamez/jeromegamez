@@ -74,21 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (1 day ago)
-- [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips. (4 days ago)
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 day ago)
+- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (2 days ago)
+- [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips. (5 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
-- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (1 week ago)
+- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (2 weeks ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 weeks ago)
-- [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (2 weeks ago)
+- [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (3 weeks ago)
 - [hoo29/little-timmy](https://github.com/hoo29/little-timmy) - Little Timmy will try their best to find those unused Ansible variables (3 weeks ago)
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates. (1 month ago)
 - [psantus/php-serverless-lambda-bref-terraform](https://github.com/psantus/php-serverless-lambda-bref-terraform) -  (1 month ago)
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [CONSTANTlNE](https://github.com/CONSTANTlNE) (6 days ago)
-- [beitomartinez](https://github.com/beitomartinez) (1 month ago)
+- [CONSTANTlNE](https://github.com/CONSTANTlNE) (1 week ago)
 - [exitable](https://github.com/exitable) (5 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
