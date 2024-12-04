@@ -22,12 +22,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 weeks ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (3 weeks ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 months ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 months ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 months ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (3 months ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 months ago)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (2 days ago)
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (3 days ago)
-- [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (3 days ago)
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (4 days ago)
-- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (5 days ago)
+- [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (3 days ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (4 days ago)
+- [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (4 days ago)
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (5 days ago)
+- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (6 days ago)
 - [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips. (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 weeks ago)
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (2 weeks ago)
