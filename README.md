@@ -87,6 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [notdefine](https://github.com/notdefine) (today)
 - [CONSTANTlNE](https://github.com/CONSTANTlNE) (1 week ago)
 - [exitable](https://github.com/exitable) (5 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
