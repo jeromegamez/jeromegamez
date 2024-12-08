@@ -49,7 +49,7 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔭 Latest releases I've contributed to
 
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.10.0](https://github.com/kreait/laravel-firebase/releases/tag/5.10.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.5.0](https://github.com/kreait/firebase-bundle/releases/tag/5.5.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 3 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.0), 3 months ago) - A PHP library to work with Firebase tokens
@@ -74,7 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (6 days ago)
+- [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (1 week ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
 - [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (1 week ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (1 week ago)
@@ -82,12 +82,12 @@ projects in the [BESTE](https://github.com/beste),
 - [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips. (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 weeks ago)
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (3 weeks ago)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (3 weeks ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (4 weeks ago)
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [notdefine](https://github.com/notdefine) (3 days ago)
+- [notdefine](https://github.com/notdefine) (4 days ago)
 - [CONSTANTlNE](https://github.com/CONSTANTlNE) (2 weeks ago)
 - [exitable](https://github.com/exitable) (5 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
