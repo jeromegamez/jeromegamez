@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [lennartzellmer](https://github.com/lennartzellmer)
 - [tobiasdossinger](https://github.com/tobiasdossinger)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [vilouvitale](https://github.com/vilouvitale)
 - [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
-- [crattanak89](https://github.com/crattanak89)
 
 #### 💬 Feedback
 
