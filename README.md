@@ -22,11 +22,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (5 days ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (5 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (6 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (6 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application. (2 weeks ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.3.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.3.0), 5 days ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 5 days ago) - A PHP library to work with Firebase tokens
-- [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 6 days ago) - A simple JSON helper to decode and encode JSON
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.3.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.3.0), 6 days ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 6 days ago) - A PHP library to work with Firebase tokens
+- [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 1 week ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 2 weeks ago) - Interact with mite from your PHP application.
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.10.0](https://github.com/kreait/laravel-firebase/releases/tag/5.10.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
@@ -69,19 +69,19 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
-- [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
+- [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [Use environment variables only for integration test dependencies](https://github.com/kreait/firebase-php/pull/901) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (2 days ago)
-- [driftingly/rector-laravel](https://github.com/driftingly/rector-laravel) - Rector upgrades rules for Laravel (5 days ago)
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (3 days ago)
+- [driftingly/rector-laravel](https://github.com/driftingly/rector-laravel) - Rector upgrades rules for Laravel (6 days ago)
 - [ergebnis/json](https://github.com/ergebnis/json) - 📃 Provides a composer package with a Json value object for representing a valid JSON string. (2 weeks ago)
 - [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (3 weeks ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (3 weeks ago)
 - [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (3 weeks ago)
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (3 weeks ago)
-- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (3 weeks ago)
+- [Depaa/terraform-aws-security-baseline](https://github.com/Depaa/terraform-aws-security-baseline) - *READY TO USE* Terraform baseline for implementing essential AWS security best practices, including Organizations, SSO, MFA, SCPs, Budget Alarms, CloudTrail, and secure S3 configuration. Automate your AWS account security setup with infrastructure as code. (4 weeks ago)
 - [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips. (1 month ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 month ago)
 
