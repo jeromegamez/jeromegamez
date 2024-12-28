@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (today)
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (1 day ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (2 days ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [bopjesvla/tiny-static-map](https://github.com/bopjesvla/tiny-static-map) -  (3 weeks ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (4 weeks ago)
 - [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (4 weeks ago)
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -94,10 +94,10 @@ projects in the [BESTE](https://github.com/beste),
 #### 👯 Check out some of my recent followers
 
 - [Michael-King9812](https://github.com/Michael-King9812)
-- [alirezajavadigit](https://github.com/alirezajavadigit)
 - [lennartzellmer](https://github.com/lennartzellmer)
 - [tobiasdossinger](https://github.com/tobiasdossinger)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
+- [vilouvitale](https://github.com/vilouvitale)
 
 #### 💬 Feedback
 
