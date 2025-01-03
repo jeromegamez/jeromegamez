@@ -77,7 +77,7 @@ projects in the [BESTE](https://github.com/beste),
 - [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
 - [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (6 days ago)
-- [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (1 week ago)
+- [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (1 week ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (1 week ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (1 week ago)
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (1 week ago)
