@@ -56,12 +56,12 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.0](https://github.com/kreait/firebase-php/releases/tag/7.16.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.5.0](https://github.com/kreait/firebase-bundle/releases/tag/5.5.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 4 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 9 months ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 10 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.1.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.1.0), 1 year ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 
 #### 🔨 My recent Pull Requests
 
-- [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 days ago)
+- [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 days ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (1 month ago)
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
@@ -77,7 +77,7 @@ projects in the [BESTE](https://github.com/beste),
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations. (1 week ago)
 - [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
-- [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (1 week ago)
+- [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (2 weeks ago)
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (2 weeks ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (2 weeks ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (2 weeks ago)
