@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (today)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (1 week ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (2 weeks ago)
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations. (4 weeks ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (1 month ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (1 month ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (1 month ago)
-- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
