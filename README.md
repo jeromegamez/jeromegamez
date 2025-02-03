@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 weeks ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.1](https://github.com/kreait/firebase-php/releases/tag/7.16.1), 1 week ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.1](https://github.com/kreait/firebase-php/releases/tag/7.16.1), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 2 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 1 month ago) - A PHP library to work with Firebase tokens
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
+- [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (2 months ago)
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
@@ -74,7 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (2 days ago)
+- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 day ago)
+- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (3 days ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (3 weeks ago)
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations. (1 month ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (1 month ago)
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/ (1 month ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (1 month ago)
-- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
