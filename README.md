@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (today)
-- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 day ago)
-- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (3 days ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 day ago)
+- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (2 days ago)
+- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (4 days ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 weeks ago)
 - [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (3 weeks ago)
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations. (1 month ago)
