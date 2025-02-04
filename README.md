@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [s0lus](https://github.com/s0lus)
 - [Michael-King9812](https://github.com/Michael-King9812)
 - [lennartzellmer](https://github.com/lennartzellmer)
 - [tobiasdossinger](https://github.com/tobiasdossinger)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 #### 💬 Feedback
 
