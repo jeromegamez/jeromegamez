@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (4 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 weeks ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 3 days ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 4 days ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.1](https://github.com/kreait/firebase-php/releases/tag/7.16.1), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 2 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 3 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 3 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 1 month ago) - A simple JSON helper to decode and encode JSON
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (2 days ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (4 days ago)
-- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (5 days ago)
+- [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (1 day ago)
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects. (1 day ago)
+- [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (1 day ago)
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (1 day ago)
+- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (3 days ago)
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (5 days ago)
+- [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (6 days ago)
 - [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (1 week ago)
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (2 weeks ago)
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (3 weeks ago)
-- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations. (1 month ago)
-- [lumapps/github-actions-validator](https://github.com/lumapps/github-actions-validator) - Enforce github actions revision to prevent security issues with tag. (1 month ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
-- [propjockey/css-api-fetch](https://github.com/propjockey/css-api-fetch) - Make API Requests in CSS and store the response data on :root --vars without JavaScript. (1 month ago)
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 weeks ago)
+- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
