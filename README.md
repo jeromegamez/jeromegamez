@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (today)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (2 days ago)
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects. (2 days ago)
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 week ago)
 - [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (1 week ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 weeks ago)
-- [patchlevel/hydrator](https://github.com/patchlevel/hydrator) - With this library you can hydrate objects from array into objects and back again.  (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
