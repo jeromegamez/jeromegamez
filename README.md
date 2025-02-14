@@ -51,7 +51,7 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 week ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.1](https://github.com/kreait/firebase-php/releases/tag/7.16.1), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 3 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 4 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 2 months ago) - Interact with mite from your PHP application.
@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (4 days ago)
-- [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (6 days ago)
-- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects. (6 days ago)
-- [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (6 days ago)
-- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (6 days ago)
+- [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (5 days ago)
+- [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (1 week ago)
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects. (1 week ago)
+- [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (1 week ago)
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (1 week ago)
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 week ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 week ago)
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 week ago)
-- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (1 week ago)
+- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (2 weeks ago)
 - [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [TeferiHero](https://github.com/TeferiHero) (3 weeks ago)
+- [TeferiHero](https://github.com/TeferiHero) (4 weeks ago)
 - [notdefine](https://github.com/notdefine) (2 months ago)
 - [exitable](https://github.com/exitable) (7 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
