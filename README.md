@@ -22,11 +22,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 week ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 weeks ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application. (2 months ago)
@@ -50,7 +50,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 week ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.16.1](https://github.com/kreait/firebase-php/releases/tag/7.16.1), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 3 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 4 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 1 month ago) - A simple JSON helper to decode and encode JSON
@@ -65,7 +65,7 @@ projects in the [BESTE](https://github.com/beste),
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (2 months ago)
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
-- [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
+- [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (6 months ago)
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
@@ -74,7 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (5 days ago)
+- [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (6 days ago)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (1 week ago)
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects. (1 week ago)
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (1 week ago)
@@ -83,7 +83,7 @@ projects in the [BESTE](https://github.com/beste),
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 week ago)
 - [phikiphp/phiki](https://github.com/phikiphp/phiki) - Syntax highlighting powered by TextMate grammars in PHP. (1 week ago)
 - [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager (2 weeks ago)
-- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (3 weeks ago)
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api) - Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
