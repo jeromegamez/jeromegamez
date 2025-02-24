@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.17.0](https://github.com/kreait/firebase-php/releases/tag/7.17.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.17.0](https://github.com/kreait/firebase-php/releases/tag/7.17.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 2 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
@@ -70,12 +70,13 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [Fix Messaging for outdated environments](https://github.com/kreait/firebase-php/pull/908) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
-- [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
+- [Messaging: Add check if HTTP/2 is supported](https://github.com/kreait/firebase-php/pull/903) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (2 days ago)
-- [JustSteveKing/laravel-flows](https://github.com/JustSteveKing/laravel-flows) - A fluent, modular workflow builder for Laravel that leverages the Pipeline pattern to simplify and organise business logic. (4 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations. (1 day ago)
+- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (3 days ago)
+- [JustSteveKing/laravel-flows](https://github.com/JustSteveKing/laravel-flows) - A fluent, modular workflow builder for Laravel that leverages the Pipeline pattern to simplify and organise business logic. (5 days ago)
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (1 week ago)
 - [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (2 weeks ago)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (2 weeks ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin (2 weeks ago)
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (2 weeks ago)
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (2 weeks ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
