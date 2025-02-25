@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 day ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 weeks ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (3 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 months ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 months ago)
-- [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application. (2 months ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 months ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 months ago)
+- [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,14 +48,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.17.0](https://github.com/kreait/firebase-php/releases/tag/7.17.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 2 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 1 day ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.17.0](https://github.com/kreait/firebase-php/releases/tag/7.17.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 3 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 2 months ago) - A PHP library to work with Firebase tokens
 - [beste/json](https://github.com/beste/json) ([1.5.1](https://github.com/beste/json/releases/tag/1.5.1), 2 months ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 2 months ago) - Interact with mite from your PHP application.
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([5.10.0](https://github.com/kreait/laravel-firebase/releases/tag/5.10.0), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 6 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([7.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/7.1.0), 11 months ago) - Type-safe collections based on Laravel Collections
 
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations. (1 day ago)
-- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (3 days ago)
-- [JustSteveKing/laravel-flows](https://github.com/JustSteveKing/laravel-flows) - A fluent, modular workflow builder for Laravel that leverages the Pipeline pattern to simplify and organise business logic. (5 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations. (2 days ago)
+- [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (4 days ago)
+- [JustSteveKing/laravel-flows](https://github.com/JustSteveKing/laravel-flows) - A fluent, modular workflow builder for Laravel that leverages the Pipeline pattern to simplify and organise business logic. (6 days ago)
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (1 week ago)
 - [psr18-adapter/guzzle](https://github.com/psr18-adapter/guzzle) - PSR-18 adapter for \GuzzleHttp\ClientInterface (2 weeks ago)
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -  (2 weeks ago)
