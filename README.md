@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [php-identifier/identifier](https://github.com/php-identifier/identifier) - Common interfaces for identifiers (today)
 - [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (today)
 - [ramsey/devtools-lib](https://github.com/ramsey/devtools-lib) - 🧰 📚 The library behind ramsey/devtools, allowing for extension of the ramsey/devtools Composer plugin. (3 days ago)
 - [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rulesets and generates compatible reports. (1 week ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations. (2 weeks ago)
 - [DaveLiddament/phpstan-php-language-extensions](https://github.com/DaveLiddament/phpstan-php-language-extensions) - PHPStan extension for validating php-language-extensions (2 weeks ago)
-- [JustSteveKing/laravel-flows](https://github.com/JustSteveKing/laravel-flows) - A fluent, modular workflow builder for Laravel that leverages the Pipeline pattern to simplify and organise business logic. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
