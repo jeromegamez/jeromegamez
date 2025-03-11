@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (today)
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (2 days ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (2 days ago)
 - [php-identifier/identifier](https://github.com/php-identifier/identifier) - Common interfaces for identifiers (2 days ago)
 - [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (2 days ago)
 - [ramsey/devtools-lib](https://github.com/ramsey/devtools-lib) - 🧰 📚 The library behind ramsey/devtools, allowing for extension of the ramsey/devtools Composer plugin. (5 days ago)
 - [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (5 days ago)
-- [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (6 days ago)
+- [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - 📄🔄 Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (6 days ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (1 week ago)
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - Self-healing open source data connector. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect. (1 week ago)
-- [daveshanley/vacuum](https://github.com/daveshanley/vacuum) - vacuum is the worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool. Built in go, it tears through API specs faster than you can think. vacuum is compatible with Spectral rulesets and generates compatible reports. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
