@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (today)
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (2 days ago)
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (4 days ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (1 week ago)
 - [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - 📄🔄 Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (1 week ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (1 week ago)
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - Self-healing open source data connector. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
