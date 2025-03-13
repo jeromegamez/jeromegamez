@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 5 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (1 day ago)
-- [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (3 days ago)
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (3 days ago)
-- [php-identifier/identifier](https://github.com/php-identifier/identifier) - Common interfaces for identifiers (3 days ago)
-- [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (3 days ago)
-- [ramsey/devtools-lib](https://github.com/ramsey/devtools-lib) - 🧰 📚 The library behind ramsey/devtools, allowing for extension of the ramsey/devtools Composer plugin. (6 days ago)
-- [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (6 days ago)
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (2 days ago)
+- [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (4 days ago)
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (4 days ago)
+- [php-identifier/identifier](https://github.com/php-identifier/identifier) - Common interfaces for identifiers (4 days ago)
+- [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (4 days ago)
+- [ramsey/devtools-lib](https://github.com/ramsey/devtools-lib) - 🧰 📚 The library behind ramsey/devtools, allowing for extension of the ramsey/devtools Composer plugin. (1 week ago)
+- [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (1 week ago)
 - [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - 📄🔄 Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (1 week ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (1 week ago)
 - [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - Self-healing open source data connector. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect. (1 week ago)
