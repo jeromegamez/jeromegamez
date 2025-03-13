@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
@@ -82,7 +82,7 @@ projects in the [BESTE](https://github.com/beste),
 - [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (4 days ago)
 - [ramsey/devtools-lib](https://github.com/ramsey/devtools-lib) - 🧰 📚 The library behind ramsey/devtools, allowing for extension of the ramsey/devtools Composer plugin. (1 week ago)
 - [ramsey/devtools](https://github.com/ramsey/devtools) - :toolbox: A Composer plugin to aid PHP library and application development. (1 week ago)
-- [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - 📄🔄 Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (1 week ago)
+- [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) - 📄 🔄 Doxswap is a Laravel package for seamless document conversion using LibreOffice. Effortlessly convert DOCX, PDF, ODT, and more with a simple, elegant API. Supports Laravel storage, configurable settings, and secure file handling. (1 week ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
