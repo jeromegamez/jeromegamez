@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 3 days ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 4 days ago) - Type-safe collections based on Laravel Collections
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (5 days ago)
+- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (6 days ago)
 - [Enable configuring multi factor authentication for a user.](https://github.com/kreait/firebase-php/pull/993) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (3 months ago)
@@ -74,10 +74,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (4 days ago)
-- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (4 days ago)
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (4 days ago)
-- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (5 days ago)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (5 days ago)
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (5 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (5 days ago)
+- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (6 days ago)
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (1 week ago)
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (1 week ago)
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (1 week ago)
