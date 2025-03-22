@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (5 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 months ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 4 days ago) - Type-safe collections based on Laravel Collections
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 5 days ago) - Type-safe collections based on Laravel Collections
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 2 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
@@ -61,10 +61,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (6 days ago)
+- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (1 week ago)
 - [Enable configuring multi factor authentication for a user.](https://github.com/kreait/firebase-php/pull/993) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
-- [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (3 months ago)
+- [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (4 months ago)
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (5 days ago)
-- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (5 days ago)
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (5 days ago)
-- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (6 days ago)
+- [Laragear/Turnstile](https://github.com/Laragear/Turnstile) - Use Cloudflare&#39;s no-CAPTCHA alternative in your Laravel application. (1 day ago)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (6 days ago)
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (6 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (6 days ago)
+- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (1 week ago)
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (1 week ago)
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (1 week ago)
 - [DirectoryTree/ImapEngine](https://github.com/DirectoryTree/ImapEngine) - Integrate IMAP mailbox interaction into your PHP application. (1 week ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 week ago)
 - [php-identifier/identifier](https://github.com/php-identifier/identifier) - Common interfaces for identifiers (1 week ago)
-- [RikudouSage/AwsSdkPhpstan](https://github.com/RikudouSage/AwsSdkPhpstan) - Adds strong typing to return types of the official AWS SDK for PHP (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
