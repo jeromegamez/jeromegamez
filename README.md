@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 week ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 months ago)
@@ -49,7 +49,7 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔭 Latest releases I've contributed to
 
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 1 week ago) - Type-safe collections based on Laravel Collections
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 2 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (1 week ago)
+- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (2 weeks ago)
 - [Enable configuring multi factor authentication for a user.](https://github.com/kreait/firebase-php/pull/993) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (4 months ago)
@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 day ago)
-- [takeshiyu/composer-linker](https://github.com/takeshiyu/composer-linker) - A Composer plugin for linking local packages during development, similar to `npm link`. (4 days ago)
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (5 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (2 days ago)
+- [takeshiyu/composer-linker](https://github.com/takeshiyu/composer-linker) - A Composer plugin for linking local packages during development, similar to `npm link`. (5 days ago)
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (6 days ago)
 - [Laragear/Turnstile](https://github.com/Laragear/Turnstile) - Use Cloudflare&#39;s no-CAPTCHA alternative in your Laravel application. (1 week ago)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (1 week ago)
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (1 week ago)
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container. (1 week ago)
-- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (1 week ago)
+- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (2 weeks ago)
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser (2 weeks ago)
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users can set a timeframe in the application&#39;s settings to perform specific tasks, such as installing or removing an application. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [vigneshgurusamy](https://github.com/vigneshgurusamy) (6 days ago)
+- [vigneshgurusamy](https://github.com/vigneshgurusamy) (1 week ago)
 - [TeferiHero](https://github.com/TeferiHero) (2 months ago)
 - [notdefine](https://github.com/notdefine) (3 months ago)
 - [exitable](https://github.com/exitable) (9 months ago)
