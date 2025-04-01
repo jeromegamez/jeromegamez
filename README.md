@@ -87,11 +87,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [joncojonathan](https://github.com/joncojonathan) (today)
 - [vigneshgurusamy](https://github.com/vigneshgurusamy) (1 week ago)
 - [TeferiHero](https://github.com/TeferiHero) (2 months ago)
 - [notdefine](https://github.com/notdefine) (3 months ago)
 - [exitable](https://github.com/exitable) (9 months ago)
-- [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
