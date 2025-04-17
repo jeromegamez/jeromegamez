@@ -24,7 +24,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 months ago)
@@ -74,12 +74,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [sanmai/sliding-window-counter](https://github.com/sanmai/sliding-window-counter) - Short-lived cache-backed time series with anomaly detection (2 days ago)
-- [sanmai/rate-limiter](https://github.com/sanmai/rate-limiter) -  (3 days ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (3 days ago)
+- [sanmai/sliding-window-counter](https://github.com/sanmai/sliding-window-counter) - Short-lived cache-backed time series with anomaly detection (3 days ago)
+- [sanmai/rate-limiter](https://github.com/sanmai/rate-limiter) -  (4 days ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (4 days ago)
 - [govigilant/vigilant](https://github.com/govigilant/vigilant) - Open Source Web Monitoring (1 week ago)
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript (2 weeks ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (2 weeks ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 weeks ago)
 - [takeshiyu/composer-linker](https://github.com/takeshiyu/composer-linker) - A Composer plugin for linking local packages during development, similar to `npm link`. (3 weeks ago)
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (3 weeks ago)
 - [Laragear/Turnstile](https://github.com/Laragear/Turnstile) - Use Cloudflare&#39;s no-CAPTCHA alternative in your Laravel application. (3 weeks ago)
@@ -89,7 +89,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [joncojonathan](https://github.com/joncojonathan) (2 weeks ago)
 - [vigneshgurusamy](https://github.com/vigneshgurusamy) (3 weeks ago)
-- [TeferiHero](https://github.com/TeferiHero) (2 months ago)
+- [TeferiHero](https://github.com/TeferiHero) (3 months ago)
 - [notdefine](https://github.com/notdefine) (4 months ago)
 - [exitable](https://github.com/exitable) (9 months ago)
 
