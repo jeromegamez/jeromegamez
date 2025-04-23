@@ -57,7 +57,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 3 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 4 months ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 4 months ago) - Interact with mite from your PHP application.
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 7 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 8 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 
 #### 🔨 My recent Pull Requests
 
@@ -74,24 +74,24 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - FIG PSR3 PHPStan rules (today)
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (1 day ago)
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (1 day ago)
+- [ungoogled-software/ungoogled-chromium-macos](https://github.com/ungoogled-software/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium (1 day ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - FIG PSR3 PHPStan rules (1 day ago)
 - [sanmai/sliding-window-counter](https://github.com/sanmai/sliding-window-counter) - Short-lived cache-backed time series with anomaly detection (1 week ago)
 - [sanmai/rate-limiter](https://github.com/sanmai/rate-limiter) -  (1 week ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
 - [govigilant/vigilant](https://github.com/govigilant/vigilant) - Open Source Web Monitoring (2 weeks ago)
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript (3 weeks ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 weeks ago)
-- [takeshiyu/composer-linker](https://github.com/takeshiyu/composer-linker) - A Composer plugin for linking local packages during development, similar to `npm link`. (4 weeks ago)
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (1 month ago)
-- [Laragear/Turnstile](https://github.com/Laragear/Turnstile) - Use Cloudflare&#39;s no-CAPTCHA alternative in your Laravel application. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [joncojonathan](https://github.com/joncojonathan) (3 weeks ago)
-- [vigneshgurusamy](https://github.com/vigneshgurusamy) (1 month ago)
 - [TeferiHero](https://github.com/TeferiHero) (3 months ago)
 - [notdefine](https://github.com/notdefine) (4 months ago)
 - [exitable](https://github.com/exitable) (9 months ago)
+- [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
