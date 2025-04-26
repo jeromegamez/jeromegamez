@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (today)
+- [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (today)
 - [infinitypaul/idempotency-laravel](https://github.com/infinitypaul/idempotency-laravel) -  (1 day ago)
 - [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data. (1 day ago)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (4 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - FIG PSR3 PHPStan rules (4 days ago)
 - [sanmai/sliding-window-counter](https://github.com/sanmai/sliding-window-counter) - Short-lived cache-backed time series with anomaly detection (1 week ago)
 - [sanmai/rate-limiter](https://github.com/sanmai/rate-limiter) -  (1 week ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
-- [govigilant/vigilant](https://github.com/govigilant/vigilant) - Open Source Web Monitoring (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
