@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (today)
-- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (1 day ago)
-- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (1 day ago)
-- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (3 days ago)
-- [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (3 days ago)
-- [infinitypaul/idempotency-laravel](https://github.com/infinitypaul/idempotency-laravel) -  (4 days ago)
-- [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data. (4 days ago)
+- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 day ago)
+- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (2 days ago)
+- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (2 days ago)
+- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (4 days ago)
+- [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (4 days ago)
+- [infinitypaul/idempotency-laravel](https://github.com/infinitypaul/idempotency-laravel) -  (5 days ago)
+- [Hi-Folks/statistics](https://github.com/Hi-Folks/statistics) - PHP package that provides functions for calculating mathematical statistics of numeric data. (5 days ago)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (1 week ago)
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating. (1 week ago)
 - [ungoogled-software/ungoogled-chromium-macos](https://github.com/ungoogled-software/ungoogled-chromium-macos) - macOS packaging for ungoogled-chromium (1 week ago)
@@ -95,11 +95,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [madadiuk](https://github.com/madadiuk)
 - [moneshvenkul](https://github.com/moneshvenkul)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [connebrink](https://github.com/connebrink)
 - [LinuxJS](https://github.com/LinuxJS)
-- [s0lus](https://github.com/s0lus)
 
 #### 💬 Feedback
 
