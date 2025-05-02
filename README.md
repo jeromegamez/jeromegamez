@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (today)
 - [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (2 days ago)
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (2 days ago)
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS. (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (4 days ago)
 - [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (6 days ago)
 - [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (6 days ago)
-- [infinitypaul/idempotency-laravel](https://github.com/infinitypaul/idempotency-laravel) -  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
