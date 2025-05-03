@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
@@ -74,21 +74,21 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (today)
-- [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (2 days ago)
-- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (2 days ago)
-- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS. (2 days ago)
-- [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development (2 days ago)
-- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (3 days ago)
-- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (4 days ago)
-- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (4 days ago)
-- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (6 days ago)
-- [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (6 days ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 day ago)
+- [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (3 days ago)
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (3 days ago)
+- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS. (3 days ago)
+- [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development (3 days ago)
+- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (4 days ago)
+- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (5 days ago)
+- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (5 days ago)
+- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (1 week ago)
+- [inspector-apm/inspector-php](https://github.com/inspector-apm/inspector-php) - Connect your PHP application to Inspector monitoring dashboard. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [TeferiHero](https://github.com/TeferiHero) (3 months ago)
-- [notdefine](https://github.com/notdefine) (4 months ago)
+- [notdefine](https://github.com/notdefine) (5 months ago)
 - [exitable](https://github.com/exitable) (10 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
