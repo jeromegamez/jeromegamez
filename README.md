@@ -22,12 +22,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 weeks ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (4 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 months ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 months ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (3 months ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 months ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 months ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 months ago)
@@ -48,11 +48,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 3 weeks ago) - A simple JSON helper to decode and encode JSON
+- [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 4 weeks ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 1 month ago) - Type-safe collections based on Laravel Collections
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 3 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 3 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 4 months ago) - A PHP library to work with Firebase tokens
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (2 days ago)
-- [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (4 days ago)
-- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (4 days ago)
-- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS. (4 days ago)
-- [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development (4 days ago)
-- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (5 days ago)
-- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (6 days ago)
-- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (6 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (3 days ago)
+- [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (5 days ago)
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (5 days ago)
+- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS. (5 days ago)
+- [soloterm/solo](https://github.com/soloterm/solo) - Your all-in-one Laravel command to tame local development (5 days ago)
+- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (6 days ago)
+- [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (1 week ago)
+- [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (1 week ago)
 - [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
