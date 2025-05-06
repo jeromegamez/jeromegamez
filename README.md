@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [rest-certain/rest-certain](https://github.com/rest-certain/rest-certain) - PHP DSL for easy testing of REST services, with a nod to the Java DSL, REST Assured (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (4 days ago)
 - [stein197/phpunit-extended](https://github.com/stein197/phpunit-extended) - Extended assertions for PHPUnit (6 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 week ago)
 - [epessine/tinkerpad](https://github.com/epessine/tinkerpad) - Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH. (1 week ago)
 - [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs (1 week ago)
-- [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
