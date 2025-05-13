@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
@@ -68,22 +68,22 @@ projects in the [BESTE](https://github.com/beste),
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
 - [Migrate and extend rector config for better code quality](https://github.com/kreait/firebase-php/pull/921) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
-- [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (8 months ago)
-- [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (8 months ago)
+- [Add support for PHP 8.4](https://github.com/kreait/firebase-tokens-php/pull/61) on [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) (9 months ago)
+- [Add support for PHP 8.4](https://github.com/kreait/firebase-php/pull/920) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 - [Test with lowest composer dependencies](https://github.com/kreait/firebase-php/pull/913) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device (1 day ago)
-- [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android (1 day ago)
-- [plumber-cd/terraform-backend-git](https://github.com/plumber-cd/terraform-backend-git) - Terraform HTTP Backend implementation that uses Git repository as storage (1 day ago)
-- [cloudandthings/terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console. (1 day ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (4 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (4 days ago)
-- [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (4 days ago)
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (4 days ago)
-- [Laragear/Populate](https://github.com/Laragear/Populate) - Populate your database with a supercharged, continuable seeder (5 days ago)
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (6 days ago)
+- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 day ago)
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API. (1 day ago)
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device (2 days ago)
+- [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android (2 days ago)
+- [plumber-cd/terraform-backend-git](https://github.com/plumber-cd/terraform-backend-git) - Terraform HTTP Backend implementation that uses Git repository as storage (2 days ago)
+- [cloudandthings/terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console. (2 days ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (5 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (5 days ago)
+- [Browsers-software/browsers](https://github.com/Browsers-software/browsers) - Open the right browser at the right time (5 days ago)
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
