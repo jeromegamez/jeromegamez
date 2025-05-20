@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (today)
-- [LeanerCloud/cloud-instances.info](https://github.com/LeanerCloud/cloud-instances.info) - Cloud instance comparison site, currently supporting AWS, with Azure coming soon and more providers planned going forward. Community fork of instances.vantage.sh, formerly ec2instances.info (1 day ago)
-- [Thavarshan/matrix](https://github.com/Thavarshan/matrix) - ⚛︎ Bringing JavaScript-style async to PHP! Manage asynchronous tasks with ease using a modern, fiber-powered API for seamless concurrency and error handling. (4 days ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (6 days ago)
-- [hnw/php-timecop](https://github.com/hnw/php-timecop) - A PHP extension providing &#34;time travel&#34; capabilities inspired by ruby timecop gem (6 days ago)
+- [macalbert/envilder](https://github.com/macalbert/envilder) - 🚀 Envilder is a CLI that securely centralizes your environment variables from AWS SSM as a single source of truth (1 day ago)
+- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (1 day ago)
+- [LeanerCloud/cloud-instances.info](https://github.com/LeanerCloud/cloud-instances.info) - Cloud instance comparison site, currently supporting AWS, with Azure coming soon and more providers planned going forward. Community fork of instances.vantage.sh, formerly ec2instances.info (2 days ago)
+- [Thavarshan/matrix](https://github.com/Thavarshan/matrix) - ⚛︎ Bringing JavaScript-style async to PHP! Manage asynchronous tasks with ease using a modern, fiber-powered API for seamless concurrency and error handling. (5 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
+- [hnw/php-timecop](https://github.com/hnw/php-timecop) - A PHP extension providing &#34;time travel&#34; capabilities inspired by ruby timecop gem (1 week ago)
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 week ago)
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API. (1 week ago)
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device (1 week ago)
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android (1 week ago)
-- [plumber-cd/terraform-backend-git](https://github.com/plumber-cd/terraform-backend-git) - Terraform HTTP Backend implementation that uses Git repository as storage (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
