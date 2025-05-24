@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 days ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.5.6](https://github.com/jakubkulhan/bunny/releases/tag/v0.5.6), today) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) ([v0.5.6](https://github.com/jakubkulhan/bunny/releases/tag/v0.5.6), 1 day ago) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library
 - [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 2 months ago) - Type-safe collections based on Laravel Collections
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.18.0](https://github.com/kreait/firebase-php/releases/tag/7.18.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
@@ -74,22 +74,22 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (3 days ago)
-- [macalbert/envilder](https://github.com/macalbert/envilder) - 🚀 Envilder is a CLI that securely centralizes your environment variables from AWS SSM as a single source of truth (4 days ago)
-- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (4 days ago)
-- [LeanerCloud/cloud-instances.info](https://github.com/LeanerCloud/cloud-instances.info) - Cloud instance comparison site, currently supporting AWS, with Azure coming soon and more providers planned going forward. Community fork of instances.vantage.sh, formerly ec2instances.info (5 days ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (1 day ago)
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (4 days ago)
+- [macalbert/envilder](https://github.com/macalbert/envilder) - 🚀 Envilder is a CLI that securely centralizes your environment variables from AWS SSM as a single source of truth (5 days ago)
+- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (5 days ago)
+- [LeanerCloud/cloud-instances.info](https://github.com/LeanerCloud/cloud-instances.info) - Cloud instance comparison site, currently supporting AWS, with Azure coming soon and more providers planned going forward. Community fork of instances.vantage.sh, formerly ec2instances.info (6 days ago)
 - [Thavarshan/matrix](https://github.com/Thavarshan/matrix) - ⚛︎ Bringing JavaScript-style async to PHP! Manage asynchronous tasks with ease using a modern, fiber-powered API for seamless concurrency and error handling. (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [hnw/php-timecop](https://github.com/hnw/php-timecop) - A PHP extension providing &#34;time travel&#34; capabilities inspired by ruby timecop gem (1 week ago)
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 week ago)
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API. (1 week ago)
-- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [TeferiHero](https://github.com/TeferiHero) (4 months ago)
 - [notdefine](https://github.com/notdefine) (5 months ago)
-- [exitable](https://github.com/exitable) (10 months ago)
+- [exitable](https://github.com/exitable) (11 months ago)
 - [bennyt2](https://github.com/bennyt2) (2 years ago)
 
 #### 👯 Check out some of my recent followers
