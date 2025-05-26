@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (4 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 month ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 months ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (3 months ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (today)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (2 days ago)
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (5 days ago)
-- [macalbert/envilder](https://github.com/macalbert/envilder) - 🚀 Envilder is a CLI that securely centralizes your environment variables from AWS SSM as a single source of truth (6 days ago)
-- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (6 days ago)
+- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 day ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions (3 days ago)
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (6 days ago)
+- [macalbert/envilder](https://github.com/macalbert/envilder) - 🚀 Envilder is a CLI that securely centralizes your environment variables from AWS SSM as a single source of truth (1 week ago)
+- [cchalop1/JustDeploy](https://github.com/cchalop1/JustDeploy) - Deploy what you want where you want. (1 week ago)
 - [LeanerCloud/cloud-instances.info](https://github.com/LeanerCloud/cloud-instances.info) - Cloud instance comparison site, currently supporting AWS, with Azure coming soon and more providers planned going forward. Community fork of instances.vantage.sh, formerly ec2instances.info (1 week ago)
 - [Thavarshan/matrix](https://github.com/Thavarshan/matrix) - ⚛︎ Bringing JavaScript-style async to PHP! Manage asynchronous tasks with ease using a modern, fiber-powered API for seamless concurrency and error handling. (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [hnw/php-timecop](https://github.com/hnw/php-timecop) - A PHP extension providing &#34;time travel&#34; capabilities inspired by ruby timecop gem (1 week ago)
-- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 week ago)
+- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
