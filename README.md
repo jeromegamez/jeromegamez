@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [meyoramu](https://github.com/meyoramu)
 - [badasswp](https://github.com/badasswp)
 - [ahmdselim](https://github.com/ahmdselim)
 - [madadiuk](https://github.com/madadiuk)
 - [moneshvenkul](https://github.com/moneshvenkul)
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 
 #### 💬 Feedback
 
