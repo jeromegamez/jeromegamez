@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [sanmai/sdk-common](https://github.com/sanmai/sdk-common) - Common classes for API SDKs (today)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 day ago)
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (3 days ago)
 - [phpacker/phpacker](https://github.com/phpacker/phpacker) - Package any PHP script or PHAR into a standalone, cross-platform executable (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [SpencerMalone/phpstan-no-transitive-use](https://github.com/SpencerMalone/phpstan-no-transitive-use) - Don&#39;t let your code use transitive dependencies. (6 days ago)
 - [lubusIN/laravel-decomposer](https://github.com/lubusIN/laravel-decomposer) - ⚙️ A Laravel package to decompose your installed packages, their dependencies, your app &amp; server environment (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
