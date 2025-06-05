@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (today)
 - [jwilsson/spotify-web-api-php](https://github.com/jwilsson/spotify-web-api-php) - A PHP wrapper for Spotify&#39;s Web API. (1 day ago)
 - [sanmai/sdk-common](https://github.com/sanmai/sdk-common) - Common classes for API SDKs (1 day ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests. (1 week ago)
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework (1 week ago)
 - [SpencerMalone/phpstan-no-transitive-use](https://github.com/SpencerMalone/phpstan-no-transitive-use) - Don&#39;t let your code use transitive dependencies. (1 week ago)
-- [lubusIN/laravel-decomposer](https://github.com/lubusIN/laravel-decomposer) - ⚙️ A Laravel package to decompose your installed packages, their dependencies, your app &amp; server environment (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
