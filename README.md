@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts (today)
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (today)
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols (2 days ago)
 - [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (2 days ago)
 - [jwilsson/spotify-web-api-php](https://github.com/jwilsson/spotify-web-api-php) - A PHP wrapper for Spotify&#39;s Web API. (3 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (6 days ago)
 - [phpacker/phpacker](https://github.com/phpacker/phpacker) - Package any PHP script or PHAR into a standalone, cross-platform executable (6 days ago)
 - [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. (1 week ago)
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests. (1 week ago)
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
