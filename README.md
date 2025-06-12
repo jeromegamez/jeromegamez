@@ -91,7 +91,7 @@ projects in the [BESTE](https://github.com/beste),
 - [TeferiHero](https://github.com/TeferiHero) (4 months ago)
 - [notdefine](https://github.com/notdefine) (6 months ago)
 - [exitable](https://github.com/exitable) (11 months ago)
-- [bennyt2](https://github.com/bennyt2) (3 years ago)
+- [wdes](https://github.com/wdes) (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
