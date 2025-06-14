@@ -54,7 +54,7 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.0.0](https://github.com/kreait/laravel-firebase/releases/tag/6.0.0), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 4 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 4 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 4 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 5 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.2.1](https://github.com/kreait/firebase-tokens-php/releases/tag/5.2.1), 5 months ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 6 months ago) - Interact with mite from your PHP application.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.3.1](https://github.com/beste/in-memory-cache-php/releases/tag/1.3.1), 9 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -74,10 +74,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [stainless-sdks/knock-php](https://github.com/stainless-sdks/knock-php) -  (4 days ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (5 days ago)
-- [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts (6 days ago)
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (6 days ago)
+- [stainless-sdks/knock-php](https://github.com/stainless-sdks/knock-php) -  (5 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (6 days ago)
+- [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts (1 week ago)
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (1 week ago)
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols (1 week ago)
 - [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (1 week ago)
 - [jwilsson/spotify-web-api-php](https://github.com/jwilsson/spotify-web-api-php) - A PHP wrapper for Spotify&#39;s Web API. (1 week ago)
@@ -87,7 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [polidog](https://github.com/polidog) (1 day ago)
+- [polidog](https://github.com/polidog) (2 days ago)
 - [TeferiHero](https://github.com/TeferiHero) (4 months ago)
 - [notdefine](https://github.com/notdefine) (6 months ago)
 - [exitable](https://github.com/exitable) (11 months ago)
