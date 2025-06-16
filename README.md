@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [Andrew-Chen-Wang/github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) - 📖 GitHub Action to sync a folder to the GitHub wiki (today)
 - [stainless-sdks/knock-php](https://github.com/stainless-sdks/knock-php) -  (1 week ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 - [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [jwilsson/spotify-web-api-php](https://github.com/jwilsson/spotify-web-api-php) - A PHP wrapper for Spotify&#39;s Web API. (1 week ago)
 - [sanmai/sdk-common](https://github.com/sanmai/sdk-common) - Common classes for API SDKs (1 week ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
-- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
