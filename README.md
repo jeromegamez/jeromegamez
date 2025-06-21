@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (today)
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (3 days ago)
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option. (3 days ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 - [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts (2 weeks ago)
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (2 weeks ago)
-- [mierak/rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
