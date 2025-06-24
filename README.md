@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (2 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (2 days ago)
-- [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (5 days ago)
-- [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option. (5 days ago)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (5 days ago)
+- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (3 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (3 days ago)
+- [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (6 days ago)
+- [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option. (6 days ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (6 days ago)
 - [aws/api-models-aws](https://github.com/aws/api-models-aws) - API Models for all public AWS Services (1 week ago)
 - [Andrew-Chen-Wang/github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) - 📖 GitHub Action to sync a folder to the GitHub wiki (1 week ago)
 - [stainless-sdks/knock-php](https://github.com/stainless-sdks/knock-php) -  (2 weeks ago)
