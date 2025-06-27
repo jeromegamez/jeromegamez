@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (today)
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (today)
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 days ago)
 - [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (6 days ago)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (6 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 week ago)
 - [aws/api-models-aws](https://github.com/aws/api-models-aws) - API Models for all public AWS Services (1 week ago)
 - [Andrew-Chen-Wang/github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) - 📖 GitHub Action to sync a folder to the GitHub wiki (1 week ago)
-- [stainless-sdks/knock-php](https://github.com/stainless-sdks/knock-php) -  (2 weeks ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
