@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (2 days ago)
-- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (5 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (5 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 days ago)
+- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (6 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (6 days ago)
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (1 week ago)
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option. (1 week ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 week ago)
