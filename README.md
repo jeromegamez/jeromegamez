@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 months ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 months ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.19.0](https://github.com/kreait/firebase-php/releases/tag/7.19.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.19.0](https://github.com/kreait/firebase-php/releases/tag/7.19.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 2 months ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 3 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 4 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -62,7 +62,7 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔨 My recent Pull Requests
 
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
-- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
+- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (3 months ago)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (today)
-- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (today)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 days ago)
-- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (6 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (6 days ago)
+- [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (1 day ago)
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (1 day ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (4 days ago)
+- [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (1 week ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (1 week ago)
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (1 week ago)
 - [future-architect/tftarget](https://github.com/future-architect/tftarget) - 🎯tftarget is a CLI tool for Terraform ( plan | apply | destroy ) with target option. You can interactivity select resource to ( plan | apply | destroy )  with target option. (1 week ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 week ago)
