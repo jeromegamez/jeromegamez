@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (today)
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (1 day ago)
-- [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (3 days ago)
-- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (3 days ago)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (6 days ago)
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (1 day ago)
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (2 days ago)
+- [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (4 days ago)
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (4 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (1 week ago)
 - [taecontrol/wt](https://github.com/taecontrol/wt) - Git worktrees handler CLI (1 week ago)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (1 week ago)
 - [jkphl/micrometa](https://github.com/jkphl/micrometa) - A meta parser for extracting micro information out of web documents, currently supporting Microformats 1&#43;2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types, written in PHP (1 week ago)
