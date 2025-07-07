@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -70,14 +70,14 @@ projects in the [BESTE](https://github.com/beste),
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (7 months ago)
 - [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
-- [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (9 months ago)
+- [Add support for `rolloutValue` fields in remote config parameters](https://github.com/kreait/firebase-php/pull/927) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (1 day ago)
-- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (4 days ago)
-- [stainless-sdks/openai-php](https://github.com/stainless-sdks/openai-php) - Connect a production repo to push code to your repository: https://www.stainless.com/docs/guides/publish. (5 days ago)
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (6 days ago)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (2 days ago)
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (5 days ago)
+- [stainless-sdks/openai-php](https://github.com/stainless-sdks/openai-php) - Connect a production repo to push code to your repository: https://www.stainless.com/docs/guides/publish. (6 days ago)
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (1 week ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (1 week ago)
 - [sanmai/phpstan-rules](https://github.com/sanmai/phpstan-rules) -  (1 week ago)
 - [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters. (1 week ago)
