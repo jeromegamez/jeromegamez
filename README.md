@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (4 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 weeks ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 months ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 months ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (5 months ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.19.0](https://github.com/kreait/firebase-php/releases/tag/7.19.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 4 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.19.0](https://github.com/kreait/firebase-php/releases/tag/7.19.0), 4 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 3 months ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 3 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 5 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -62,7 +62,7 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔨 My recent Pull Requests
 
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
-- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
+- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (3 months ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation. (3 days ago)
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (3 days ago)
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (6 days ago)
+- [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation. (4 days ago)
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (4 days ago)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (1 week ago)
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (1 week ago)
 - [stainless-sdks/openai-php](https://github.com/stainless-sdks/openai-php) - Connect a production repo to push code to your repository: https://www.stainless.com/docs/guides/publish. (1 week ago)
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (1 week ago)
@@ -87,7 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [polidog](https://github.com/polidog) (4 weeks ago)
+- [polidog](https://github.com/polidog) (1 month ago)
 - [TeferiHero](https://github.com/TeferiHero) (5 months ago)
 - [notdefine](https://github.com/notdefine) (7 months ago)
 - [exitable](https://github.com/exitable) (1 year ago)
