@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (today)
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (today)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 (3 days ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (4 days ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP &amp; A2A architectures or even as an ngrok-alternative and a homelab infrastructure. (4 days ago)
 - [zuplo/zudoku](https://github.com/zuplo/zudoku) - Framework for building high quality, interactive API documentation. (1 week ago)
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
