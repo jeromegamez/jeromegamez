@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 months ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.21.1](https://github.com/kreait/firebase-php/releases/tag/7.21.1), today) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.21.1](https://github.com/kreait/firebase-php/releases/tag/7.21.1), 1 day ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 3 months ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 4 months ago) - Type-safe collections based on Laravel Collections
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (2 days ago)
-- [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (3 days ago)
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥 (4 days ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone (5 days ago)
-- [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path  (6 days ago)
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (3 days ago)
+- [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (4 days ago)
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥 (5 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone (6 days ago)
+- [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path  (1 week ago)
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (1 week ago)
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (1 week ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 (1 week ago)
