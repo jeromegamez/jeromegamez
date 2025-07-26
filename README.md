@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software (today)
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution. (1 day ago)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (4 days ago)
 - [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (1 week ago)
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (1 week ago)
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 (1 week ago)
-- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
