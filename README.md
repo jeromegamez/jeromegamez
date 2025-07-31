@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.21.1](https://github.com/kreait/firebase-php/releases/tag/7.21.1), 6 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.21.1](https://github.com/kreait/firebase-php/releases/tag/7.21.1), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/json](https://github.com/beste/json) ([1.6.0](https://github.com/beste/json/releases/tag/1.6.0), 3 months ago) - A simple JSON helper to decode and encode JSON
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 4 months ago) - Type-safe collections based on Laravel Collections
@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 day ago)
 - [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -70,14 +71,13 @@ projects in the [BESTE](https://github.com/beste),
 - [Enable configuring multi factor authentication for a user.](https://github.com/kreait/firebase-php/pull/993) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (6 months ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (8 months ago)
-- [Remove reliance on the `CloudMessage` class when handling messages](https://github.com/kreait/firebase-php/pull/934) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [tomloprod/memoize](https://github.com/tomloprod/memoize) - Memoize is a lightweight PHP library designed to implement memoization and function caching techniques with ease. (1 day ago)
-- [coredevices/libpebble3](https://github.com/coredevices/libpebble3) -  (4 days ago)
-- [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software (4 days ago)
-- [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution. (5 days ago)
+- [tomloprod/memoize](https://github.com/tomloprod/memoize) - Memoize is a lightweight PHP library designed to implement memoization and function caching techniques with ease. (2 days ago)
+- [coredevices/libpebble3](https://github.com/coredevices/libpebble3) -  (5 days ago)
+- [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software (5 days ago)
+- [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution. (6 days ago)
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (1 week ago)
 - [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (1 week ago)
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥 (1 week ago)
