@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (today)
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best &amp; strive to find every command possible even hidden ones! (3 days ago)
 - [tomloprod/memoize](https://github.com/tomloprod/memoize) - Memoize is a lightweight PHP library designed to implement memoization and function caching techniques with ease. (5 days ago)
 - [coredevices/libpebble3](https://github.com/coredevices/libpebble3) -  (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (1 week ago)
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥 (2 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone (2 weeks ago)
-- [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
