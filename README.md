@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
-- [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) -  (4 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
+- [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) -  (5 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (4 months ago)
@@ -62,27 +62,27 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔨 My recent Pull Requests
 
 - [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
-- [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
+- [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
-- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (4 months ago)
+- [8.0](https://github.com/jeromegamez/typed-collection/pull/28) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (5 months ago)
 - [Enable configuring multi factor authentication for a user.](https://github.com/kreait/firebase-php/pull/993) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (5 months ago)
 - [Allow using a different Service Account ID for custom token generation](https://github.com/kreait/firebase-php/pull/973) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (7 months ago)
 - [6.0](https://github.com/kreait/laravel-firebase/pull/237) on [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [pontoon-data/Pontoon](https://github.com/pontoon-data/Pontoon) - Open source data export platform. For devs who ship data to their customers 🚀 (today)
-- [edward-jazzhands/cloctui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code) (4 days ago)
+- [pontoon-data/Pontoon](https://github.com/pontoon-data/Pontoon) - Open source data export platform. For devs who ship data to their customers 🚀 (1 day ago)
+- [edward-jazzhands/cloctui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code) (5 days ago)
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (1 week ago)
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best &amp; strive to find every command possible even hidden ones! (1 week ago)
-- [tomloprod/memoize](https://github.com/tomloprod/memoize) - Memoize is a lightweight PHP library designed to implement memoization and function caching techniques with ease. (1 week ago)
+- [tomloprod/memoize](https://github.com/tomloprod/memoize) - Memoize is a lightweight PHP library designed to implement memoization and function caching techniques with ease. (2 weeks ago)
 - [coredevices/libpebble3](https://github.com/coredevices/libpebble3) -  (2 weeks ago)
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software (2 weeks ago)
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution. (2 weeks ago)
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (2 weeks ago)
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (3 weeks ago)
 - [krakjoe/ort](https://github.com/krakjoe/ort) - PHP - Oh Really, Tensors? (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
