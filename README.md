@@ -95,11 +95,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [xcontcom](https://github.com/xcontcom)
 - [sanmai](https://github.com/sanmai)
 - [mt-source](https://github.com/mt-source)
 - [SteveTheAnimator](https://github.com/SteveTheAnimator)
 - [MOHAMAD257](https://github.com/MOHAMAD257)
-- [rofthedeep](https://github.com/rofthedeep)
 
 #### 💬 Feedback
 
