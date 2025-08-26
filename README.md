@@ -82,7 +82,7 @@ projects in the [BESTE](https://github.com/beste),
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience. (1 week ago)
 - [terminal42/escargot](https://github.com/terminal42/escargot) - A web crawler or spider library based on Symfony components (1 week ago)
-- [stainless-sdks/anthropic-php](https://github.com/stainless-sdks/anthropic-php) - Connect a production repo to push code to your repository: https://www.stainless.com/docs/guides/publish. (2 weeks ago)
+- [stainless-sdks/anthropic-php](https://github.com/stainless-sdks/anthropic-php) - Staging repository for https://github.com/anthropics/anthropic-sdk-php/tree/main. (2 weeks ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
