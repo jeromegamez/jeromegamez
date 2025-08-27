@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (today)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (4 days ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (4 days ago)
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience. (2 weeks ago)
 - [terminal42/escargot](https://github.com/terminal42/escargot) - A web crawler or spider library based on Symfony components (2 weeks ago)
 - [stainless-sdks/anthropic-php](https://github.com/stainless-sdks/anthropic-php) - Staging repository for https://github.com/anthropics/anthropic-sdk-php/tree/main. (2 weeks ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
