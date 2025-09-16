@@ -97,9 +97,9 @@ projects in the [BESTE](https://github.com/beste),
 
 - [SwiftedMind](https://github.com/SwiftedMind)
 - [chaitanya44444](https://github.com/chaitanya44444)
-- [xcontcom](https://github.com/xcontcom)
 - [sanmai](https://github.com/sanmai)
 - [mt-source](https://github.com/mt-source)
+- [SteveTheAnimator](https://github.com/SteveTheAnimator)
 
 #### 💬 Feedback
 
