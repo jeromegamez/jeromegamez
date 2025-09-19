@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (6 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 week ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 weeks ago)
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) -  (1 month ago)
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (today)
+- [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 day ago)
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Reduce number of required service account fields to a minimum](https://github.com/kreait/firebase-php/pull/1017) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (today)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (4 days ago)
-- [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software. (4 days ago)
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (6 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 day ago)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (5 days ago)
+- [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software. (5 days ago)
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 week ago)
 - [dominik1001/caldav-mcp](https://github.com/dominik1001/caldav-mcp) - A CalDAV client using Model Context Protocol (MCP) to expose calendar operations as tools for AI assistants. (1 week ago)
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (1 week ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 weeks ago)
 - [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing &#34;please act like a senior engineer&#34; in every conversation. (2 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
