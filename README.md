@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 weeks ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (1 day ago)
-- [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (2 days ago)
-- [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects (4 days ago)
-- [arokettu/json5-builder](https://github.com/arokettu/json5-builder) -  (4 days ago)
+- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (2 days ago)
+- [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (3 days ago)
+- [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects (5 days ago)
+- [arokettu/json5-builder](https://github.com/arokettu/json5-builder) -  (5 days ago)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP (1 week ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 week ago)
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (1 week ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 weeks ago)
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (2 weeks ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 weeks ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (2 weeks ago)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (3 weeks ago)
