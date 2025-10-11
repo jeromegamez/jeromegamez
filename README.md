@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
@@ -49,9 +49,9 @@ projects in the [BESTE](https://github.com/beste),
 #### 🔭 Latest releases I've contributed to
 
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.22.0](https://github.com/kreait/firebase-php/releases/tag/7.22.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 4 weeks ago) - A simple JSON helper to decode and encode JSON
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 4 weeks ago) - A PHP library to work with Firebase tokens
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.22.0](https://github.com/kreait/firebase-php/releases/tag/7.22.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 1 month ago) - A PHP library to work with Firebase tokens
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 6 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 8 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -64,9 +64,9 @@ projects in the [BESTE](https://github.com/beste),
 - [Modernize docs and tooling](https://github.com/kreait/firebase-php/pull/1023) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 weeks ago)
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Reduce number of required service account fields to a minimum](https://github.com/kreait/firebase-php/pull/1017) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
+- [Reduce number of required service account fields to a minimum](https://github.com/kreait/firebase-php/pull/1017) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
-- [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
+- [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (3 days ago)
-- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (5 days ago)
-- [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (6 days ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (4 days ago)
+- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (6 days ago)
+- [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (1 week ago)
 - [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects (1 week ago)
 - [arokettu/json5-builder](https://github.com/arokettu/json5-builder) -  (1 week ago)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP (1 week ago)
