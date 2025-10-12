@@ -61,6 +61,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (today)
+- [feat: Support JSON in the `GOOGLE_APPLICATION_CREDENTIALS` env var](https://github.com/googleapis/google-auth-library-php/pull/635) on [googleapis/google-auth-library-php](https://github.com/googleapis/google-auth-library-php) (today)
 - [Modernize docs and tooling](https://github.com/kreait/firebase-php/pull/1023) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 weeks ago)
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -69,8 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
-- [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
-- [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 
 #### ⭐ Recent Stars
 
