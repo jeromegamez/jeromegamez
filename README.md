@@ -22,13 +22,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (4 weeks ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 weeks ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (4 weeks ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) -  (2 months ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 months ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (6 months ago)
@@ -52,11 +52,11 @@ projects in the [BESTE](https://github.com/beste),
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.22.0](https://github.com/kreait/firebase-php/releases/tag/7.22.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 1 month ago) - A PHP library to work with Firebase tokens
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 4 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 6 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 8 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 8 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 8 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 9 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 10 months ago) - Interact with mite from your PHP application.
 
 #### 🔨 My recent Pull Requests
@@ -68,18 +68,18 @@ projects in the [BESTE](https://github.com/beste),
 - [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 - [Add and address PHPStan strict rules](https://github.com/kreait/firebase-php/pull/1006) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
-- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
+- [Ensure support for invokable middlewares in HttpClientOptions](https://github.com/kreait/firebase-php/pull/1004) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Enable getting a user by their federated IdP UID](https://github.com/kreait/firebase-php/pull/1003) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 - [Update PHPStan rules](https://github.com/kreait/firebase-php/pull/1002) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (4 days ago)
-- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (6 days ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (5 days ago)
+- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (1 week ago)
 - [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (1 week ago)
 - [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects (1 week ago)
 - [arokettu/json5-builder](https://github.com/arokettu/json5-builder) -  (1 week ago)
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP (1 week ago)
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP (2 weeks ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 weeks ago)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (2 weeks ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 weeks ago)
