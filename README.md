@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer (today)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (5 days ago)
 - [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (1 week ago)
 - [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (1 week ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 weeks ago)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (2 weeks ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 weeks ago)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
