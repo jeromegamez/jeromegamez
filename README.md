@@ -22,9 +22,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 1 month ago) - A PHP library to work with Firebase tokens
@@ -61,10 +61,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 day ago)
-- [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 day ago)
-- [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 day ago)
-- [feat: Support JSON in the `GOOGLE_APPLICATION_CREDENTIALS` env var](https://github.com/googleapis/google-auth-library-php/pull/635) on [googleapis/google-auth-library-php](https://github.com/googleapis/google-auth-library-php) (1 day ago)
+- [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 days ago)
+- [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 days ago)
+- [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (2 days ago)
+- [feat: Support JSON in the `GOOGLE_APPLICATION_CREDENTIALS` env var](https://github.com/googleapis/google-auth-library-php/pull/635) on [googleapis/google-auth-library-php](https://github.com/googleapis/google-auth-library-php) (2 days ago)
 - [Modernize docs and tooling](https://github.com/kreait/firebase-php/pull/1023) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (3 weeks ago)
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -74,21 +74,21 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (today)
-- [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer (1 day ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (6 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 day ago)
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 day ago)
+- [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer (2 days ago)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (1 week ago)
 - [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (1 week ago)
 - [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (1 week ago)
 - [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects (1 week ago)
 - [arokettu/json5-builder](https://github.com/arokettu/json5-builder) -  (1 week ago)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP (2 weeks ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 weeks ago)
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about (2 weeks ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [polidog](https://github.com/polidog) (4 months ago)
-- [TeferiHero](https://github.com/TeferiHero) (8 months ago)
+- [TeferiHero](https://github.com/TeferiHero) (9 months ago)
 - [notdefine](https://github.com/notdefine) (10 months ago)
 - [exitable](https://github.com/exitable) (1 year ago)
 - [bennyt2](https://github.com/bennyt2) (3 years ago)
