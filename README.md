@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin (today)
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (1 day ago)
 - [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit) - Tiny, Zero-dependency ANSI escape helper for building terminal UIs in PHP. (1 day ago)
 - [lukehutch/awesome-static-analysis](https://github.com/lukehutch/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer (6 days ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (1 week ago)
 - [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (1 week ago)
-- [polarsource/polar-php](https://github.com/polarsource/polar-php) - Polar SDK for PHP (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
