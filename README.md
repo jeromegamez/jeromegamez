@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists. (today)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
 - [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin (1 day ago)
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (2 days ago)
 - [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit) - Tiny, Zero-dependency ANSI escape helper for building terminal UIs in PHP. (2 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (6 days ago)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (6 days ago)
 - [plutov/oq](https://github.com/plutov/oq) - Terminal OpenAPI Spec viewer (1 week ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (1 week ago)
-- [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor) - Sculptor is a UI for running parallel coding agents in safe, isolated sandboxes, enabling powerful agent workflows. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
