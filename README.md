@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (today)
 - [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 day ago)
 - [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (1 month ago)
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Reduce number of required service account fields to a minimum](https://github.com/kreait/firebase-php/pull/1017) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
-- [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 
 #### ⭐ Recent Stars
 
