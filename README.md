@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (today)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (2 days ago)
 - [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists. (2 days ago)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [lukehutch/awesome-static-analysis](https://github.com/lukehutch/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages (4 days ago)
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (5 days ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
-- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
