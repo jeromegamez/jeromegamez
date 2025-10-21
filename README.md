@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (1 day ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (6 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 weeks ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (3 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) -  (2 months ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,6 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.306.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.306.0), 1 day ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 3 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
@@ -57,10 +58,10 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 8 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 9 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 9 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.3.0](https://github.com/jeromegamez/mite-php/releases/tag/3.3.0), 10 months ago) - Interact with mite from your PHP application.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 day ago)
 - [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
@@ -70,18 +71,17 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for PHP 8.5](https://github.com/kreait/firebase-php/pull/1019) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Reduce number of required service account fields to a minimum](https://github.com/kreait/firebase-php/pull/1017) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [Re-add support for JSON files with any file extension](https://github.com/kreait/firebase-php/pull/1013) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
-- [Introduce Valinor for type-safe object mapping](https://github.com/kreait/firebase-php/pull/1009) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (1 day ago)
-- [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists. (1 day ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 day ago)
-- [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin (2 days ago)
-- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (3 days ago)
-- [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit) - Tiny, Zero-dependency ANSI escape helper for building terminal UIs in PHP. (3 days ago)
-- [lukehutch/awesome-static-analysis](https://github.com/lukehutch/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages (3 days ago)
-- [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (4 days ago)
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (2 days ago)
+- [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists. (2 days ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (2 days ago)
+- [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin (3 days ago)
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (4 days ago)
+- [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit) - Tiny, Zero-dependency ANSI escape helper for building terminal UIs in PHP. (4 days ago)
+- [lukehutch/awesome-static-analysis](https://github.com/lukehutch/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages (4 days ago)
+- [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (5 days ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 week ago)
 
