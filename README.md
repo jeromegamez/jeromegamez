@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (today)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 day ago)
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (3 days ago)
 - [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists. (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [ajaxray/AnsiKit](https://github.com/ajaxray/AnsiKit) - Tiny, Zero-dependency ANSI escape helper for building terminal UIs in PHP. (5 days ago)
 - [lukehutch/awesome-static-analysis](https://github.com/lukehutch/awesome-static-analysis) - A curated list of linters, code quality checkers, and other static analysis tools  for various programming languages (5 days ago)
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method (6 days ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
