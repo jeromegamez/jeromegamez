@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
@@ -48,20 +48,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.308.1](https://github.com/googleapis/google-cloud-php/releases/tag/v0.308.1), 4 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.308.1](https://github.com/googleapis/google-cloud-php/releases/tag/v0.308.1), 5 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 1 month ago) - A PHP library to work with Firebase tokens
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.1.0](https://github.com/kreait/laravel-firebase/releases/tag/6.1.0), 4 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.0.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.0.0), 7 months ago) - Type-safe collections based on Laravel Collections
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 8 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.2.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.2.0), 9 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.4.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.4.0), 9 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.6.0](https://github.com/kreait/firebase-bundle/releases/tag/5.6.0), 9 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Remove `@deprecated` annotation from config array fields](https://github.com/googleapis/google-cloud-php/pull/8689) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (5 days ago)
+- [chore: Remove `@deprecated` annotation from config array fields](https://github.com/googleapis/google-cloud-php/pull/8689) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (6 days ago)
 - [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
 - [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
 - [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (1 day ago)
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder (4 days ago)
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (2 days ago)
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder (5 days ago)
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser (1 week ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 week ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 week ago)
