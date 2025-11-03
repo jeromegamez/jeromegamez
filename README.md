@@ -22,11 +22,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (today)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (1 week ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.308.1](https://github.com/googleapis/google-cloud-php/releases/tag/v0.308.1), 6 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.308.1](https://github.com/googleapis/google-cloud-php/releases/tag/v0.308.1), 1 week ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 1 month ago) - A simple JSON helper to decode and encode JSON
@@ -63,7 +63,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [chore: Remove `@deprecated` annotation from config array fields](https://github.com/googleapis/google-cloud-php/pull/8689) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
 - [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
-- [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 week ago)
+- [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (2 weeks ago)
 - [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (3 weeks ago)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (1 day ago)
-- [kruseio/hygg](https://github.com/kruseio/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader. (1 day ago)
-- [vale46n1/immich_duplicate_finder](https://github.com/vale46n1/immich_duplicate_finder) - A Comprehensive Solution for Identifying and Managing Duplicate Photos in Immich (1 day ago)
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (3 days ago)
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder (6 days ago)
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (2 days ago)
+- [kruseio/hygg](https://github.com/kruseio/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader. (2 days ago)
+- [vale46n1/immich_duplicate_finder](https://github.com/vale46n1/immich_duplicate_finder) - A Comprehensive Solution for Identifying and Managing Duplicate Photos in Immich (2 days ago)
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (4 days ago)
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder (1 week ago)
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser (1 week ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 week ago)
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research. (1 week ago)
