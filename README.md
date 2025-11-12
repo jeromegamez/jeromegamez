@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [mvexel/lil-coolify-backup-machine](https://github.com/mvexel/lil-coolify-backup-machine) - A tiny image to use as an application in coolify to back up docker volumes to S3/R2 (today)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 day ago)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 day ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 week ago)
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (1 week ago)
 - [kruseio/hygg](https://github.com/kruseio/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader. (1 week ago)
-- [vale46n1/immich_duplicate_finder](https://github.com/vale46n1/immich_duplicate_finder) - A Comprehensive Solution for Identifying and Managing Duplicate Photos in Immich (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -95,11 +95,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [Asma-abughaith](https://github.com/Asma-abughaith)
 - [natanfiuza](https://github.com/natanfiuza)
 - [SwiftedMind](https://github.com/SwiftedMind)
 - [chaitanya44444](https://github.com/chaitanya44444)
-- [sanmai](https://github.com/sanmai)
 
 #### 💬 Feedback
 
