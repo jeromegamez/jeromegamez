@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (3 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.311.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.311.0), 3 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.311.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.311.0), 4 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 2 months ago) - A simple JSON helper to decode and encode JSON
@@ -63,21 +63,21 @@ projects in the [BESTE](https://github.com/beste),
 
 - [Add test to ensure non-latin values can be JSON-encoded](https://github.com/kreait/firebase-php/pull/1032) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [chore: Remove `@deprecated` annotation from config array fields](https://github.com/googleapis/google-cloud-php/pull/8689) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (3 weeks ago)
-- [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (3 weeks ago)
+- [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (4 weeks ago)
 - [chore: Remove unused `kreait/firebase-php` library](https://github.com/googleapis/google-cloud-php/pull/8672) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (4 weeks ago)
 - [Extract PHPStan into dedicated workflow](https://github.com/kreait/firebase-php/pull/1027) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Remove the `keyFile` option from the Google Cloud config array](https://github.com/kreait/firebase-php/pull/1026) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [chore: Don&#39;t set `keyFile` when `credentialsFetcher` is given](https://github.com/googleapis/google-cloud-php/pull/8657) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 month ago)
 - [feat: Support JSON in the `GOOGLE_APPLICATION_CREDENTIALS` env var](https://github.com/googleapis/google-auth-library-php/pull/635) on [googleapis/google-auth-library-php](https://github.com/googleapis/google-auth-library-php) (1 month ago)
-- [Modernize docs and tooling](https://github.com/kreait/firebase-php/pull/1023) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
+- [Modernize docs and tooling](https://github.com/kreait/firebase-php/pull/1023) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 months ago)
 - [feat(service): Add linkding](https://github.com/coollabsio/coolify/pull/6651) on [coollabsio/coolify](https://github.com/coollabsio/coolify) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (today)
-- [mvexel/lil-coolify-backup-machine](https://github.com/mvexel/lil-coolify-backup-machine) - A tiny image to use as an application in coolify to back up docker volumes to S3/R2 (5 days ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (6 days ago)
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (6 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 day ago)
+- [mvexel/lil-coolify-backup-machine](https://github.com/mvexel/lil-coolify-backup-machine) - A tiny image to use as an application in coolify to back up docker volumes to S3/R2 (6 days ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server. (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
