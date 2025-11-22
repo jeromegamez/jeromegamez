@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.312.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.312.0), 1 day ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.312.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.312.0), 2 days ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.23.0](https://github.com/kreait/firebase-php/releases/tag/7.23.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 2 months ago) - A simple JSON helper to decode and encode JSON
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (2 days ago)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (4 days ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (5 days ago)
 - [mvexel/lil-coolify-backup-machine](https://github.com/mvexel/lil-coolify-backup-machine) - A tiny image to use as an application in coolify to back up docker volumes to S3/R2 (1 week ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 week ago)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (1 week ago)
@@ -95,11 +95,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [Asma-abughaith](https://github.com/Asma-abughaith)
 - [natanfiuza](https://github.com/natanfiuza)
 - [SwiftedMind](https://github.com/SwiftedMind)
 - [chaitanya44444](https://github.com/chaitanya44444)
+- [sanmai](https://github.com/sanmai)
 
 #### 💬 Feedback
 
