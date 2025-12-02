@@ -22,14 +22,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 days ago)
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
 - [beste/.github](https://github.com/beste/.github) -  (1 week ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (2 weeks ago)
-- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 weeks ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (4 weeks ago)
+- [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 months ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 months ago)
 
@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 2 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 3 days ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 3 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 4 days ago) - A Laravel package for the Firebase PHP Admin SDK
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 5 days ago) - Unofficial Firebase Admin SDK for PHP
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.312.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.312.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 2 months ago) - A simple JSON helper to decode and encode JSON
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Update Tests workflow](https://github.com/kreait/firebase-bundle/pull/75) on [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) (2 days ago)
+- [Update Tests workflow](https://github.com/kreait/firebase-bundle/pull/75) on [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) (3 days ago)
 - [Add test to ensure non-latin values can be JSON-encoded](https://github.com/kreait/firebase-php/pull/1032) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [chore: Remove `@deprecated` annotation from config array fields](https://github.com/googleapis/google-cloud-php/pull/8689) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 month ago)
 - [chore: Remove private key from fixture](https://github.com/googleapis/google-cloud-php/pull/8675) on [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) (1 month ago)
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (3 days ago)
-- [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library (4 days ago)
-- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files. (4 days ago)
-- [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell (4 days ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (4 days ago)
+- [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library (5 days ago)
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files. (5 days ago)
+- [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell (5 days ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 week ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 weeks ago)
 - [mvexel/lil-coolify-backup-machine](https://github.com/mvexel/lil-coolify-backup-machine) - A tiny image to use as an application in coolify to back up docker volumes to S3/R2 (2 weeks ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 weeks ago)
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (2 weeks ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (3 weeks ago)
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal (3 weeks ago)
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
