@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (today)
 - [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) -  A PHP extension to write gRPC servers using the official gRPC library written in Go  (1 day ago)
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool.  Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard. (1 day ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (6 days ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (1 week ago)
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library (1 week ago)
-- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
