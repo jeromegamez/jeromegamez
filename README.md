@@ -95,11 +95,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [tardisblink](https://github.com/tardisblink)
 - [Asma-abughaith](https://github.com/Asma-abughaith)
 - [natanfiuza](https://github.com/natanfiuza)
 - [SwiftedMind](https://github.com/SwiftedMind)
 - [chaitanya44444](https://github.com/chaitanya44444)
-- [sanmai](https://github.com/sanmai)
 
 #### 💬 Feedback
 
