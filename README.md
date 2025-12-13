@@ -24,9 +24,9 @@ projects in the [BESTE](https://github.com/beste),
 
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 week ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
-- [beste/.github](https://github.com/beste/.github) -  (2 weeks ago)
+- [beste/.github](https://github.com/beste/.github) -  (3 weeks ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (4 weeks ago)
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.313.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.313.0), 6 days ago) - Google Cloud Client Library for PHP
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 1 week ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.313.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.313.0), 1 week ago) - Google Cloud Client Library for PHP
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -69,26 +69,26 @@ projects in the [BESTE](https://github.com/beste),
 - [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [8.x](https://github.com/kreait/firebase-php/pull/1036) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
-- [Update Tests workflow](https://github.com/kreait/firebase-bundle/pull/75) on [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) (1 week ago)
+- [Update Tests workflow](https://github.com/kreait/firebase-bundle/pull/75) on [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) (2 weeks ago)
 - [Add test to ensure non-latin values can be JSON-encoded](https://github.com/kreait/firebase-php/pull/1032) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (3 days ago)
-- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (3 days ago)
-- [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) -  A PHP extension to write gRPC servers using the official gRPC library written in Go  (4 days ago)
-- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool.  Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard. (4 days ago)
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (4 days ago)
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad (1 day ago)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (4 days ago)
+- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (4 days ago)
+- [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) -  A PHP extension to write gRPC servers using the official gRPC library written in Go  (5 days ago)
+- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool.  Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard. (5 days ago)
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (5 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 week ago)
 - [workos/workos-php](https://github.com/workos/workos-php) - Official PHP SDK for interacting with the WorkOS API (1 week ago)
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation. (1 week ago)
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. (1 week ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [polidog](https://github.com/polidog) (6 months ago)
-- [TeferiHero](https://github.com/TeferiHero) (10 months ago)
+- [TeferiHero](https://github.com/TeferiHero) (11 months ago)
 - [notdefine](https://github.com/notdefine) (1 year ago)
 - [exitable](https://github.com/exitable) (1 year ago)
 - [bennyt2](https://github.com/bennyt2) (3 years ago)
