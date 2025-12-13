@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.313.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.313.0), 1 week ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.314.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.314.0), today) - Google Cloud Client Library for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
