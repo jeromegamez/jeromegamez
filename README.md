@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
@@ -61,6 +61,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `firebase-tools` installation](https://github.com/kreait/firebase-php/pull/1049) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (today)
+- [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/kreait/firebase-php/pull/1048) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (today)
 - [Rename test methods](https://github.com/kreait/firebase-php/pull/1044) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Improve type safety and reduce runtime overhead](https://github.com/kreait/firebase-php/pull/1043) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Replace `Stringable|string` argument types with `string`-only](https://github.com/kreait/firebase-php/pull/1042) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
@@ -69,8 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
 - [8.x](https://github.com/kreait/firebase-php/pull/1036) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 week ago)
-- [Update Tests workflow](https://github.com/kreait/firebase-bundle/pull/75) on [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) (2 weeks ago)
-- [Add test to ensure non-latin values can be JSON-encoded](https://github.com/kreait/firebase-php/pull/1032) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
