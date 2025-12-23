@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (2 days ago)
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (3 days ago)
-- [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (6 days ago)
-- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (6 days ago)
-- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (6 days ago)
+- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (1 day ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (3 days ago)
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (4 days ago)
+- [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (1 week ago)
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (1 week ago)
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (1 week ago)
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library. (1 week ago)
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad (1 week ago)
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (1 week ago)
-- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (1 week ago)
-- [dunglas/frankenphp-grpc](https://github.com/dunglas/frankenphp-grpc) -  A PHP extension to write gRPC servers using the official gRPC library written in Go  (2 weeks ago)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (2 weeks ago)
+- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
