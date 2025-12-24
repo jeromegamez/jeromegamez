@@ -67,23 +67,23 @@ projects in the [BESTE](https://github.com/beste),
 - [Improve type safety and reduce runtime overhead](https://github.com/kreait/firebase-php/pull/1043) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Replace `Stringable|string` argument types with `string`-only](https://github.com/kreait/firebase-php/pull/1042) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
-- [Improve type system](https://github.com/kreait/firebase-php/pull/1040) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
-- [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
-- [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
-- [8.x](https://github.com/kreait/firebase-php/pull/1036) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Improve type system](https://github.com/kreait/firebase-php/pull/1040) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
+- [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
+- [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
+- [8.x](https://github.com/kreait/firebase-php/pull/1036) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (1 day ago)
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (3 days ago)
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (4 days ago)
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 day ago)
+- [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (1 day ago)
+- [TheQuantumPhysicist/example-podman-quadlet](https://github.com/TheQuantumPhysicist/example-podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment (1 day ago)
+- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (2 days ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (4 days ago)
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (5 days ago)
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (1 week ago)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (1 week ago)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (1 week ago)
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library. (1 week ago)
-- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad (1 week ago)
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (2 weeks ago)
-- [php-collective/djot-php](https://github.com/php-collective/djot-php) - A PHP parser for Djot, a modern light markup language (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
