@@ -51,7 +51,7 @@ projects in the [BESTE](https://github.com/beste),
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.314.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.314.0), 1 week ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 3 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 4 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 3 months ago) - A simple JSON helper to decode and encode JSON
 - [kreait/firebase-tokens-php](https://github.com/kreait/firebase-tokens-php) ([5.3.0](https://github.com/kreait/firebase-tokens-php/releases/tag/5.3.0), 3 months ago) - A PHP library to work with Firebase tokens
@@ -66,7 +66,7 @@ projects in the [BESTE](https://github.com/beste),
 - [Rename test methods](https://github.com/kreait/firebase-php/pull/1044) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Improve type safety and reduce runtime overhead](https://github.com/kreait/firebase-php/pull/1043) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Replace `Stringable|string` argument types with `string`-only](https://github.com/kreait/firebase-php/pull/1042) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
-- [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
+- [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Improve type system](https://github.com/kreait/firebase-php/pull/1040) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
@@ -74,12 +74,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 day ago)
-- [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (1 day ago)
-- [TheQuantumPhysicist/example-podman-quadlet](https://github.com/TheQuantumPhysicist/example-podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment (1 day ago)
-- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (2 days ago)
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (4 days ago)
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (5 days ago)
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (2 days ago)
+- [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (2 days ago)
+- [TheQuantumPhysicist/example-podman-quadlet](https://github.com/TheQuantumPhysicist/example-podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment (2 days ago)
+- [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (3 days ago)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (5 days ago)
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (6 days ago)
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (1 week ago)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (1 week ago)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (1 week ago)
