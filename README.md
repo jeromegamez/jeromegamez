@@ -79,7 +79,7 @@ projects in the [BESTE](https://github.com/beste),
 - [TheQuantumPhysicist/example-podman-quadlet](https://github.com/TheQuantumPhysicist/example-podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment (2 days ago)
 - [tylerhall/Alan](https://github.com/tylerhall/Alan) - Draws a border around the active window on macOS. (3 days ago)
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser (5 days ago)
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher. (6 days ago)
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud (6 days ago)
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (1 week ago)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (1 week ago)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (1 week ago)
