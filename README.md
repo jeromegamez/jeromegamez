@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (today)
+- [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work. (today)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (3 days ago)
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object (3 days ago)
 - [TheQuantumPhysicist/example-podman-quadlet](https://github.com/TheQuantumPhysicist/example-podman-quadlet) - Personal Podman Quadlet configurations for self-hosted services in a homelab environment (3 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud (1 week ago)
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work. (1 week ago)
 - [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance. (1 week ago)
-- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console (1 week ago)
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
