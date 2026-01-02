@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Fix `firebase-tools` installation](https://github.com/kreait/firebase-php/pull/1049) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/kreait/firebase-php/pull/1048) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [Improve type system](https://github.com/kreait/firebase-php/pull/1040) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
-- [Remove deprecated components, classes, methods and constants](https://github.com/kreait/firebase-php/pull/1038) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
