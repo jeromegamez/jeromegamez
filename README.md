@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/.github](https://github.com/beste/.github) -  (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.314.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.314.0), 2 weeks ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.314.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.314.0), 3 weeks ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([7.24.0](https://github.com/kreait/firebase-php/releases/tag/7.24.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
@@ -61,22 +61,22 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
-- [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
+- [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix `firebase-tools` installation](https://github.com/kreait/firebase-php/pull/1049) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/kreait/firebase-php/pull/1048) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (2 weeks ago)
 - [Rename test methods](https://github.com/kreait/firebase-php/pull/1044) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [Improve type safety and reduce runtime overhead](https://github.com/kreait/firebase-php/pull/1043) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
 - [Replace `Stringable|string` argument types with `string`-only](https://github.com/kreait/firebase-php/pull/1042) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
-- [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (4 weeks ago)
+- [Deprecate `withHttpLogger()` and `withHttpDebugLogger()` factory helpers](https://github.com/kreait/firebase-php/pull/1041) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Improve type system](https://github.com/kreait/firebase-php/pull/1040) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Drop support for PHP &lt;8.3](https://github.com/kreait/firebase-php/pull/1039) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (2 days ago)
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving. (2 days ago)
-- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (3 days ago)
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving. (3 days ago)
+- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (5 days ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (1 week ago)
 - [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work. (1 week ago)
