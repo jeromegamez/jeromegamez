@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
+- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix `firebase-tools` installation](https://github.com/kreait/firebase-php/pull/1049) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
 - [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/kreait/firebase-php/pull/1048) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (3 weeks ago)
@@ -74,9 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go &#43; React. (today)
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. (1 day ago)
-- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable. (1 day ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go &#43; React. (1 day ago)
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. (2 days ago)
+- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable. (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 week ago)
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving. (1 week ago)
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (1 week ago)
@@ -87,7 +87,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [polidog](https://github.com/polidog) (6 months ago)
+- [polidog](https://github.com/polidog) (7 months ago)
 - [TeferiHero](https://github.com/TeferiHero) (11 months ago)
 - [notdefine](https://github.com/notdefine) (1 year ago)
 - [exitable](https://github.com/exitable) (2 years ago)
