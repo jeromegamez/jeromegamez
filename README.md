@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.315.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.315.0), 2 days ago) - Google Cloud Client Library for PHP
-- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([8.0.0](https://github.com/kreait/firebase-php/releases/tag/8.0.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.315.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.315.0), 3 days ago) - Google Cloud Client Library for PHP
+- [kreait/firebase-php](https://github.com/kreait/firebase-php) ([8.0.0](https://github.com/kreait/firebase-php/releases/tag/8.0.0), 4 days ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 3 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -74,21 +74,21 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (2 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (2 days ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (4 days ago)
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. (5 days ago)
-- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable. (5 days ago)
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (3 days ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (3 days ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (5 days ago)
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. (6 days ago)
+- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable. (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 week ago)
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving. (1 week ago)
-- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (1 week ago)
+- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (2 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 weeks ago)
 - [renzorlive/vimmaster](https://github.com/renzorlive/vimmaster) - VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [polidog](https://github.com/polidog) (7 months ago)
-- [TeferiHero](https://github.com/TeferiHero) (11 months ago)
+- [TeferiHero](https://github.com/TeferiHero) (1 year ago)
 - [notdefine](https://github.com/notdefine) (1 year ago)
 - [exitable](https://github.com/exitable) (2 years ago)
 - [bennyt2](https://github.com/bennyt2) (3 years ago)
