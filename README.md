@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.315.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.315.0), 6 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.315.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.315.0), 1 week ago) - Google Cloud Client Library for PHP
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) ([8.0.0](https://github.com/kreait/firebase-php/releases/tag/8.0.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
+- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 weeks ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Fix `firebase-tools` installation](https://github.com/kreait/firebase-php/pull/1049) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
 - [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/kreait/firebase-php/pull/1048) on [kreait/firebase-php](https://github.com/kreait/firebase-php) (1 month ago)
@@ -74,15 +74,15 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library  (today)
-- [linux-universe/immich-podman-quadlets](https://github.com/linux-universe/immich-podman-quadlets) - The original Immich Docker Compose file rewritten in Podman Quadlet. (1 day ago)
-- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (2 days ago)
-- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (2 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (3 days ago)
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (6 days ago)
-- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (6 days ago)
+- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library  (1 day ago)
+- [linux-universe/immich-podman-quadlets](https://github.com/linux-universe/immich-podman-quadlets) - The original Immich Docker Compose file rewritten in Podman Quadlet. (2 days ago)
+- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (3 days ago)
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff. (3 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 days ago)
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (1 week ago)
+- [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (1 week ago)
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
