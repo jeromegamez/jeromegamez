@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers. (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 month ago)
-- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
+- [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 months ago)
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 months ago)
 - [beste/.github](https://github.com/beste/.github) -  (2 months ago)
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) - Google Cloud Client Library for PHP (2 months ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.317.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.317.0), 5 days ago) - Google Cloud Client Library for PHP
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.1.0](https://github.com/beste/firebase-php/releases/tag/8.1.0), 5 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.317.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.317.0), 6 days ago) - Google Cloud Client Library for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.1.0](https://github.com/beste/firebase-php/releases/tag/8.1.0), 6 days ago) - Unofficial Firebase Admin SDK for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.462](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.462), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [kreait/firebase-bundle](https://github.com/kreait/firebase-bundle) ([5.7.0](https://github.com/kreait/firebase-bundle/releases/tag/5.7.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [kreait/laravel-firebase](https://github.com/kreait/laravel-firebase) ([6.2.0](https://github.com/kreait/laravel-firebase/releases/tag/6.2.0), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (5 days ago)
+- [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (6 days ago)
 - [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 weeks ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 weeks ago)
 - [Fix `firebase-tools` installation](https://github.com/beste/firebase-php/pull/1049) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
-- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (today)
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 day ago)
-- [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec) - Next generation vector tiles format (1 day ago)
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. (1 day ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
-- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (3 days ago)
-- [ostafen/digler](https://github.com/ostafen/digler) - Digler is a tool for forensic disk analysis and file recovery. It&#39;s designed to help you unearth lost or deleted data from various disk images and raw devices. (3 days ago)
-- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library (5 days ago)
-- [rberg27/doom-coding](https://github.com/rberg27/doom-coding) - A guide for how to use your smartphone to code anywhere at anytime.  (1 week ago)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (1 day ago)
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (1 day ago)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 days ago)
+- [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec) - Next generation vector tiles format (2 days ago)
+- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. (2 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (4 days ago)
+- [ostafen/digler](https://github.com/ostafen/digler) - Digler is a tool for forensic disk analysis and file recovery. It&#39;s designed to help you unearth lost or deleted data from various disk images and raw devices. (4 days ago)
+- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
