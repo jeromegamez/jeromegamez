@@ -76,7 +76,7 @@ projects in the [BESTE](https://github.com/beste),
 
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem. (1 day ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (2 days ago)
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (2 days ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 days ago)
 - [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec) - Next generation vector tiles format (3 days ago)
