@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon&#39;s toot conversation in a HTML page (today)
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool. (1 day ago)
 - [giorgiosironi/eris](https://github.com/giorgiosironi/eris) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem. (4 days ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. (6 days ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds (1 week ago)
-- [ostafen/digler](https://github.com/ostafen/digler) - Digler is a tool for forensic disk analysis and file recovery. It&#39;s designed to help you unearth lost or deleted data from various disk images and raw devices. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
