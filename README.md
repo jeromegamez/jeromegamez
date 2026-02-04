@@ -23,10 +23,10 @@ projects in the [BESTE](https://github.com/beste),
 #### 👷 What I'm currently working on
 
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 day ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) - Source for firebase open source site (2 days ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
 - [kreait/clock-php](https://github.com/kreait/clock-php) - A PHP 7.0 compatible clock abstraction (4 days ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 days ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 days ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.318.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.318.0), today) - Google Cloud Client Library for PHP
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 1 day ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.317.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.317.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.1.0](https://github.com/beste/firebase-php/releases/tag/8.1.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.462](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.462), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([5.7.0](https://github.com/beste/firebase-bundle/releases/tag/5.7.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
