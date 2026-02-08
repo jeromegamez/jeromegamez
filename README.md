@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (today)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A contributor trust management system based on explicit vouches to participate. (today)
 - [Crell/ApiProblem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification. Includes PSR-15 support. (2 days ago)
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon&#39;s toot conversation in a HTML page (6 days ago)
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool. (1 week ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (1 week ago)
 - [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec) - Next generation vector tiles format (1 week ago)
-- [tldev/posturr](https://github.com/tldev/posturr) - A macOS app that blurs your screen when you slouch. (1 week ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
