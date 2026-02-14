@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (today)
 - [justinGrosvenor/s3ui](https://github.com/justinGrosvenor/s3ui) - native ui for s3 (2 days ago)
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (2 days ago)
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Crell/ApiProblem](https://github.com/Crell/ApiProblem) - A simple implementation of the api-problem specification. Includes PSR-15 support. (1 week ago)
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon&#39;s toot conversation in a HTML page (1 week ago)
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool. (1 week ago)
-- [giorgiosironi/eris](https://github.com/giorgiosironi/eris) - Eris is a porting of Quickcheck and property-based testing tools to the PHP and PHPUnit ecosystem. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
