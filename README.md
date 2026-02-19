@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (4 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (4 days ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (4 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (5 days ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (6 days ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (6 days ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (6 days ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (today)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (5 days ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (5 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 week ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 week ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -48,39 +48,39 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 1 day ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 4 days ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), today) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([7.24.1](https://github.com/beste/firebase-php/releases/tag/7.24.1), 1 day ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 2 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 5 days ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.463](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.463), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.319.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.319.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 2 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.1.0](https://github.com/beste/firebase-php/releases/tag/8.1.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([6.2.0](https://github.com/beste/laravel-firebase/releases/tag/6.2.0), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 4 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 5 months ago) - A simple JSON helper to decode and encode JSON
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.3.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.3.0), 5 months ago) - A PHP library to work with Firebase tokens
 
 #### 🔨 My recent Pull Requests
 
-- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (4 days ago)
-- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (4 days ago)
-- [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
+- [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (today)
+- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (5 days ago)
+- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (5 days ago)
+- [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (2 weeks ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [Fix `firebase-tools` installation](https://github.com/beste/firebase-php/pull/1049) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Move `getUserByProviderUid()` method into the `Auth` contract](https://github.com/beste/firebase-php/pull/1048) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
-- [Rename test methods](https://github.com/beste/firebase-php/pull/1044) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern, native Kubernetes management desktop app for macOS &amp; Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. (1 day ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (2 days ago)
-- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (2 days ago)
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (2 days ago)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (4 days ago)
-- [justinGrosvenor/s3ui](https://github.com/justinGrosvenor/s3ui) - native ui for s3 (6 days ago)
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (6 days ago)
+- [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern, native Kubernetes management desktop app for macOS &amp; Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. (2 days ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (3 days ago)
+- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (3 days ago)
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (3 days ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (5 days ago)
+- [justinGrosvenor/s3ui](https://github.com/justinGrosvenor/s3ui) - native ui for s3 (1 week ago)
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (1 week ago)
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (1 week ago)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go. (1 week ago)
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (1 week ago)
