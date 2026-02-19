@@ -23,12 +23,12 @@ projects in the [BESTE](https://github.com/beste),
 #### 👷 What I'm currently working on
 
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (today)
+- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (today)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (5 days ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (5 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 week ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 week ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 week ago)
@@ -55,9 +55,9 @@ projects in the [BESTE](https://github.com/beste),
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.463](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.463), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.319.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.319.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 2 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 3 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 4 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 5 months ago) - A simple JSON helper to decode and encode JSON
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.3.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.3.0), 5 months ago) - A PHP library to work with Firebase tokens
 
 #### 🔨 My recent Pull Requests
 
