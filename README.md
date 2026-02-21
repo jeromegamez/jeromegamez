@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (today)
 - [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern, native Kubernetes management desktop app for macOS &amp; Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. (4 days ago)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (5 days ago)
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (5 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (1 week ago)
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (1 week ago)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go. (1 week ago)
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
