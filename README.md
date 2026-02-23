@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (today)
+- [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc. (today)
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (2 days ago)
 - [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern, native Kubernetes management desktop app for macOS &amp; Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. (6 days ago)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (1 week ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
 - [justinGrosvenor/s3ui](https://github.com/justinGrosvenor/s3ui) - native ui for s3 (1 week ago)
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (1 week ago)
-- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (2 weeks ago)
-- [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
