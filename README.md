@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [redhat-cop/viewfinder-upstream](https://github.com/redhat-cop/viewfinder-upstream) - Upstream version of the &#34;Red Hat Sovereignty Readiness Assessment&#34; (today)
 - [brianlmoon/phlag](https://github.com/brianlmoon/phlag) - Phlag - An Open Source Feature Flag Management Application (1 day ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (1 day ago)
 - [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc. (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (1 week ago)
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (1 week ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
-- [justinGrosvenor/s3ui](https://github.com/justinGrosvenor/s3ui) - native ui for s3 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
