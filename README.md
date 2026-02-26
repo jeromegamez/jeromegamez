@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (today)
+- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (today)
+- [daijinhai/TermClean](https://github.com/daijinhai/TermClean) -  (today)
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) -  (today)
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) -  (today)
+- [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com) (today)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 day ago)
 - [redhat-cop/viewfinder-upstream](https://github.com/redhat-cop/viewfinder-upstream) - Upstream version of the &#34;Red Hat Sovereignty Readiness Assessment&#34; (2 days ago)
 - [brianlmoon/phlag](https://github.com/brianlmoon/phlag) - Phlag - An Open Source Feature Flag Management Application (3 days ago)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin &amp; uBlacklist. (3 days ago)
-- [corsa-center/oss-documents](https://github.com/corsa-center/oss-documents) - Collecting guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, licenses, codes of conduct, etc. (3 days ago)
-- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (5 days ago)
-- [atilladeniz/Kubeli](https://github.com/atilladeniz/Kubeli) - A modern, native Kubernetes management desktop app for macOS &amp; Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. (1 week ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (1 week ago)
-- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (1 week ago)
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
