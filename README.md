@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (today)
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (1 day ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 day ago)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (4 days ago)
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (4 days ago)
 - [daijinhai/TermClean](https://github.com/daijinhai/TermClean) -  (4 days ago)
-- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) -  (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
