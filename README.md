@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 week ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), today) - Unofficial Firebase Admin SDK for PHP
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 5 days ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([7.24.1](https://github.com/beste/firebase-php/releases/tag/7.24.1), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.463](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.463), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
