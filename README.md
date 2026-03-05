@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 week ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
-- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (1 week ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
+- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (2 weeks ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 weeks ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 weeks ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 weeks ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -48,24 +48,24 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), today) - Unofficial Firebase Admin SDK for PHP
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 5 days ago) - Google Cloud Client Library for PHP
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 6 days ago) - Google Cloud Client Library for PHP
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.463](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.463), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 4 weeks ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 3 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 5 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 5 months ago) - A simple JSON helper to decode and encode JSON
 
 #### 🔨 My recent Pull Requests
 
-- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 days ago)
-- [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (1 week ago)
+- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (5 days ago)
+- [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 weeks ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 weeks ago)
 - [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (2 weeks ago)
-- [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
+- [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (1 month ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (2 days ago)
-- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (3 days ago)
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (3 days ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (5 days ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (5 days ago)
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (5 days ago)
-- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features. (5 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (6 days ago)
-- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (6 days ago)
-- [daijinhai/TermClean](https://github.com/daijinhai/TermClean) -  (6 days ago)
+- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (3 days ago)
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (4 days ago)
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (4 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (6 days ago)
+- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (6 days ago)
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (6 days ago)
+- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features. (6 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
+- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (1 week ago)
+- [daijinhai/TermClean](https://github.com/daijinhai/TermClean) -  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
