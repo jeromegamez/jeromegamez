@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 week ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 6 days ago) - Google Cloud Client Library for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (5 days ago)
+- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (6 days ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 weeks ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 weeks ago)
 - [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (2 weeks ago)
@@ -74,13 +74,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (3 days ago)
-- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (4 days ago)
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (4 days ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (6 days ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (6 days ago)
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (6 days ago)
-- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features. (6 days ago)
+- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (4 days ago)
+- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (5 days ago)
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (5 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 week ago)
+- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (1 week ago)
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (1 week ago)
+- [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features. (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (1 week ago)
 - [daijinhai/TermClean](https://github.com/daijinhai/TermClean) -  (1 week ago)
