@@ -48,12 +48,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), today) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.464](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.464), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 5 days ago) - Unofficial Firebase Admin SDK for PHP
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.321.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.321.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 3 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.463](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.463), 4 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 3 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 5 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
