@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.467](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.467), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 3 days ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
