@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (6 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
@@ -48,8 +48,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 3 days ago) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 4 days ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.0.0](https://github.com/beste/firebase-bundle/releases/tag/6.0.0), 3 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (today)
-- [johnnydecimal/johnnydecimal-skills](https://github.com/johnnydecimal/johnnydecimal-skills) - SKILLS files for your favourite LLM. (4 days ago)
-- [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent&#39;s work (5 days ago)
-- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) - ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs (5 days ago)
+- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (1 day ago)
+- [johnnydecimal/johnnydecimal-skills](https://github.com/johnnydecimal/johnnydecimal-skills) - SKILLS files for your favourite LLM. (5 days ago)
+- [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent&#39;s work (6 days ago)
+- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) - ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs (6 days ago)
 - [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (1 week ago)
 - [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (1 week ago)
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 week ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 week ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (1 week ago)
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (1 week ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 weeks ago)
+- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (2 weeks ago)
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android &amp; Desktop (Linux, MacOS, Windows). (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
