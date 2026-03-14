@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (today)
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (today)
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (today)
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (today)
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (today)
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (today)
 - [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface. (1 day ago)
 - [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (2 days ago)
 - [johnnydecimal/johnnydecimal-skills](https://github.com/johnnydecimal/johnnydecimal-skills) - SKILLS files for your favourite LLM. (6 days ago)
 - [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent&#39;s work (1 week ago)
-- [lardissone/ansi-saver](https://github.com/lardissone/ansi-saver) - ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs (1 week ago)
-- [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude Code skill for deliberate skill development during AI-assisted coding (1 week ago)
-- [vmfunc/sif](https://github.com/vmfunc/sif) - the blazing-fast pentesting suite. (1 week ago)
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (1 week ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 weeks ago)
-- [patchlevel/rango](https://github.com/patchlevel/rango) - Rango is a high-performance PHP library that reimplements the MongoDB PHP API on top of PostgreSQL using the power of JSONB (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
