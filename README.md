@@ -22,13 +22,13 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (3 weeks ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (4 weeks ago)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 month ago)
@@ -48,12 +48,12 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 1 day ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), 3 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 6 days ago) - Google Cloud Client Library for PHP
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), 4 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 4 weeks ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 3 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 5 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -63,8 +63,8 @@ projects in the [BESTE](https://github.com/beste),
 
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (3 weeks ago)
-- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (4 weeks ago)
-- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (4 weeks ago)
+- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (1 month ago)
+- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (1 month ago)
 - [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (1 month ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
@@ -74,14 +74,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (1 day ago)
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 day ago)
-- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (1 day ago)
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 day ago)
-- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (1 day ago)
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (1 day ago)
-- [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface. (2 days ago)
-- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (3 days ago)
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (2 days ago)
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (2 days ago)
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (2 days ago)
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (2 days ago)
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (2 days ago)
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (2 days ago)
+- [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface. (3 days ago)
+- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (4 days ago)
 - [johnnydecimal/johnnydecimal-skills](https://github.com/johnnydecimal/johnnydecimal-skills) - SKILLS files for your favourite LLM. (1 week ago)
 - [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent&#39;s work (1 week ago)
 
