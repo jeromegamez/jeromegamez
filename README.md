@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 days ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (4 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 weeks ago)
@@ -48,10 +48,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 3 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), 5 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.322.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.322.0), 1 week ago) - Google Cloud Client Library for PHP
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.323.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.323.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 4 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.468](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.468), 6 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.0.0](https://github.com/beste/laravel-firebase/releases/tag/7.0.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 1 month ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
@@ -74,14 +74,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (3 days ago)
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (3 days ago)
-- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (3 days ago)
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (3 days ago)
-- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (3 days ago)
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (3 days ago)
-- [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface. (4 days ago)
-- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (5 days ago)
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (4 days ago)
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (4 days ago)
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (4 days ago)
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (4 days ago)
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (4 days ago)
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (4 days ago)
+- [git-pkgs/forge](https://github.com/git-pkgs/forge) - Go library and CLI for working with git forges. Supports GitHub, GitLab, Gitea/Forgejo, and Bitbucket Cloud through a single interface. (5 days ago)
+- [git-pkgs/proxy](https://github.com/git-pkgs/proxy) - A caching proxy for package registries.  (6 days ago)
 - [johnnydecimal/johnnydecimal-skills](https://github.com/johnnydecimal/johnnydecimal-skills) - SKILLS files for your favourite LLM. (1 week ago)
 - [simonw/showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent&#39;s work (1 week ago)
 
