@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [php-collective/dto](https://github.com/php-collective/dto) - The easiest and fastest PHP DTO library in the world - quickly generate useful data transfer objects for your app (mutable/immutable) (today)
+- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. (today)
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) -  (2 days ago)
 - [bangsmackpow/colorcraft-studio](https://github.com/bangsmackpow/colorcraft-studio) - Coloring book page webapp with static frontend and node.js backend. (2 days ago)
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (2 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 week ago)
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (1 week ago)
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 week ago)
-- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min&#43;gz. (1 week ago)
-- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
