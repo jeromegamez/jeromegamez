@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (today)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 days ago)
 - [php-collective/dto](https://github.com/php-collective/dto) - The easiest and fastest PHP DTO library in the world - quickly generate useful data transfer objects for your app (mutable/immutable) (2 days ago)
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices (5 days ago)
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (1 week ago)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 week ago)
-- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
