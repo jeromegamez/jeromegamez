@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (today)
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (1 day ago)
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (1 day ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [bangsmackpow/colorcraft-studio](https://github.com/bangsmackpow/colorcraft-studio) - Coloring book page webapp with static frontend and node.js backend. (5 days ago)
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (5 days ago)
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices (6 days ago)
-- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
