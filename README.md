@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (today)
 - [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (1 day ago)
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (2 days ago)
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (2 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) -  (6 days ago)
 - [bangsmackpow/colorcraft-studio](https://github.com/bangsmackpow/colorcraft-studio) - Coloring book page webapp with static frontend and node.js backend. (6 days ago)
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (6 days ago)
-- [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
