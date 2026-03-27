@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (today)
 - [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (1 day ago)
 - [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (2 days ago)
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (3 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. (5 days ago)
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) -  (1 week ago)
 - [bangsmackpow/colorcraft-studio](https://github.com/bangsmackpow/colorcraft-studio) - Coloring book page webapp with static frontend and node.js backend. (1 week ago)
-- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
