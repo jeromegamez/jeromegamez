@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (today)
 - [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (3 days ago)
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (3 days ago)
 - [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [php-collective/dto](https://github.com/php-collective/dto) - The easiest and fastest PHP DTO library in the world - quickly generate useful data transfer objects for your app (mutable/immutable) (1 week ago)
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. (1 week ago)
-- [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) -  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [AtheeshRathnaweera](https://github.com/AtheeshRathnaweera)
 - [Meacue](https://github.com/Meacue)
 - [melasistema](https://github.com/melasistema)
 - [abdellahrk](https://github.com/abdellahrk)
-- [Pyshkin1978](https://github.com/Pyshkin1978)
 
 #### 💬 Feedback
 
