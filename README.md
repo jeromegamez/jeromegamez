@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - An Adwaita Music Player / Library Manager (today)
 - [php-collective/toml](https://github.com/php-collective/toml) - PHP library for encoding and decoding TOML (1 day ago)
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (1 day ago)
 - [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (4 days ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (1 week ago)
 - [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
-- [php-collective/dto](https://github.com/php-collective/dto) - The easiest and fastest PHP DTO library in the world - quickly generate useful data transfer objects for your app (mutable/immutable) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
