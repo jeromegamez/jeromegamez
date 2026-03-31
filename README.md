@@ -22,8 +22,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.470](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.470), 6 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.470](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.470), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.324.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.324.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
@@ -69,21 +69,21 @@ projects in the [BESTE](https://github.com/beste),
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (1 month ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
-- [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 months ago)
+- [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 months ago)
 - [Fix `firebase-tools` installation](https://github.com/beste/firebase-php/pull/1049) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (today)
-- [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (3 days ago)
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (3 days ago)
-- [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (4 days ago)
-- [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (5 days ago)
-- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (6 days ago)
-- [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (6 days ago)
+- [php-collective/toml](https://github.com/php-collective/toml) - PHP library for encoding and decoding TOML (1 day ago)
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (1 day ago)
+- [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (4 days ago)
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (4 days ago)
+- [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (5 days ago)
+- [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (6 days ago)
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (1 week ago)
+- [bramcohen/manyana](https://github.com/bramcohen/manyana) -  (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [php-collective/dto](https://github.com/php-collective/dto) - The easiest and fastest PHP DTO library in the world - quickly generate useful data transfer objects for your app (mutable/immutable) (1 week ago)
-- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
