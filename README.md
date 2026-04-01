@@ -23,11 +23,11 @@ projects in the [BESTE](https://github.com/beste),
 #### 👷 What I'm currently working on
 
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (1 day ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (1 month ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
@@ -74,6 +74,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (today)
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. (1 day ago)
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (1 day ago)
 - [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - An Adwaita Music Player / Library Manager (1 day ago)
@@ -83,7 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (5 days ago)
 - [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (6 days ago)
 - [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (1 week ago)
-- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
