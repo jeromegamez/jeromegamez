@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (1 day ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 days ago)
+- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 days ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (4 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
@@ -48,9 +48,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.325.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.325.0), 1 day ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.325.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.325.0), 2 days ago) - Google Cloud Client Library for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.470](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.470), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 weeks ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 4 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 1 month ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -68,21 +68,21 @@ projects in the [BESTE](https://github.com/beste),
 - [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (1 month ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
-- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
+- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 months ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 months ago)
 - [Fix `firebase-tools` installation](https://github.com/beste/firebase-php/pull/1049) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (today)
-- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. (1 day ago)
-- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (1 day ago)
-- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - An Adwaita Music Player / Library Manager (1 day ago)
-- [php-collective/toml](https://github.com/php-collective/toml) - PHP library for encoding and decoding TOML (2 days ago)
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (2 days ago)
-- [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (5 days ago)
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (5 days ago)
-- [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (6 days ago)
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (1 day ago)
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. (2 days ago)
+- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (2 days ago)
+- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - An Adwaita Music Player / Library Manager (2 days ago)
+- [php-collective/toml](https://github.com/php-collective/toml) - PHP library for encoding and decoding TOML (3 days ago)
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README. (3 days ago)
+- [simzikov/dashbrd](https://github.com/simzikov/dashbrd) - Dashboard template powered by Bootstrap (6 days ago)
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps (6 days ago)
+- [sansecio/composer-integrity-plugin](https://github.com/sansecio/composer-integrity-plugin) - A composer plugin that checks your installed composer packages against a list of known correct checksums. (1 week ago)
 - [diegosantdev/LicensePulse](https://github.com/diegosantdev/LicensePulse) - OSS license watchdog. Monitors GitHub repos you depend on and alerts you when a license changes, explaining exactly what you can no longer do. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
