@@ -74,20 +74,20 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [devtheorem/php-handlebars](https://github.com/devtheorem/php-handlebars) - A blazing fast, spec-compliant PHP implementation of Handlebars. (1 day ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 day ago)
-- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (1 day ago)
-- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. (3 days ago)
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 days ago)
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀 (4 days ago)
-- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (6 days ago)
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 day ago)
+- [devtheorem/php-handlebars](https://github.com/devtheorem/php-handlebars) - A blazing fast, spec-compliant PHP implementation of Handlebars. (2 days ago)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (2 days ago)
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin (2 days ago)
+- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. (4 days ago)
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (5 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀 (5 days ago)
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. (1 week ago)
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. (1 week ago)
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (1 week ago)
-- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - An Adwaita Music Player / Library Manager (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [polidog](https://github.com/polidog) (9 months ago)
+- [polidog](https://github.com/polidog) (10 months ago)
 - [notdefine](https://github.com/notdefine) (1 year ago)
 - [exitable](https://github.com/exitable) (2 years ago)
 - [bennyt2](https://github.com/bennyt2) (3 years ago)
