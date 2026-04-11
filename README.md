@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [h-noronha-alves](https://github.com/h-noronha-alves)
 - [ipqwery](https://github.com/ipqwery)
 - [AtheeshRathnaweera](https://github.com/AtheeshRathnaweera)
 - [Meacue](https://github.com/Meacue)
 - [melasistema](https://github.com/melasistema)
-- [abdellahrk](https://github.com/abdellahrk)
 
 #### 💬 Feedback
 
