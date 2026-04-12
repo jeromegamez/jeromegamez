@@ -22,6 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 days ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (1 week ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
@@ -31,7 +32,6 @@ projects in the [BESTE](https://github.com/beste),
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) - Firebase Cloud Messaging (FCM) notifications channel for Laravel (1 month ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 month ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -76,7 +76,6 @@ projects in the [BESTE](https://github.com/beste),
 
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 day ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 day ago)
-- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 (1 day ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (1 day ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 day ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
@@ -84,6 +83,7 @@ projects in the [BESTE](https://github.com/beste),
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. (3 days ago)
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (5 days ago)
 - [devtheorem/php-handlebars](https://github.com/devtheorem/php-handlebars) - A blazing fast, spec-compliant PHP implementation of Handlebars. (6 days ago)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
