@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 weeks ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
@@ -48,14 +48,14 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.473](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.473), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.326.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.326.0), 6 days ago) - Google Cloud Client Library for PHP
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 3 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0-beta.473](https://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.473), 3 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.326.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.326.0), 1 week ago) - Google Cloud Client Library for PHP
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 4 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 2 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
-- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 4 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
+- [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) ([6.0.0](https://github.com/laravel-notification-channels/fcm/releases/tag/6.0.0), 5 months ago) - Firebase Cloud Messaging (FCM) notifications channel for Laravel
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.4.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.4.0), 6 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/json](https://github.com/beste/json) ([1.7.0](https://github.com/beste/json/releases/tag/1.7.0), 7 months ago) - A simple JSON helper to decode and encode JSON
 
@@ -74,16 +74,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (4 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (4 days ago)
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (4 days ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (4 days ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 days ago)
-- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude (5 days ago)
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS (6 days ago)
+- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 day ago)
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (5 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (5 days ago)
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (5 days ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (5 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (5 days ago)
+- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude (6 days ago)
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS (1 week ago)
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 week ago)
 - [devtheorem/php-handlebars](https://github.com/devtheorem/php-handlebars) - A blazing fast, spec-compliant PHP implementation of Handlebars. (1 week ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
