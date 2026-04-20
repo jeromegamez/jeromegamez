@@ -22,7 +22,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 weeks ago)
