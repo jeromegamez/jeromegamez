@@ -22,10 +22,10 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
-- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (2 weeks ago)
+- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (3 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 weeks ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 weeks ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
@@ -74,8 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli. (4 days ago)
-- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (5 days ago)
+- [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli. (5 days ago)
+- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (6 days ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (1 week ago)
@@ -83,7 +83,7 @@ projects in the [BESTE](https://github.com/beste),
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude (1 week ago)
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS (1 week ago)
-- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 week ago)
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
