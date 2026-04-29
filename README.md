@@ -22,16 +22,16 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👷 What I'm currently working on
 
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 day ago)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 day ago)
-- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (1 day ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 day ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 day ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 days ago)
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 days ago)
+- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (2 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (4 weeks ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (4 weeks ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -48,11 +48,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 day ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 day ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 1 day ago) - PHP CS Fixer Config used in BESTE projects
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.326.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.326.0), 2 weeks ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.327.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.327.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 days ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 2 days ago) - PHP CS Fixer Config used in BESTE projects
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.1.0](https://github.com/beste/laravel-firebase/releases/tag/7.1.0), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
@@ -61,7 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
-- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
+- [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 months ago)
 - [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (2 months ago)
@@ -74,11 +74,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
-- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono). (1 day ago)
-- [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph (1 day ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (5 days ago)
+- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono). (2 days ago)
+- [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph (2 days ago)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (6 days ago)
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli. (1 week ago)
-- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 week ago)
+- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (2 weeks ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (2 weeks ago)
