@@ -74,6 +74,8 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [zrubinrattet/moop](https://github.com/zrubinrattet/moop) - A desktop app for batch image optimization for the web. (today)
+- [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (today)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (today)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (1 day ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 days ago)
@@ -82,8 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono). (1 week ago)
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph (1 week ago)
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (1 week ago)
-- [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli. (2 weeks ago)
-- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
