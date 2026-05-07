@@ -48,7 +48,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.0](https://github.com/beste/laravel-firebase/releases/tag/7.2.0), today) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), today) - A Laravel package for the Firebase PHP Admin SDK
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.328.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.328.0), 3 days ago) - Google Cloud Client Library for PHP
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 week ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -61,6 +61,7 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 🔨 My recent Pull Requests
 
+- [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (today)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 months ago)
@@ -70,7 +71,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
 - [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 months ago)
 - [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 months ago)
-- [Fix `firebase-tools` installation](https://github.com/beste/firebase-php/pull/1049) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 months ago)
 
 #### ⭐ Recent Stars
 
