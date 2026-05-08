@@ -74,6 +74,9 @@ projects in the [BESTE](https://github.com/beste),
 
 #### ⭐ Recent Stars
 
+- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (today)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (today)
+- [ploopyco/bean-pointing-stick](https://github.com/ploopyco/bean-pointing-stick) - An open-source pointing stick mouse, powered by QMK.  (today)
 - [zrubinrattet/moop](https://github.com/zrubinrattet/moop) - A desktop app for batch image optimization for the web. (2 days ago)
 - [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (2 days ago)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (2 days ago)
@@ -81,9 +84,6 @@ projects in the [BESTE](https://github.com/beste),
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 days ago)
 - [xykong/flux-markdown](https://github.com/xykong/flux-markdown) - Markdown Preview Enhanced for macOS QuickLook (6 days ago)
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects (1 week ago)
-- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono). (1 week ago)
-- [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph (1 week ago)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
