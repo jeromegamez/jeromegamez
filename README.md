@@ -94,11 +94,11 @@ projects in the [BESTE](https://github.com/beste),
 
 #### 👯 Check out some of my recent followers
 
+- [wesleyscholl](https://github.com/wesleyscholl)
 - [SereyodamChek](https://github.com/SereyodamChek)
 - [wesdoyle](https://github.com/wesdoyle)
 - [h-noronha-alves](https://github.com/h-noronha-alves)
 - [ipqwery](https://github.com/ipqwery)
-- [AtheeshRathnaweera](https://github.com/AtheeshRathnaweera)
 
 #### 💬 Feedback
 
