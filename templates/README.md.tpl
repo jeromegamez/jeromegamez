@@ -15,10 +15,8 @@ and consider no code base to be unmaintainable 💪🏻.
 My most prolific project is the (unofficial)
 [Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) and its
 related libraries, which are
-[downloaded 500K+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
-projects in the [BESTE](https://github.com/beste),
-[kreait](https://github.com/kreait), and my
-[personal](https://github.com/jeromegamez) GitHub organizations.
+[downloaded 1.5M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
+projects at [BESTE](https://github.com/beste) and my [personal](https://github.com/jeromegamez) accounts.
 
 #### 👷 What I'm currently working on
 {{range recentContributions 10}}
