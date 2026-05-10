@@ -15,18 +15,16 @@ and consider no code base to be unmaintainable 💪🏻.
 My most prolific project is the (unofficial)
 [Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) and its
 related libraries, which are
-[downloaded 500K+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
-projects in the [BESTE](https://github.com/beste),
-[kreait](https://github.com/kreait), and my
-[personal](https://github.com/jeromegamez) GitHub organizations.
+[downloaded 1.5M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
+projects at [BESTE](https://github.com/beste) and my [personal](https://github.com/jeromegamez) accounts.
 
 #### 👷 What I'm currently working on
 
+- [beste/.github](https://github.com/beste/.github) -  (today)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (today)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
-- [beste/.github](https://github.com/beste/.github) -  (6 days ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (6 days ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (6 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (6 days ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (6 days ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (6 days ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
