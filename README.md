@@ -72,6 +72,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
 - [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (3 days ago)
 - [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (3 days ago)
 - [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (3 days ago)
@@ -81,7 +82,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (5 days ago)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (5 days ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (6 days ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
