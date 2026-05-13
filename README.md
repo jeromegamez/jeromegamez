@@ -20,9 +20,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/.github](https://github.com/beste/.github) -  (1 day ago)
-- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 day ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (5 days ago)
+- [beste/.github](https://github.com/beste/.github) -  (2 days ago)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 days ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 week ago)
@@ -46,20 +46,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 5 days ago) - A Laravel package for the Firebase PHP Admin SDK
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.328.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.328.0), 1 week ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 6 days ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 weeks ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 2 weeks ago) - PHP CS Fixer Config used in BESTE projects
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 1 month ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 3 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 
 #### 🔨 My recent Pull Requests
 
-- [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (5 days ago)
+- [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (6 days ago)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 months ago)
@@ -72,16 +72,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (today)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 day ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 day ago)
-- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (4 days ago)
-- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (4 days ago)
-- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (4 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (4 days ago)
-- [ploopyco/bean-pointing-stick](https://github.com/ploopyco/bean-pointing-stick) - An open-source pointing stick mouse, powered by QMK.  (4 days ago)
-- [zrubinrattet/moop](https://github.com/zrubinrattet/moop) - A desktop app for batch image optimization for the web. (6 days ago)
-- [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (6 days ago)
+- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (1 day ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (2 days ago)
+- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (5 days ago)
+- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (5 days ago)
+- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (5 days ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (5 days ago)
+- [ploopyco/bean-pointing-stick](https://github.com/ploopyco/bean-pointing-stick) - An open-source pointing stick mouse, powered by QMK.  (5 days ago)
+- [zrubinrattet/moop](https://github.com/zrubinrattet/moop) - A desktop app for batch image optimization for the web. (1 week ago)
+- [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
