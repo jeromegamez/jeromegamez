@@ -72,6 +72,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (today)
 - [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (1 day ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 days ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (2 days ago)
@@ -81,7 +82,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (5 days ago)
 - [ploopyco/bean-pointing-stick](https://github.com/ploopyco/bean-pointing-stick) - An open-source pointing stick mouse, powered by QMK.  (5 days ago)
 - [zrubinrattet/moop](https://github.com/zrubinrattet/moop) - A desktop app for batch image optimization for the web. (1 week ago)
-- [devlint/GitWand](https://github.com/devlint/GitWand) - GitWand automatically resolves trivial Git merge conflicts — the ones that waste your time but don&#39;t need human judgment. Think of it as PhpStorm&#39;s magic wand, everywhere. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
