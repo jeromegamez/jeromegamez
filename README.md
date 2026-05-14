@@ -72,6 +72,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (today)
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 day ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
 - [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (1 day ago)
@@ -81,7 +82,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (6 days ago)
 - [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (6 days ago)
 - [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (6 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
