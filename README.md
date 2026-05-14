@@ -20,9 +20,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/.github](https://github.com/beste/.github) -  (2 days ago)
-- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 days ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (6 days ago)
+- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (3 days ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 week ago)
@@ -46,8 +46,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 1 day ago) - Google Cloud Client Library for PHP
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 6 days ago) - A Laravel package for the Firebase PHP Admin SDK
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 2 days ago) - Google Cloud Client Library for PHP
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 weeks ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 2 weeks ago) - PHP CS Fixer Config used in BESTE projects
@@ -59,7 +59,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (6 days ago)
+- [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (1 week ago)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 months ago)
@@ -72,16 +72,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
-- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (today)
-- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (1 day ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (2 days ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (2 days ago)
-- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (5 days ago)
-- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (5 days ago)
-- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (5 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (5 days ago)
-- [ploopyco/bean-pointing-stick](https://github.com/ploopyco/bean-pointing-stick) - An open-source pointing stick mouse, powered by QMK.  (5 days ago)
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 day ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
+- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (1 day ago)
+- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (2 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (3 days ago)
+- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (6 days ago)
+- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (6 days ago)
+- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (6 days ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
