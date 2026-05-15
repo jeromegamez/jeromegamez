@@ -20,8 +20,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
-- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (3 days ago)
+- [beste/.github](https://github.com/beste/.github) -  (4 days ago)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (4 days ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
@@ -46,7 +46,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 2 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 3 days ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 weeks ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -54,7 +54,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 2 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 3 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 
 #### 🔨 My recent Pull Requests
@@ -62,8 +62,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (1 week ago)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (2 months ago)
-- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 months ago)
-- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (2 months ago)
+- [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (3 months ago)
+- [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (3 months ago)
 - [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
 - [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (3 months ago)
 - [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
@@ -72,16 +72,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (today)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 day ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
-- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (1 day ago)
-- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (2 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 days ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (3 days ago)
-- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (6 days ago)
-- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (6 days ago)
-- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (6 days ago)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 day ago)
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (2 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
+- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (2 days ago)
+- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (3 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (4 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (4 days ago)
+- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (1 week ago)
+- [ember-theme/zed](https://github.com/ember-theme/zed) - Ember theme for Zed (1 week ago)
+- [ember-theme/ghostty](https://github.com/ember-theme/ghostty) - Ember theme for Ghostty (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
