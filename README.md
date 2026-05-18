@@ -46,12 +46,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.0](https://github.com/coollabsio/coolify/releases/tag/v4.1.0), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 6 days ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 3 weeks ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 3 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 3 weeks ago) - PHP CS Fixer Config used in BESTE projects
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
