@@ -20,16 +20,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/.github](https://github.com/beste/.github) -  (6 days ago)
-- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (6 days ago)
+- [beste/.github](https://github.com/beste/.github) -  (1 week ago)
+- [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 week ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 week ago)
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 week ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 week ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 week ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 week ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 weeks ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 weeks ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -46,12 +46,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 5 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.329.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.329.0), 6 days ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 week ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 weeks ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 2 weeks ago) - PHP CS Fixer Config used in BESTE projects
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 3 weeks ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 3 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 3 weeks ago) - PHP CS Fixer Config used in BESTE projects
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.0.0](https://github.com/coollabsio/coolify/releases/tag/v4.0.0), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -72,15 +72,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [iliaal/php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library (1 day ago)
-- [NamtaoProductions/savepoint](https://github.com/NamtaoProductions/savepoint) - A command watcher that commits when you fix errors (2 days ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (3 days ago)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (4 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 days ago)
-- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (4 days ago)
-- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (5 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (6 days ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (6 days ago)
+- [iliaal/php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library (2 days ago)
+- [NamtaoProductions/savepoint](https://github.com/NamtaoProductions/savepoint) - A command watcher that commits when you fix errors (3 days ago)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (4 days ago)
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (5 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
+- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (5 days ago)
+- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (6 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
 - [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
