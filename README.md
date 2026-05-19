@@ -72,6 +72,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [stainless/docs-platform](https://github.com/stainless/docs-platform) - REST API, SDK, and narrative docs that automatically stay in sync with your actual API. Built on Astro. (today)
 - [iliaal/php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library (3 days ago)
 - [NamtaoProductions/savepoint](https://github.com/NamtaoProductions/savepoint) - A command watcher that commits when you fix errors (4 days ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (5 days ago)
@@ -81,7 +82,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (1 week ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
-- [ember-theme/intellij](https://github.com/ember-theme/intellij) - Ember theme for IntelliJ IDEA (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
