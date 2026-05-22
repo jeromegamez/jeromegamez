@@ -72,6 +72,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (3 days ago)
 - [Roave/DocbookTool](https://github.com/Roave/DocbookTool) - :books: Docbook Tool for static documentation generation from Markdown files (3 days ago)
 - [stainless/docs-platform](https://github.com/stainless/docs-platform) - REST API, SDK, and narrative docs that automatically stay in sync with your actual API. Built on Astro. (3 days ago)
@@ -81,7 +82,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
 - [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) -  (1 week ago)
-- [leninkhaidem/pi-claude-plugin-manager](https://github.com/leninkhaidem/pi-claude-plugin-manager) -  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
