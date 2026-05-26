@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 I'm Jérôme Gamez, a platform and backend engineer with 20+ years of experience.
-I build [elvah](https://www.elvah.de) during the day and Open Source Software
-at night.
 
 I'm a Jack of all trades with a soft spot for PHP, legacy software and,
 of course, Open Source software.
 
-My hobby is my job and vice versa. My mission is to make the work of all
+My mission is to make the work of all
 developers (myself included) more productive and enjoyable.
 I have a special affinity for code quality, stability, and legacy software,
 and consider no code base to be unmaintainable 💪🏻.
