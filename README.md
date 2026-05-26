@@ -19,15 +19,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [beste/.github](https://github.com/beste/.github) -  (today)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (3 weeks ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 weeks ago)
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -57,6 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
 - [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
 - [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
 - [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
@@ -66,7 +67,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (3 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (3 months ago)
 - [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (3 months ago)
-- [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
 
 #### ⭐ Recent Stars
 
