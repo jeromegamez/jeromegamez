@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 I'm Jérôme Gamez, a platform and backend engineer with 20+ years of experience.
-I build [elvah](https://www.elvah.de) during the day and Open Source Software
-at night.
 
 I'm a Jack of all trades with a soft spot for PHP, legacy software and,
 of course, Open Source software.
 
-My hobby is my job and vice versa. My mission is to make the work of all
+My mission is to make the work of all
 developers (myself included) more productive and enjoyable.
 I have a special affinity for code quality, stability, and legacy software,
 and consider no code base to be unmaintainable 💪🏻.
@@ -20,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (3 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
-- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (today)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [beste/.github](https://github.com/beste/.github) -  (today)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 weeks ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -59,20 +57,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
+- [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
+- [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
+- [Widen `google/cloud-storage` with v2](https://github.com/beste/firebase-php/pull/1092) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
 - [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (2 weeks ago)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (3 months ago)
 - [Support Firebase SDK 8.x and PHP 8.3&#43;](https://github.com/beste/firebase-bundle/pull/77) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (3 months ago)
 - [Add support for Symfony 8](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/7) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (3 months ago)
 - [Isolate grpc tests](https://github.com/beste/firebase-php/pull/1063) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 months ago)
-- [Update link to the unofficial PHP Admin SDK](https://github.com/firebase/firebaseopensource.com/pull/428) on [firebase/firebaseopensource.com](https://github.com/firebase/firebaseopensource.com) (3 months ago)
-- [Add support for `firebase/php-jwt:^7.0.2`](https://github.com/beste/firebase-php/pull/1056) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 months ago)
-- [feat: Add `NegatedInstanceofWithParenthesesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9326) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 months ago)
-- [Add `ParenthesizeNegatedInstanceofRector`](https://github.com/rectorphp/rector-src/pull/7785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 day ago)
+- [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 day ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (4 days ago)
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 days ago)
