@@ -20,12 +20,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (2 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
-- [beste/.github](https://github.com/beste/.github) -  (2 days ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (3 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
@@ -46,7 +46,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.330.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.330.0), 5 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.330.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.330.0), 6 days ago) - Google Cloud Client Library for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.0](https://github.com/coollabsio/coolify/releases/tag/v4.1.0), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 4 weeks ago) - Get the metadata from a Google Cloud Platform environment.
@@ -72,16 +72,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (3 days ago)
-- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 days ago)
-- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (6 days ago)
-- [Roave/DocbookTool](https://github.com/Roave/DocbookTool) - :books: Docbook Tool for static documentation generation from Markdown files (6 days ago)
-- [stainless/docs-platform](https://github.com/stainless/docs-platform) - REST API, SDK, and narrative docs that automatically stay in sync with your actual API. Built on Astro. (6 days ago)
+- [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 day ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (4 days ago)
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 days ago)
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (1 week ago)
+- [Roave/DocbookTool](https://github.com/Roave/DocbookTool) - :books: Docbook Tool for static documentation generation from Markdown files (1 week ago)
+- [stainless/docs-platform](https://github.com/stainless/docs-platform) - REST API, SDK, and narrative docs that automatically stay in sync with your actual API. Built on Astro. (1 week ago)
 - [iliaal/php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library (1 week ago)
 - [NamtaoProductions/savepoint](https://github.com/NamtaoProductions/savepoint) - A command watcher that commits when you fix errors (1 week ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 week ago)
-- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
