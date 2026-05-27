@@ -19,14 +19,14 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (today)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (today)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [beste/.github](https://github.com/beste/.github) -  (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
+- [beste/.github](https://github.com/beste/.github) -  (1 day ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 day ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 weeks ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (3 weeks ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 weeks ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -44,12 +44,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.330.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.330.0), 6 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.330.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.330.0), 1 week ago) - Google Cloud Client Library for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.0](https://github.com/coollabsio/coolify/releases/tag/v4.1.0), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 2 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 4 weeks ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 4 weeks ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 4 weeks ago) - PHP CS Fixer Config used in BESTE projects
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 month ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 1 month ago) - PHP CS Fixer Config used in BESTE projects
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 2 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 2 months ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 3 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
@@ -57,11 +57,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
-- [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
-- [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
-- [Widen `google/cloud-storage` with v2](https://github.com/beste/firebase-php/pull/1092) on [beste/firebase-php](https://github.com/beste/firebase-php) (today)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Widen `google/cloud-storage` with v2](https://github.com/beste/firebase-php/pull/1092) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
 - [Fix HTTP and HTTP Debug logging](https://github.com/beste/laravel-firebase/pull/262) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (2 weeks ago)
 - [Add App Check replay protection with transitional contract](https://github.com/beste/firebase-php/pull/1073) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add support for `kreait/laravel-firebase` 7.x and PHP 8.5](https://github.com/laravel-notification-channels/fcm/pull/234) on [laravel-notification-channels/fcm](https://github.com/laravel-notification-channels/fcm) (3 months ago)
@@ -70,10 +70,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 day ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (4 days ago)
-- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 days ago)
+- [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (2 days ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (5 days ago)
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (5 days ago)
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) -  About  A git subcommand for analyzing package/dependency usage in git repositories over time (1 week ago)
 - [Roave/DocbookTool](https://github.com/Roave/DocbookTool) - :books: Docbook Tool for static documentation generation from Markdown files (1 week ago)
 - [stainless/docs-platform](https://github.com/stainless/docs-platform) - REST API, SDK, and narrative docs that automatically stay in sync with your actual API. Built on Astro. (1 week ago)
