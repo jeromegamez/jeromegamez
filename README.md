@@ -18,15 +18,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 day ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 day ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (today)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 day ago)
+- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 days ago)
-- [beste/.github](https://github.com/beste/.github) -  (3 days ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 weeks ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (3 weeks ago)
+- [jeromegamez/terraform-aws-enforce-mfa](https://github.com/jeromegamez/terraform-aws-enforce-mfa) - A terraform module to enforce MFA for AWS groups and users (3 weeks ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 weeks ago)
 
 #### 🌱 My latest projects
