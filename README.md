@@ -18,9 +18,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (5 days ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (5 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (6 days ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (6 days ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (6 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 week ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [beste/.github](https://github.com/beste/.github) -  (1 week ago)
@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.331.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.331.0), 2 days ago) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.331.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.331.0), 3 days ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 4 weeks ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 month ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -57,11 +57,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (5 days ago)
-- [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (5 days ago)
-- [Allow immediate GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/3) on [beste/renovate-config](https://github.com/beste/renovate-config) (6 days ago)
-- [Improve Google public key caching](https://github.com/beste/firebase-jwt/pull/8) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (6 days ago)
-- [Simplify PHP extension installation](https://github.com/beste/firebase-jwt/pull/7) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (6 days ago)
+- [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (6 days ago)
+- [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (6 days ago)
+- [Allow immediate GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/3) on [beste/renovate-config](https://github.com/beste/renovate-config) (1 week ago)
+- [Improve Google public key caching](https://github.com/beste/firebase-jwt/pull/8) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
+- [Simplify PHP extension installation](https://github.com/beste/firebase-jwt/pull/7) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
 - [Refactor tooling setup and composer scripts](https://github.com/beste/firebase-jwt/pull/6) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
 - [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
@@ -70,16 +70,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (2 days ago)
-- [Seldaek/zizmorify](https://github.com/Seldaek/zizmorify) - Agent skill to harden GitHub Actions by adding zizmor to your CI and fix existing workflow errors (4 days ago)
-- [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (5 days ago)
-- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (5 days ago)
-- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (5 days ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (5 days ago)
-- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (6 days ago)
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (3 days ago)
+- [Seldaek/zizmorify](https://github.com/Seldaek/zizmorify) - Agent skill to harden GitHub Actions by adding zizmor to your CI and fix existing workflow errors (5 days ago)
+- [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (6 days ago)
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (6 days ago)
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (6 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (6 days ago)
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (1 week ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
 - [boundwize/structarmed](https://github.com/boundwize/structarmed) - 🛡️ Configurable PHP architecture guards — define your layers and rules, then keep them enforced (1 week ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (1 week ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
