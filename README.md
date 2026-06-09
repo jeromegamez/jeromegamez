@@ -21,9 +21,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 week ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 week ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 week ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [beste/.github](https://github.com/beste/.github) -  (1 week ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 weeks ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
+- [beste/.github](https://github.com/beste/.github) -  (2 weeks ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (4 weeks ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 month ago)
@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 4 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.331.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.331.0), 6 days ago) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 5 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.331.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.331.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 month ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -63,14 +63,14 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Improve Google public key caching](https://github.com/beste/firebase-jwt/pull/8) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
 - [Simplify PHP extension installation](https://github.com/beste/firebase-jwt/pull/7) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
 - [Refactor tooling setup and composer scripts](https://github.com/beste/firebase-jwt/pull/6) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 week ago)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
-- [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
-- [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Add actionlint checks](https://github.com/beste/firebase-php/pull/1094) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Add zizmor workflow](https://github.com/beste/firebase-php/pull/1093) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (6 days ago)
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (1 week ago)
 - [Seldaek/zizmorify](https://github.com/Seldaek/zizmorify) - Agent skill to harden GitHub Actions by adding zizmor to your CI and fix existing workflow errors (1 week ago)
 - [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (1 week ago)
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (1 week ago)
