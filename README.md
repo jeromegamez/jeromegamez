@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (today)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 day ago)
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (2 days ago)
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (1 week ago)
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (1 week ago)
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (2 weeks ago)
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -91,11 +91,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👯 Check out some of my recent followers
 
+- [So-Gau](https://github.com/So-Gau)
 - [S4IL21](https://github.com/S4IL21)
 - [wesleyscholl](https://github.com/wesleyscholl)
 - [SereyodamChek](https://github.com/SereyodamChek)
 - [wesdoyle](https://github.com/wesdoyle)
-- [h-noronha-alves](https://github.com/h-noronha-alves)
 
 #### 💬 Feedback
 
