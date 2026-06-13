@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (today)
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (1 day ago)
 - [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (1 day ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (2 weeks ago)
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (2 weeks ago)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (2 weeks ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
