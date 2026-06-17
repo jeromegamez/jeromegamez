@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [llbbl/esm](https://github.com/llbbl/esm) - Zero-configuration, framework-agnostic PHP state machine driven by Enums and Attributes. (today)
 - [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book! (2 days ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (4 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (1 week ago)
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (2 weeks ago)
 - [Seldaek/zizmorify](https://github.com/Seldaek/zizmorify) - Agent skill to harden GitHub Actions by adding zizmor to your CI and fix existing workflow errors (2 weeks ago)
-- [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
