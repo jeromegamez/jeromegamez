@@ -57,7 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 days ago)
+- [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (5 days ago)
 - [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 weeks ago)
 - [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 weeks ago)
 - [Allow immediate GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/3) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 weeks ago)
@@ -70,20 +70,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book! (1 day ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (3 days ago)
-- [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (4 days ago)
-- [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (4 days ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (5 days ago)
-- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (6 days ago)
+- [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book! (2 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (4 days ago)
+- [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (5 days ago)
+- [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (5 days ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (6 days ago)
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (1 week ago)
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.  (2 weeks ago)
 - [Seldaek/zizmorify](https://github.com/Seldaek/zizmorify) - Agent skill to harden GitHub Actions by adding zizmor to your CI and fix existing workflow errors (2 weeks ago)
 - [Merlin1809/Eclipse-Shader](https://github.com/Merlin1809/Eclipse-Shader) - A Minecraft Shader for Iris which is an edit of Chocapic13 V9 / Bliss (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tdomarkas](https://github.com/tdomarkas) (2 weeks ago)
+- [tdomarkas](https://github.com/tdomarkas) (3 weeks ago)
 - [polidog](https://github.com/polidog) (1 year ago)
 - [notdefine](https://github.com/notdefine) (2 years ago)
 - [exitable](https://github.com/exitable) (2 years ago)
