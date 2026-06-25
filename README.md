@@ -22,8 +22,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (3 weeks ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (4 weeks ago)
-- [beste/.github](https://github.com/beste/.github) -  (4 weeks ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
+- [beste/.github](https://github.com/beste/.github) -  (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (1 month ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 month ago)
@@ -45,7 +45,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🔭 Latest releases I've contributed to
 
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.333.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.333.0), 1 week ago) - Google Cloud Client Library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 1 month ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -64,22 +64,22 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Allow immediate GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/3) on [beste/renovate-config](https://github.com/beste/renovate-config) (3 weeks ago)
 - [Improve Google public key caching](https://github.com/beste/firebase-jwt/pull/8) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (3 weeks ago)
 - [Simplify PHP extension installation](https://github.com/beste/firebase-jwt/pull/7) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (3 weeks ago)
-- [Refactor tooling setup and composer scripts](https://github.com/beste/firebase-jwt/pull/6) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (3 weeks ago)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
+- [Refactor tooling setup and composer scripts](https://github.com/beste/firebase-jwt/pull/6) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (4 weeks ago)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
+- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (5 days ago)
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (6 days ago)
-- [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (6 days ago)
+- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (6 days ago)
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (1 week ago)
+- [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (1 week ago)
 - [llbbl/esm](https://github.com/llbbl/esm) - Zero-configuration, framework-agnostic PHP state machine driven by Enums and Attributes. (1 week ago)
 - [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book! (1 week ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (1 week ago)
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (1 week ago)
 - [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (1 week ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 week ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
