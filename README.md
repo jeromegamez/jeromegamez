@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (today)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (1 week ago)
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (1 week ago)
 - [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (1 week ago)
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (2 weeks ago)
 - [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (2 weeks ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
