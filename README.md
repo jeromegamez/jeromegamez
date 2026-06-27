@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (today)
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 day ago)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (1 week ago)
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 week ago)
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (2 weeks ago)
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure (2 weeks ago)
-- [sleekmason/Waydog-Trixie](https://github.com/sleekmason/Waydog-Trixie) - Wayland based version with Labwc and Sway window managers as default, with other options available. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
