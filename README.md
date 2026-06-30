@@ -70,10 +70,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (today)
-- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (1 day ago)
-- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (2 days ago)
-- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (3 days ago)
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (1 day ago)
+- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (2 days ago)
+- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (3 days ago)
+- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (4 days ago)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (1 week ago)
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (1 week ago)
 - [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (1 week ago)
