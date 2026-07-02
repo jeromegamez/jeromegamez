@@ -45,13 +45,13 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🔭 Latest releases I've contributed to
 
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.333.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.333.0), 2 weeks ago) - Google Cloud Client Library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 4 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 months ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 2 months ago) - PHP CS Fixer Config used in BESTE projects
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 3 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 3 months ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.2.0](https://github.com/beste/firebase-php/releases/tag/8.2.0), 4 months ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 4 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.5.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.5.0), 4 months ago) - 🌍 Gustavo Niemeyer&#39;s geocoding system
 
@@ -70,15 +70,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 day ago)
-- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (1 day ago)
-- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (2 days ago)
-- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (3 days ago)
-- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (4 days ago)
-- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (5 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 days ago)
+- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (2 days ago)
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (3 days ago)
+- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (4 days ago)
+- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (5 days ago)
+- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (6 days ago)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (1 week ago)
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (1 week ago)
-- [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (1 week ago)
+- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (2 weeks ago)
+- [jmlero/claude-toolkit](https://github.com/jmlero/claude-toolkit) - My personal Claude Code plugin marketplace &#43; curated list of third-party skills (2 weeks ago)
 - [llbbl/esm](https://github.com/llbbl/esm) - Zero-configuration, framework-agnostic PHP state machine driven by Enums and Attributes. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
