@@ -45,7 +45,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🔭 Latest releases I've contributed to
 
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.333.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.333.0), 2 weeks ago) - Google Cloud Client Library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 4 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 1 month ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 1 month ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 months ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -70,12 +70,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (today)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
-- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (3 days ago)
-- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (4 days ago)
-- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (5 days ago)
-- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (6 days ago)
+- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (1 day ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
+- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (4 days ago)
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (5 days ago)
+- [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (6 days ago)
+- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (1 week ago)
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 week ago)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (2 weeks ago)
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (2 weeks ago)
