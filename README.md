@@ -18,6 +18,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 month ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 month ago)
@@ -27,7 +28,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (1 month ago)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 months ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 months ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -57,6 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
+- [Add CODEOWNERS &amp; Renovate](https://github.com/beste/latlon-geohash-php/pull/18) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (1 day ago)
 - [Fix Firestore V2 client configuration](https://github.com/beste/firebase-php/pull/1104) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (1 month ago)
@@ -66,20 +67,19 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Simplify PHP extension installation](https://github.com/beste/firebase-jwt/pull/7) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 month ago)
 - [Refactor tooling setup and composer scripts](https://github.com/beste/firebase-jwt/pull/6) on [beste/firebase-jwt](https://github.com/beste/firebase-jwt) (1 month ago)
 - [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1096) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Fix zizmor permissions](https://github.com/beste/firebase-php/pull/1095) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (2 days ago)
-- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (3 days ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (6 days ago)
-- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (6 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (1 day ago)
+- [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (3 days ago)
+- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (4 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 week ago)
+- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (1 week ago)
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (1 week ago)
 - [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (1 week ago)
 - [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (1 week ago)
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 week ago)
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (2 weeks ago)
-- [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
