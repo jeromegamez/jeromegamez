@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (today)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (2 days ago)
 - [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (4 days ago)
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (5 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (1 week ago)
 - [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (1 week ago)
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 week ago)
-- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
