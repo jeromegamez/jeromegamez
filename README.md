@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (today)
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. (1 day ago)
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 day ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (3 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (1 week ago)
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards. (1 week ago)
 - [afairai/afair](https://github.com/afairai/afair) - Persistent memory you own, across every AI you use. Self-hostable, over MCP. (1 week ago)
-- [canonical/myna](https://github.com/canonical/myna) - Myna is a lightweight speech-to-text application for Ubuntu Desktop. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
