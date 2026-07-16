@@ -18,8 +18,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 week ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 month ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 month ago)
@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.335.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.335.0), 2 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.335.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.335.0), 3 days ago) - Google Cloud Client Library for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.1.2](https://github.com/coollabsio/coolify/releases/tag/v4.1.2), 1 month ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 2 months ago) - Get the metadata from a Google Cloud Platform environment.
@@ -57,7 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 days ago)
 - [Cache verifier key values instead of `Keys` objects](https://github.com/beste/firebase-tokens-php/pull/72) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 week ago)
 - [Modernize project](https://github.com/beste/firebase-tokens-php/pull/71) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 week ago)
 - [Add CODEOWNERS &amp; Renovate](https://github.com/beste/latlon-geohash-php/pull/18) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (1 week ago)
@@ -70,9 +70,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere. (1 day ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (5 days ago)
-- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (6 days ago)
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere. (2 days ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (6 days ago)
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (1 week ago)
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 week ago)
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (1 week ago)
