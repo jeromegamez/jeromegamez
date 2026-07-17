@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (today)
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere. (3 days ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (1 week ago)
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (2 weeks ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 weeks ago)
-- [terrapaw/intellij-terragrunt](https://github.com/terrapaw/intellij-terragrunt) - Terragrunt HCL language support for IntelliJ-based IDEs (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
