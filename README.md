@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (today)
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client (1 day ago)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (1 day ago)
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere. (4 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (1 week ago)
 - [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (2 weeks ago)
-- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
