@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (today)
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (1 day ago)
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client (2 days ago)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (2 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 week ago)
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (1 week ago)
-- [plasticity-of-cloud/KubeMicroVM](https://github.com/plasticity-of-cloud/KubeMicroVM) - The first community Kubernetes controller for AWS Lambda MicroVMs, with JOSDK, Quarkus and GraalVM (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
