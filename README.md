@@ -18,7 +18,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 week ago)
@@ -28,19 +27,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/.github](https://github.com/beste/.github) -  (1 month ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) -  (2 months ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 months ago)
 
 #### 🌱 My latest projects
 
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) - 
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [jeromegamez/issue-template-tests](https://github.com/jeromegamez/issue-template-tests) - A repo to test how issue templates look like before using them elsewhere
 - [jeromegamez/clock-poc](https://github.com/jeromegamez/clock-poc) - Proof of concept for the proposed clock PSR
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects.
 - [jeromegamez/php-library-template](https://github.com/jeromegamez/php-library-template) - This project has been replaced by https://github.com/jeromegamez/cookiecutter-php-project
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) - 
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
+- [jeromegamez/personio-php](https://github.com/jeromegamez/personio-php) - Interact with Personio from your PHP application.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (today)
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (1 day ago)
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (2 days ago)
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client (3 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (1 week ago)
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 week ago)
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 week ago)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) -  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
