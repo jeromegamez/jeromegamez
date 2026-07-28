@@ -77,7 +77,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (1 week ago)
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client (1 week ago)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (1 week ago)
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere. (2 weeks ago)
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider. (2 weeks ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (2 weeks ago)
 
