@@ -18,11 +18,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (5 days ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (6 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 month ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (1 month ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (2 months ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 months ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
 - [beste/.github](https://github.com/beste/.github) -  (2 months ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 months ago)
@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.338.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.338.0), today) - Google Cloud Client Library for PHP
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 5 days ago) - A PHP library to work with Firebase tokens
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.338.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.338.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 6 days ago) - A PHP library to work with Firebase tokens
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.2.0](https://github.com/coollabsio/coolify/releases/tag/v4.2.0), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.3.0](https://github.com/beste/firebase-php/releases/tag/8.3.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -59,18 +59,18 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 - [Implement eventual consistency for flaky tests](https://github.com/beste/firebase-php/pull/1110) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
-- [Cache verifier key values instead of `Keys` objects](https://github.com/beste/firebase-tokens-php/pull/72) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (2 weeks ago)
-- [Modernize project](https://github.com/beste/firebase-tokens-php/pull/71) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (2 weeks ago)
+- [Cache verifier key values instead of `Keys` objects](https://github.com/beste/firebase-tokens-php/pull/72) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (3 weeks ago)
+- [Modernize project](https://github.com/beste/firebase-tokens-php/pull/71) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (3 weeks ago)
 - [Add CODEOWNERS &amp; Renovate](https://github.com/beste/latlon-geohash-php/pull/18) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (3 weeks ago)
 - [Fix Firestore V2 client configuration](https://github.com/beste/firebase-php/pull/1104) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (1 month ago)
-- [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (1 month ago)
+- [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 months ago)
+- [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 months ago)
 - [Allow immediate GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/3) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (6 days ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - Master your Mac’s audio (1 week ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (1 week ago)
 - [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (1 week ago)
