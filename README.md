@@ -20,7 +20,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 weeks ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (4 weeks ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (2 months ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 months ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 months ago)
@@ -44,9 +44,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.338.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.338.0), 6 days ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.339.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.339.0), 1 day ago) - Google Cloud Client Library for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 1 week ago) - A PHP library to work with Firebase tokens
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.2.0](https://github.com/coollabsio/coolify/releases/tag/v4.2.0), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.2.0](https://github.com/coollabsio/coolify/releases/tag/v4.2.0), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.3.0](https://github.com/beste/firebase-php/releases/tag/8.3.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 2 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 3 months ago) - Get the metadata from a Google Cloud Platform environment.
@@ -58,7 +58,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🔨 My recent Pull Requests
 
 - [Implement eventual consistency for flaky tests](https://github.com/beste/firebase-php/pull/1110) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
-- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Cache verifier key values instead of `Keys` objects](https://github.com/beste/firebase-tokens-php/pull/72) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (3 weeks ago)
 - [Modernize project](https://github.com/beste/firebase-tokens-php/pull/71) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (3 weeks ago)
 - [Add CODEOWNERS &amp; Renovate](https://github.com/beste/latlon-geohash-php/pull/18) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (4 weeks ago)
@@ -70,8 +70,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history (1 day ago)
-- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. (2 days ago)
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history (2 days ago)
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. (3 days ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - Master your Mac’s audio (2 weeks ago)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively. (2 weeks ago)
@@ -79,7 +79,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost. (2 weeks ago)
 - [microsoft/comic-chat](https://github.com/microsoft/comic-chat) - Source code for the Microsoft Comic Chat IRC client (2 weeks ago)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (2 weeks ago)
-- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider. (2 weeks ago)
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
