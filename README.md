@@ -18,8 +18,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (4 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (5 days ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (1 month ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 months ago)
@@ -44,38 +44,38 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.340.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.340.0), 3 days ago) - Google Cloud Client Library for PHP
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.4.0](https://github.com/beste/firebase-php/releases/tag/8.4.0), 5 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.341.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.341.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.4.0](https://github.com/beste/firebase-php/releases/tag/8.4.0), 6 days ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 2 weeks ago) - A PHP library to work with Firebase tokens
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.2.0](https://github.com/coollabsio/coolify/releases/tag/v4.2.0), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.2.0](https://github.com/coollabsio/coolify/releases/tag/v4.2.0), 3 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 3 months ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.5.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.5.0), 3 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 3 months ago) - PHP CS Fixer Config used in BESTE projects
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 4 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 5 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 5 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 
 #### 🔨 My recent Pull Requests
 
-- [Update tools](https://github.com/beste/firebase-php/pull/1116) on [beste/firebase-php](https://github.com/beste/firebase-php) (5 days ago)
+- [Harden secure tests and pin Firebase CLI tooling](https://github.com/beste/firebase-php/pull/1122) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Update tools](https://github.com/beste/firebase-php/pull/1116) on [beste/firebase-php](https://github.com/beste/firebase-php) (6 days ago)
 - [Implement eventual consistency for flaky tests](https://github.com/beste/firebase-php/pull/1110) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
-- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
+- [Update docs dependencies](https://github.com/beste/firebase-php/pull/1109) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
 - [Cache verifier key values instead of `Keys` objects](https://github.com/beste/firebase-tokens-php/pull/72) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 month ago)
 - [Modernize project](https://github.com/beste/firebase-tokens-php/pull/71) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 month ago)
 - [Add CODEOWNERS &amp; Renovate](https://github.com/beste/latlon-geohash-php/pull/18) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (1 month ago)
 - [Fix Firestore V2 client configuration](https://github.com/beste/firebase-php/pull/1104) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
+- [Bump tool versions](https://github.com/beste/firebase-php/pull/1103) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Automerge GitHub Actions digest pinning](https://github.com/beste/renovate-config/pull/5) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 months ago)
-- [Improve Renovate GitHub Actions pinning flow](https://github.com/beste/renovate-config/pull/4) on [beste/renovate-config](https://github.com/beste/renovate-config) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (1 day ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (1 day ago)
-- [arcboxlabs/arcbox-desktop](https://github.com/arcboxlabs/arcbox-desktop) - Native macOS GUI for ArcBox — containers, VMs, and sandboxes at your fingertips. Open Source alternative to OrbStack. (2 days ago)
-- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (3 days ago)
-- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend (4 days ago)
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (6 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (2 days ago)
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (2 days ago)
+- [arcboxlabs/arcbox-desktop](https://github.com/arcboxlabs/arcbox-desktop) - Native macOS GUI for ArcBox — containers, VMs, and sandboxes at your fingertips. Open Source alternative to OrbStack. (3 days ago)
+- [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (4 days ago)
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend (5 days ago)
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 week ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history (1 week ago)
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. (1 week ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (2 weeks ago)
