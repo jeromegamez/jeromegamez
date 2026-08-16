@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.4](https://github.com/coollabsio/coolify/releases/tag/v4.3.4), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.5](https://github.com/coollabsio/coolify/releases/tag/v4.3.5), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.342.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.342.0), 2 days ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.4.0](https://github.com/beste/firebase-php/releases/tag/8.4.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 3 weeks ago) - A PHP library to work with Firebase tokens
@@ -70,6 +70,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (today)
+- [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store — three.js, first-person, self-hosted (today)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 days ago)
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (4 days ago)
@@ -78,8 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (1 week ago)
 - [arcboxlabs/arcbox-desktop](https://github.com/arcboxlabs/arcbox-desktop) - Native macOS GUI for ArcBox — containers, VMs, and sandboxes at your fingertips. Open Source alternative to OrbStack. (1 week ago)
 - [composer/api-surface-check](https://github.com/composer/api-surface-check) - GitHub Action that detect when the public API surface of the project changes and comments on PRs with a summary of changes. (1 week ago)
-- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend (1 week ago)
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
