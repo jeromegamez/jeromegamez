@@ -31,6 +31,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🌱 My latest projects
 
+- [jeromegamez/tools](https://github.com/jeromegamez/tools) - 
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) - 
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur
@@ -40,7 +41,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects.
 - [jeromegamez/php-library-template](https://github.com/jeromegamez/php-library-template) - This project has been replaced by https://github.com/jeromegamez/cookiecutter-php-project
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) - 
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
 
 #### 🔭 Latest releases I've contributed to
 
