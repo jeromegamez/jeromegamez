@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 day ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 day ago)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (2 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 days ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 days ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (2 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 days ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (3 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (3 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (3 days ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (3 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (3 days ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,8 +44,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.10](https://github.com/coollabsio/coolify/releases/tag/v4.3.10), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 2 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
+- [beste/clock](https://github.com/beste/clock) ([3.1.0](https://github.com/beste/clock/releases/tag/3.1.0), 1 day ago) - ⏱ A collection of Clock implementations.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.10](https://github.com/coollabsio/coolify/releases/tag/v4.3.10), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 3 days ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.342.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.342.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.4.0](https://github.com/beste/firebase-php/releases/tag/8.4.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 1 month ago) - A PHP library to work with Firebase tokens
@@ -53,32 +54,31 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 3 months ago) - Get the metadata from a Google Cloud Platform environment.
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 3 months ago) - PHP CS Fixer Config used in BESTE projects
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.1.0](https://github.com/beste/firebase-bundle/releases/tag/6.1.0), 5 months ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.3.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.3.0), 6 months ago) - Symfony Normalizer and Denormalizer for ramsey/uuid
 
 #### 🔨 My recent Pull Requests
 
-- [Add PHP 8.6 support](https://github.com/jeromegamez/valinor-troubleshooting/pull/5) on [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/mite-php/pull/26) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/duration-php/pull/8) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/typed-collection/pull/38) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/8) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/beste/laravel-firebase/pull/266) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/beste/php-cs-fixer-config/pull/2) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/cookiecutter-php-test/pull/5) on [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/beste/psr-testlogger/pull/2) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (2 days ago)
-- [Add PHP 8.6 support](https://github.com/beste/gcp-metadata-php/pull/7) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (2 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/valinor-troubleshooting/pull/5) on [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/mite-php/pull/26) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/duration-php/pull/8) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/typed-collection/pull/38) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/8) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/beste/laravel-firebase/pull/266) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/beste/php-cs-fixer-config/pull/2) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/jeromegamez/cookiecutter-php-test/pull/5) on [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/beste/psr-testlogger/pull/2) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (3 days ago)
+- [Add PHP 8.6 support](https://github.com/beste/gcp-metadata-php/pull/7) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tasks, and stay productive across different apps and workflows. (5 days ago)
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (6 days ago)
-- [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store — three.js, first-person, self-hosted (6 days ago)
+- [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tasks, and stay productive across different apps and workflows. (6 days ago)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 week ago)
+- [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store — three.js, first-person, self-hosted (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (1 week ago)
 - [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (1 week ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (1 week ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (1 week ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (2 weeks ago)
+- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (2 weeks ago)
 - [arcboxlabs/arcbox-desktop](https://github.com/arcboxlabs/arcbox-desktop) - Native macOS GUI for ArcBox — containers, VMs, and sandboxes at your fingertips. Open Source alternative to OrbStack. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
