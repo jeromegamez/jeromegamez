@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (3 days ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (3 days ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (4 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (4 days ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 days ago)
 - [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (4 days ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (4 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (today)
 - [Majorfi/immich-exif](https://github.com/Majorfi/immich-exif) -  (1 day ago)
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tasks, and stay productive across different apps and workflows. (1 week ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (1 week ago)
 - [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. (2 weeks ago)
-- [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
