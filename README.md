@@ -75,7 +75,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Majorfi/immich-exif](https://github.com/Majorfi/immich-exif) -  (3 days ago)
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tasks, and stay productive across different apps and workflows. (1 week ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 week ago)
-- [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store — three.js, first-person, self-hosted (1 week ago)
+- [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store, self-hosted (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (2 weeks ago)
