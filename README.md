@@ -19,12 +19,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (today)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (today)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 day ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (3 days ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (5 days ago)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (6 days ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (6 days ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (6 days ago)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (6 days ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (6 days ago)
@@ -44,6 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), today) - Working with durations made easy
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.11](https://github.com/coollabsio/coolify/releases/tag/v4.3.11), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.0](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.0), 2 days ago) - Type-safe collections based on Laravel Collections
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.343.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.343.0), 2 days ago) - Google Cloud Client Library for PHP
@@ -53,7 +54,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.5.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.5.0), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 3 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 4 months ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 4 months ago) - PHP CS Fixer Config used in BESTE projects
 
 #### 🔨 My recent Pull Requests
 
