@@ -70,6 +70,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (today)
+- [0xchasercat/draco](https://github.com/0xchasercat/draco) - Draco is a faster, cheaper and lighter firecrawl drop-in replacement that you own entirely, running on your machine, with a built in MCP, free websearch, and browserless JavaScript console. (today)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 days ago)
 - [Majorfi/immich-exif](https://github.com/Majorfi/immich-exif) -  (4 days ago)
@@ -78,8 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store, self-hosted (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
-- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe (2 weeks ago)
-- [suzuki-shunsuke/ghtkn](https://github.com/suzuki-shunsuke/ghtkn) - A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
