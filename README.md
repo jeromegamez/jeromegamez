@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.14](https://github.com/coollabsio/coolify/releases/tag/v4.3.14), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 1 day ago) - Type-safe collections based on Laravel Collections
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.12](https://github.com/coollabsio/coolify/releases/tag/v4.3.12), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 days ago) - Working with durations made easy
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.343.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.343.0), 4 days ago) - Google Cloud Client Library for PHP
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 5 days ago) - ⏱ A collection of Clock implementations.
