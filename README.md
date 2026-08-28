@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (today)
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (1 day ago)
 - [0xchasercat/draco](https://github.com/0xchasercat/draco) - Draco is a faster, cheaper and lighter firecrawl drop-in replacement that you own entirely, running on your machine, with a built in MCP, free websearch, and browserless JavaScript console. (1 day ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE &amp; text editor: easy, powerful and fast (1 week ago)
 - [halcyon-video/halcyon-video](https://github.com/halcyon-video/halcyon-video) - Your Jellyfin or Plex library as a walkable 1990s video rental store, self-hosted (1 week ago)
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (2 weeks ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
