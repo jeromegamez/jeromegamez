@@ -18,14 +18,14 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 days ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (5 days ago)
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (5 days ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (5 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
+- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (5 days ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (6 days ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (6 days ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (6 days ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 week ago)
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 week ago)
 
@@ -44,9 +44,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.14](https://github.com/coollabsio/coolify/releases/tag/v4.3.14), 3 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 4 days ago) - Type-safe collections based on Laravel Collections
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 5 days ago) - Working with durations made easy
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.14](https://github.com/coollabsio/coolify/releases/tag/v4.3.14), 4 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 5 days ago) - Type-safe collections based on Laravel Collections
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 6 days ago) - Working with durations made easy
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.343.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.343.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 1 week ago) - ⏱ A collection of Clock implementations.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 1 week ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -70,11 +70,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (2 days ago)
-- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (3 days ago)
-- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (4 days ago)
-- [0xchasercat/draco](https://github.com/0xchasercat/draco) - Draco is a faster, cheaper and lighter firecrawl drop-in replacement that you own entirely, running on your machine, with a built in MCP, free websearch, and browserless JavaScript console. (4 days ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (6 days ago)
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (3 days ago)
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (4 days ago)
+- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (5 days ago)
+- [0xchasercat/draco](https://github.com/0xchasercat/draco) - Draco is a faster, cheaper and lighter firecrawl drop-in replacement that you own entirely, running on your machine, with a built in MCP, free websearch, and browserless JavaScript console. (5 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [Majorfi/immich-exif](https://github.com/Majorfi/immich-exif) -  (1 week ago)
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tasks, and stay productive across different apps and workflows. (2 weeks ago)
