@@ -92,10 +92,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👯 Check out some of my recent followers
 
 - [milica263283838-byte](https://github.com/milica263283838-byte)
-- [webbrain-one](https://github.com/webbrain-one)
 - [TestSubjectJohnDoe](https://github.com/TestSubjectJohnDoe)
 - [majblaqh20](https://github.com/majblaqh20)
 - [So-Gau](https://github.com/So-Gau)
+- [S4IL21](https://github.com/S4IL21)
 
 #### 💬 Feedback
 
