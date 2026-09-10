@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.18](https://github.com/coollabsio/coolify/releases/tag/v4.3.18), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.19](https://github.com/coollabsio/coolify/releases/tag/v4.3.19), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.4.2](https://github.com/beste/firebase-php/releases/tag/8.4.2), 5 days ago) - Unofficial Firebase Admin SDK for PHP
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.344.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.344.0), 1 week ago) - Google Cloud Client Library for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 weeks ago) - Type-safe collections based on Laravel Collections
