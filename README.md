@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (today)
 - [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (4 days ago)
 - [spatie/bloom](https://github.com/spatie/bloom) - A native macOS app for running parallel Claude Code and Codex agents in git worktrees (4 days ago)
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (2 weeks ago)
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (2 weeks ago)
 - [0xchasercat/draco](https://github.com/0xchasercat/draco) - Draco is a faster, cheaper and lighter firecrawl drop-in replacement that you own entirely, running on your machine, with a built in MCP, free websearch, and browserless JavaScript console. (2 weeks ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
