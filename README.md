@@ -44,10 +44,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.20](https://github.com/coollabsio/coolify/releases/tag/v4.3.20), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.345.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.345.0), 1 day ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 3 days ago) - A PHP library to work with Firebase tokens
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.19](https://github.com/coollabsio/coolify/releases/tag/v4.3.19), 5 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 weeks ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 weeks ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 3 weeks ago) - ⏱ A collection of Clock implementations.
