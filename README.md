@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.20](https://github.com/coollabsio/coolify/releases/tag/v4.3.20), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.21](https://github.com/coollabsio/coolify/releases/tag/v4.3.21), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.345.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.345.0), 1 day ago) - Google Cloud Client Library for PHP
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 3 days ago) - A PHP library to work with Firebase tokens
@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API (today)
 - [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (2 days ago)
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (2 days ago)
 - [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (6 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 week ago)
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (2 weeks ago)
 - [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (2 weeks ago)
-- [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
