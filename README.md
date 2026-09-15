@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (4 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (5 days ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 days ago)
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (5 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (6 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 weeks ago)
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (2 weeks ago)
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 weeks ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -44,10 +44,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 2 days ago) - A PHP library to work with Firebase tokens
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.19](https://github.com/coollabsio/coolify/releases/tag/v4.3.19), 4 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.344.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.344.0), 1 week ago) - Google Cloud Client Library for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.345.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.345.0), 1 day ago) - Google Cloud Client Library for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 3 days ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 3 days ago) - A PHP library to work with Firebase tokens
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.19](https://github.com/coollabsio/coolify/releases/tag/v4.3.19), 5 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 weeks ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 weeks ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 3 weeks ago) - ⏱ A collection of Clock implementations.
@@ -57,8 +57,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 days ago)
-- [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (4 days ago)
+- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 days ago)
+- [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (5 days ago)
 - [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/valinor-troubleshooting/pull/5) on [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) (3 weeks ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/mite-php/pull/26) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (3 weeks ago)
@@ -70,10 +70,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 day ago)
-- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (1 day ago)
-- [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (5 days ago)
-- [spatie/bloom](https://github.com/spatie/bloom) - A native macOS app for running parallel Claude Code and Codex agents in git worktrees (5 days ago)
+- [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (2 days ago)
+- [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (2 days ago)
+- [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (6 days ago)
+- [spatie/bloom](https://github.com/spatie/bloom) - A native macOS app for running parallel Claude Code and Codex agents in git worktrees (6 days ago)
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 week ago)
 - [oio/murmur-diy](https://github.com/oio/murmur-diy) - DIY version of mur mur  (1 week ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 week ago)
