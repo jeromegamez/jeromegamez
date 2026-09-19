@@ -75,11 +75,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (6 days ago)
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (6 days ago)
 - [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (1 week ago)
-- [spatie/bloom](https://github.com/spatie/bloom) - A native macOS app for running parallel Claude Code and Codex agents in git worktrees (1 week ago)
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (2 weeks ago)
 - [oio/murmur-diy](https://github.com/oio/murmur-diy) - DIY version of mur mur  (2 weeks ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (2 weeks ago)
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (3 weeks ago)
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
