@@ -26,8 +26,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (3 weeks ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (4 weeks ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (4 weeks ago)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (4 weeks ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 month ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -44,12 +44,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.346.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.346.0), 3 days ago) - Google Cloud Client Library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.23](https://github.com/coollabsio/coolify/releases/tag/v4.3.23), 6 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.346.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.346.0), 4 days ago) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.23](https://github.com/coollabsio/coolify/releases/tag/v4.3.23), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 1 week ago) - Unofficial Firebase Admin SDK for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 1 week ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 4 weeks ago) - Type-safe collections based on Laravel Collections
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 4 weeks ago) - Working with durations made easy
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 1 month ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 1 month ago) - ⏱ A collection of Clock implementations.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 1 month ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 4 months ago) - A Laravel package for the Firebase PHP Admin SDK
@@ -59,7 +59,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 - [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (2 weeks ago)
-- [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/valinor-troubleshooting/pull/5) on [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) (1 month ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/mite-php/pull/26) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (1 month ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/duration-php/pull/8) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (1 month ago)
@@ -76,10 +76,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (1 week ago)
 - [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (2 weeks ago)
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (2 weeks ago)
-- [oio/murmur-diy](https://github.com/oio/murmur-diy) - DIY version of mur mur  (2 weeks ago)
+- [oio/murmur-diy](https://github.com/oio/murmur-diy) - DIY version of mur mur  (3 weeks ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (3 weeks ago)
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (3 weeks ago)
-- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (3 weeks ago)
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
