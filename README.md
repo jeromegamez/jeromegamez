@@ -18,10 +18,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (today)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 weeks ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (3 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
@@ -44,10 +44,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.1](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.1), today) - A PHP library to work with Firebase tokens
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.347.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.347.0), 4 days ago) - Google Cloud Client Library for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.3.23](https://github.com/coollabsio/coolify/releases/tag/v4.3.23), 2 weeks ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.0](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.0), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 1 month ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 1 month ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 1 month ago) - ⏱ A collection of Clock implementations.
@@ -57,6 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (today)
 - [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (3 weeks ago)
 - [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
@@ -66,7 +67,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Add PHP 8.6 support](https://github.com/jeromegamez/typed-collection/pull/38) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (1 month ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/8) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (1 month ago)
 - [Add PHP 8.6 support](https://github.com/beste/laravel-firebase/pull/266) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (1 month ago)
-- [Add PHP 8.6 support](https://github.com/beste/php-cs-fixer-config/pull/2) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (1 month ago)
 
 #### ⭐ Recent Stars
 
