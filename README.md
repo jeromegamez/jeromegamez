@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.4.3](https://github.com/coollabsio/coolify/releases/tag/v4.4.3), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.349.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.349.0), 1 day ago) - Google Cloud Client Library for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.4.2](https://github.com/coollabsio/coolify/releases/tag/v4.4.2), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.1](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.1), 6 days ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.5.0](https://github.com/beste/firebase-php/releases/tag/8.5.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 1 month ago) - Type-safe collections based on Laravel Collections
