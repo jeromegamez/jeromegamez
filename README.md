@@ -19,15 +19,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (today)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (3 weeks ago)
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (4 weeks ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (1 month ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 month ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 month ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 month ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -44,10 +44,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.4.3](https://github.com/coollabsio/coolify/releases/tag/v4.4.3), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.349.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.349.0), 2 days ago) - Google Cloud Client Library for PHP
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.1](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.1), 1 week ago) - A PHP library to work with Firebase tokens
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 day ago) - A PHP library to work with Firebase tokens
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.4.6](https://github.com/coollabsio/coolify/releases/tag/v4.4.6), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280&#43; one-click services on your own servers.
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.349.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.349.0), 3 days ago) - Google Cloud Client Library for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 1 month ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 1 month ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 1 month ago) - ⏱ A collection of Clock implementations.
@@ -57,20 +57,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 days ago)
-- [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (6 days ago)
+- [Update lockfiles and use strict PHPUnit assertions](https://github.com/beste/firebase-php/pull/1150) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 day ago)
+- [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 days ago)
+- [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Support the Database emulator without Google credentials](https://github.com/beste/firebase-php/pull/1145) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Support the Auth emulator without Google credentials](https://github.com/beste/firebase-php/pull/1144) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 week ago)
-- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
-- [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (4 weeks ago)
+- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (4 weeks ago)
+- [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (1 month ago)
 - [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Add PHP 8.6 support](https://github.com/jeromegamez/valinor-troubleshooting/pull/5) on [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) (1 month ago)
-- [Add PHP 8.6 support](https://github.com/jeromegamez/mite-php/pull/26) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (today)
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (1 day ago)
 - [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser. (1 week ago)
 - [lerd-env/lerd-desktop](https://github.com/lerd-env/lerd-desktop) - Desktop app for Lerd, the rootless local PHP development environment. A native window for the dashboard with native desktop notifications. (3 weeks ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (3 weeks ago)
