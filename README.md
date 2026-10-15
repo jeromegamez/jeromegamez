@@ -18,10 +18,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (5 days ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (5 days ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (1 month ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (today)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (1 day ago)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (4 days ago)
 - [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (6 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 month ago)
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (1 month ago)
 - [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (1 month ago)
-- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
