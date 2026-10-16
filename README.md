@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (today)
 - [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (1 day ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (2 days ago)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (5 days ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (1 month ago)
 - [lerd-env/lerd](https://github.com/lerd-env/lerd) - Open-source local PHP development environment for Linux, macOS and Windows (WSL2). Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 month ago)
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew&#39;s official macOS GUI (1 month ago)
-- [jasonmccreary/double](https://github.com/jasonmccreary/double) - A modern PHP test double library that puts developer experience first. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
