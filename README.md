@@ -18,11 +18,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (4 days ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (5 days ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 week ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 week ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 week ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 week ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 weeks ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 weeks ago)
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 month ago)
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (1 month ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (1 month ago)
@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.5.0](https://github.com/coollabsio/coolify/releases/tag/v4.5.0), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.5.0](https://github.com/coollabsio/coolify/releases/tag/v4.5.0), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.350.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.350.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
@@ -53,14 +53,14 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 2 months ago) - ⏱ A collection of Clock implementations.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 5 months ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 5 months ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 6 months ago) - Get the metadata from a Google Cloud Platform environment.
 
 #### 🔨 My recent Pull Requests
 
 - [Support Firestore emulator connections without credentials](https://github.com/beste/firebase-php/pull/1151) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
 - [Update lockfiles and use strict PHPUnit assertions](https://github.com/beste/firebase-php/pull/1150) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
-- [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
+- [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Support the Database emulator without Google credentials](https://github.com/beste/firebase-php/pull/1145) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Support the Auth emulator without Google credentials](https://github.com/beste/firebase-php/pull/1144) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
 - [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (3 weeks ago)
@@ -83,7 +83,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tdomarkas](https://github.com/tdomarkas) (4 months ago)
+- [tdomarkas](https://github.com/tdomarkas) (5 months ago)
 - [polidog](https://github.com/polidog) (1 year ago)
 - [notdefine](https://github.com/notdefine) (2 years ago)
 - [exitable](https://github.com/exitable) (2 years ago)
