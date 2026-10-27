@@ -44,7 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.5.0](https://github.com/coollabsio/coolify/releases/tag/v4.5.0), 3 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.5.0](https://github.com/coollabsio/coolify/releases/tag/v4.5.0), 4 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.350.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.350.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 2 weeks ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 2 weeks ago) - Unofficial Firebase Admin SDK for PHP
@@ -57,7 +57,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Support Firestore emulator connections without credentials](https://github.com/beste/firebase-php/pull/1151) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 week ago)
+- [Support Firestore emulator connections without credentials](https://github.com/beste/firebase-php/pull/1151) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Update lockfiles and use strict PHPUnit assertions](https://github.com/beste/firebase-php/pull/1150) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 weeks ago)
 - [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (3 weeks ago)
@@ -70,8 +70,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (1 day ago)
-- [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (1 day ago)
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (2 days ago)
+- [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (2 days ago)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (1 week ago)
 - [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (1 week ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (1 week ago)
