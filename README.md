@@ -18,8 +18,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (3 days ago)
-- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (3 days ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (4 days ago)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (4 days ago)
 - [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (2 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 weeks ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (3 weeks ago)
@@ -44,10 +44,10 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.6.0](https://github.com/coollabsio/coolify/releases/tag/v4.6.0), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.6.0](https://github.com/coollabsio/coolify/releases/tag/v4.6.0), 3 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.352.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.352.0), 1 week ago) - Google Cloud Client Library for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 3 weeks ago) - A PHP library to work with Firebase tokens
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 3 weeks ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 4 weeks ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 months ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 2 months ago) - ⏱ A collection of Clock implementations.
@@ -70,16 +70,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
-- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (2 days ago)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (3 days ago)
-- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (5 days ago)
+- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (3 days ago)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (4 days ago)
+- [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (6 days ago)
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (1 week ago)
 - [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (1 week ago)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (2 weeks ago)
-- [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (2 weeks ago)
+- [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (3 weeks ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (3 weeks ago)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (3 weeks ago)
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (3 weeks ago)
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence and delete its models on your Mac. Optional tweaks for analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
