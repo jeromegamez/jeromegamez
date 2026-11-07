@@ -70,6 +70,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (today)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (5 days ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (6 days ago)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (1 week ago)
@@ -79,7 +80,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (3 weeks ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (3 weeks ago)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (3 weeks ago)
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence and delete its models on your Mac. Optional tweaks for analytics, ads and pop-ups. A native app and CLI, and every change can be undone. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
