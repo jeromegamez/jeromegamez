@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
-- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.352.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.352.0), 1 week ago) - Google Cloud Client Library for PHP
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 1 day ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) ([v0.352.0](https://github.com/googleapis/google-cloud-php/releases/tag/v0.352.0), 2 weeks ago) - Google Cloud Client Library for PHP
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 months ago) - Type-safe collections based on Laravel Collections
@@ -64,13 +64,13 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Support the Database emulator without Google credentials](https://github.com/beste/firebase-php/pull/1145) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Support the Auth emulator without Google credentials](https://github.com/beste/firebase-php/pull/1144) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 month ago)
-- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
+- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 - [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (2 months ago)
 - [Handle empty Remote Config parameter groups](https://github.com/beste/firebase-php/pull/1133) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (3 days ago)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (4 days ago)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (1 week ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (1 week ago)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (1 week ago)
@@ -78,7 +78,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (2 weeks ago)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (3 weeks ago)
 - [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (3 weeks ago)
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (3 weeks ago)
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (4 weeks ago)
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
