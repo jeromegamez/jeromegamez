@@ -70,16 +70,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ⭐ Recent Stars
 
+- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (today)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (5 days ago)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (1 week ago)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  (1 week ago)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (1 week ago)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (1 week ago)
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (2 weeks ago)
 - [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (2 weeks ago)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (3 weeks ago)
 - [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (4 weeks ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (4 weeks ago)
-- [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
