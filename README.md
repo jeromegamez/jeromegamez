@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (today)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (today)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 day ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (3 weeks ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (4 weeks ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (2 months ago)
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (2 months ago)
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 months ago)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 5 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), today) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 6 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 months ago) - Type-safe collections based on Laravel Collections
@@ -53,11 +54,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.2.1](https://github.com/beste/laravel-firebase/releases/tag/7.2.1), 6 months ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.4.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.4.0), 6 months ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.3.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.3.0), 6 months ago) - PHP CS Fixer Config used in BESTE projects
 
 #### 🔨 My recent Pull Requests
 
-- [Fix tests](https://github.com/beste/json/pull/29) on [beste/json](https://github.com/beste/json) (2 days ago)
+- [Test PHP 8.6 without platform bypass and add workflow analysis](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/9) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (today)
+- [Remove PHP 8.6 platform bypass and add workflow analysis](https://github.com/beste/firebase-bundle/pull/87) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (1 day ago)
+- [Fix tests](https://github.com/beste/json/pull/29) on [beste/json](https://github.com/beste/json) (3 days ago)
 - [Support Firestore emulator connections without credentials](https://github.com/beste/firebase-php/pull/1151) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Update lockfiles and use strict PHPUnit assertions](https://github.com/beste/firebase-php/pull/1150) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
@@ -65,14 +67,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Support the Database emulator without Google credentials](https://github.com/beste/firebase-php/pull/1145) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Support the Auth emulator without Google credentials](https://github.com/beste/firebase-php/pull/1144) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
 - [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 month ago)
-- [Feature/psr 14 event dispatcher](https://github.com/beste/firebase-php/pull/1136) on [beste/firebase-php](https://github.com/beste/firebase-php) (2 months ago)
-- [Add bitflavored.bearblog.dev](https://github.com/kagisearch/smallweb/pull/898) on [kagisearch/smallweb](https://github.com/kagisearch/smallweb) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (3 days ago)
+- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (4 days ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (1 week ago)
-- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (1 week ago)
+- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (2 weeks ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (2 weeks ago)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (2 weeks ago)
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (3 weeks ago)
