@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (today)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (today)
-- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (1 day ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (today)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (today)
+- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (1 day ago)
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) - A Symfony Bundle for the Firebase PHP Admin SDK (1 day ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (1 day ago)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (2 days ago)
+- [beste/json](https://github.com/beste/json) - A simple JSON helper to decode and encode JSON (2 days ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 weeks ago)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 weeks ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (4 weeks ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 month ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 month ago)
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web (2 months ago)
-- [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,11 +44,11 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), today) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 6 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.2](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.2), today) - Type-safe collections based on Laravel Collections
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 1 day ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.1](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.1), 2 months ago) - Type-safe collections based on Laravel Collections
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 months ago) - Working with durations made easy
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 2 months ago) - ⏱ A collection of Clock implementations.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 2 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
@@ -57,20 +57,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Test PHP 8.6 without platform bypass and add workflow analysis](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/9) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (today)
-- [Remove PHP 8.6 platform bypass and add workflow analysis](https://github.com/beste/firebase-bundle/pull/87) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (1 day ago)
-- [Fix tests](https://github.com/beste/json/pull/29) on [beste/json](https://github.com/beste/json) (3 days ago)
-- [Support Firestore emulator connections without credentials](https://github.com/beste/firebase-php/pull/1151) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Update lockfiles and use strict PHPUnit assertions](https://github.com/beste/firebase-php/pull/1150) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Add support for Remote Config experiment values](https://github.com/beste/firebase-php/pull/1149) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Run emulator tests without real Firebase credentials](https://github.com/beste/firebase-php/pull/1146) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Support the Database emulator without Google credentials](https://github.com/beste/firebase-php/pull/1145) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Support the Auth emulator without Google credentials](https://github.com/beste/firebase-php/pull/1144) on [beste/firebase-php](https://github.com/beste/firebase-php) (1 month ago)
-- [Avoid fetching public keys when verifying emulator tokens](https://github.com/beste/firebase-tokens-php/pull/80) on [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) (1 month ago)
+- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (today)
+- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (today)
+- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (1 day ago)
+- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (1 day ago)
+- [Test PHP 8.6 normally and add workflow security analysis](https://github.com/jeromegamez/duration-php/pull/10) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (1 day ago)
+- [Test PHP 8.6 and migrate to Renovate](https://github.com/jeromegamez/mite-php/pull/27) on [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) (1 day ago)
+- [Update PHP 8.6 CI and add workflow security analysis](https://github.com/beste/clock/pull/27) on [beste/clock](https://github.com/beste/clock) (1 day ago)
+- [Test PHP 8.6 without platform bypass and add workflow analysis](https://github.com/jeromegamez/ramsey-uuid-normalizer/pull/9) on [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) (1 day ago)
+- [Remove PHP 8.6 platform bypass and add workflow analysis](https://github.com/beste/firebase-bundle/pull/87) on [beste/firebase-bundle](https://github.com/beste/firebase-bundle) (2 days ago)
+- [Fix tests](https://github.com/beste/json/pull/29) on [beste/json](https://github.com/beste/json) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (4 days ago)
+- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (5 days ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (1 week ago)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (2 weeks ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (2 weeks ago)
