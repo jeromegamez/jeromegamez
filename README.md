@@ -44,9 +44,9 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.6](https://github.com/coollabsio/coolify/releases/tag/v4.7.6), today) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.2](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.2), 2 days ago) - Type-safe collections based on Laravel Collections
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 3 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
 - [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) ([5.0.0](https://github.com/jeromegamez/duration-php/releases/tag/5.0.0), 2 months ago) - Working with durations made easy
