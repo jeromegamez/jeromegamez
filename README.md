@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (today)
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (1 day ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
-- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (1 day ago)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 day ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 day ago)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (1 day ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (1 day ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (2 days ago)
+- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (1 day ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
+- [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) - A PHP library to work with Firebase tokens (2 days ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (2 days ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 days ago)
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (2 days ago)
+- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (2 days ago)
+- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 days ago)
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,8 +44,8 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.2](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.2), 1 day ago) - Type-safe collections based on Laravel Collections
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 2 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.2](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.2), 2 days ago) - Type-safe collections based on Laravel Collections
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 3 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.5](https://github.com/coollabsio/coolify/releases/tag/v4.7.5), 1 week ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.6.0](https://github.com/beste/firebase-php/releases/tag/8.6.0), 1 month ago) - Unofficial Firebase Admin SDK for PHP
@@ -57,20 +57,20 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (1 day ago)
-- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (1 day ago)
-- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (1 day ago)
-- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (1 day ago)
-- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (1 day ago)
-- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (1 day ago)
-- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (1 day ago)
-- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (2 days ago)
-- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (2 days ago)
-- [Test PHP 8.6 normally and add workflow security analysis](https://github.com/jeromegamez/duration-php/pull/10) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (2 days ago)
+- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (2 days ago)
+- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (2 days ago)
+- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (2 days ago)
+- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (2 days ago)
+- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (2 days ago)
+- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (2 days ago)
+- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (2 days ago)
+- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (3 days ago)
+- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (3 days ago)
+- [Test PHP 8.6 normally and add workflow security analysis](https://github.com/jeromegamez/duration-php/pull/10) on [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (6 days ago)
+- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc&#39;s sidebar, Dia&#39;s polish. Chat on Discord: discord.gg/TdhuXrbcA6 (1 week ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (1 week ago)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) -  svg-sanitize - restrictive, visual-only SVG sanitizer (2 weeks ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (2 weeks ago)
