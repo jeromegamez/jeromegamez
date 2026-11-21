@@ -19,19 +19,18 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
+- [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
 - [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (today)
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (today)
 - [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (today)
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (today)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (today)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (today)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (today)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
 - [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (3 days ago)
-- [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests. (4 days ago)
 
 #### 🌱 My latest projects
 
-- [jeromegamez/tools](https://github.com/jeromegamez/tools) - 
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things
 - [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting) - 
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur
@@ -41,6 +40,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects.
 - [jeromegamez/php-library-template](https://github.com/jeromegamez/php-library-template) - This project has been replaced by https://github.com/jeromegamez/cookiecutter-php-project
 - [jeromegamez/.github](https://github.com/jeromegamez/.github) - 
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
 
 #### 🔭 Latest releases I've contributed to
 
