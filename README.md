@@ -18,16 +18,16 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 👷 What I'm currently working on
 
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
+- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) - PHP CS Fixer Config used in BESTE projects (today)
-- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application. (today)
-- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect. (today)
-- [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) - Symfony Normalizer and Denormalizer for ramsey/uuid (today)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (today)
+- [jeromegamez/terraform-aws-enforce-mfa](https://github.com/jeromegamez/terraform-aws-enforce-mfa) - A terraform module to enforce MFA for AWS groups and users (today)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (today)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (today)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (today)
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (today)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer&#39;s geocoding system (today)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (today)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) - 🍪 A Cookiecutter template for a fresh Kirby site (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,6 +44,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.7.0](https://github.com/beste/firebase-php/releases/tag/8.7.0), today) - Unofficial Firebase Admin SDK for PHP
 - [beste/psr-testlogger](https://github.com/beste/psr-testlogger) ([1.1.0](https://github.com/beste/psr-testlogger/releases/tag/1.1.0), today) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect.
 - [jeromegamez/ramsey-uuid-normalizer](https://github.com/jeromegamez/ramsey-uuid-normalizer) ([3.4.0](https://github.com/jeromegamez/ramsey-uuid-normalizer/releases/tag/3.4.0), today) - Symfony Normalizer and Denormalizer for ramsey/uuid
 - [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) ([3.4.0](https://github.com/jeromegamez/mite-php/releases/tag/3.4.0), today) - Interact with mite from your PHP application.
@@ -53,7 +54,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.3.0](https://github.com/beste/laravel-firebase/releases/tag/7.3.0), 1 day ago) - A Laravel package for the Firebase PHP Admin SDK
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) ([v4.7.6](https://github.com/coollabsio/coolify/releases/tag/v4.7.6), 2 days ago) - An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360&#43; one-click services on your own servers.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([8.1.2](https://github.com/jeromegamez/typed-collection/releases/tag/8.1.2), 4 days ago) - Type-safe collections based on Laravel Collections
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 5 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 
 #### 🔨 My recent Pull Requests
 
@@ -78,7 +78,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (3 weeks ago)
 - [talbs/tiny-tells](https://github.com/talbs/tiny-tells) - Give your app&#39;s status a face: six tiny animated characters in one &lt;tiny-tell&gt; element. (3 weeks ago)
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. (1 month ago)
-- [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Deviload — a clean Windows desktop front-end for yt-lp: paste a link, pick quality, download. Playlists,chapters, trim, GIF, one-click YouTube sign-in, RU/E. (1 month ago)
+- [Pronexsteam/deviload](https://github.com/Pronexsteam/deviload) - Free desktop app for music and video. Devil Music: a full player for the YouTube Music catalog and your own files, with synced lyrics, themes and listening stats. Downloads from 1000&#43; sites with yt-dlp, clips in Devil Cut, conversion in Devil Convert. Rust &#43; Tauri 2 · Windows, Linux, macOS test · EN/RU/ES. (1 month ago)
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
