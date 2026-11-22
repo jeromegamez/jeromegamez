@@ -15,7 +15,7 @@ declare(strict_types=1);
 ?>
 ### Hi there 👋
 
-I'm Jérôme Gamez, a platform and backend engineer with 20+ years of experience.
+I'm Jérôme Gamez, a platform and backend engineer with 25+ years of experience.
 
 I'm a Jack of all trades with a soft spot for PHP, legacy software and,
 of course, Open Source software.
