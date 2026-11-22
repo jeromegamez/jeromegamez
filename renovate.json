@@ -1,7 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>beste/renovate-config",
-    ":assignee(jeromegamez)"
+    "github>beste/renovate-config"
   ]
 }
