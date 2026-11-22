@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  markscribe:
+  update-readme:
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,16 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
+      - name: Generate README
+        run: php update-readme.php
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update generated README
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
