@@ -62,7 +62,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (4 days ago)
 - [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (4 days ago)
 - [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (4 days ago)
-- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (4 days ago)
+- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (5 days ago)
 - [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (5 days ago)
 - [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (5 days ago)
 - [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (5 days ago)
