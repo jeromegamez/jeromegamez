@@ -32,15 +32,15 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🌱 My latest projects
 
 - [jeromegamez/cookiecutter-php-test](https://github.com/jeromegamez/cookiecutter-php-test) - A library that does awesome things
-- [jeromegamez/valinor-troubleshooting](https://github.com/jeromegamez/valinor-troubleshooting)
 - [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur
 - [jeromegamez/jeromegamez](https://github.com/jeromegamez/jeromegamez)
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io.
-- [jeromegamez/issue-template-tests](https://github.com/jeromegamez/issue-template-tests) - A repo to test how issue templates look like before using them elsewhere
-- [jeromegamez/clock-poc](https://github.com/jeromegamez/clock-poc) - Proof of concept for the proposed clock PSR
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects.
-- [jeromegamez/php-library-template](https://github.com/jeromegamez/php-library-template) - This project has been replaced by https://github.com/jeromegamez/cookiecutter-php-project
 - [jeromegamez/.github](https://github.com/jeromegamez/.github)
+- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy
+- [jeromegamez/mite-php](https://github.com/jeromegamez/mite-php) - Interact with mite from your PHP application.
+- [jeromegamez/terraform-aws-enforce-mfa](https://github.com/jeromegamez/terraform-aws-enforce-mfa) - A terraform module to enforce MFA for AWS groups and users
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections
 
 #### 🔭 Latest releases I've contributed to
 

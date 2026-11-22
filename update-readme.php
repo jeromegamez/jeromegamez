@@ -16,6 +16,8 @@ query {
           url
           description
           isPrivate
+          isArchived
+          isFork
         }
         contributions(first: 1, orderBy: {field: OCCURRED_AT, direction: DESC}) {
           nodes {
@@ -25,7 +27,7 @@ query {
       }
     }
     repositories(
-      first: 20
+      first: 30
       privacy: PUBLIC
       isFork: false
       ownerAffiliations: OWNER
@@ -35,6 +37,7 @@ query {
         nameWithOwner
         url
         description
+        isArchived
       }
     }
     repositoriesContributedTo(
@@ -47,6 +50,8 @@ query {
         nameWithOwner
         url
         description
+        isArchived
+        isFork
         latestRelease {
           tagName
           url
@@ -67,10 +72,12 @@ query {
           nameWithOwner
           url
           isPrivate
+          isArchived
+          isFork
         }
       }
     }
-    starredRepositories(first: 10, orderBy: {field: STARRED_AT, direction: DESC}) {
+    starredRepositories(first: 20, orderBy: {field: STARRED_AT, direction: DESC}) {
       edges {
         starredAt
         node {
@@ -78,6 +85,8 @@ query {
           url
           description
           isPrivate
+          isArchived
+          isFork
         }
       }
     }
@@ -291,7 +300,7 @@ $recentContributions = [];
 foreach ($viewer['contributionsCollection']['commitContributionsByRepository'] as $entry) {
     $repo = $entry['repository'] ?? null;
     $occurredAt = $entry['contributions']['nodes'][0]['occurredAt'] ?? null;
-    if (!is_array($repo) || $repo['isPrivate'] || $occurredAt === null) {
+    if (!is_array($repo) || $repo['isPrivate'] || $repo['isArchived'] || $repo['isFork'] || $occurredAt === null) {
         continue;
     }
     $recentContributions[] = new Repo(
@@ -307,7 +316,7 @@ $recentContributions = array_slice($recentContributions, 0, 10);
 
 $recentRepos = [];
 foreach ($viewer['repositories']['nodes'] as $repo) {
-    if (!is_array($repo)) {
+    if (!is_array($repo) || $repo['isArchived']) {
         continue;
     }
     $recentRepos[] = new Repo(
@@ -322,7 +331,7 @@ foreach ($viewer['repositories']['nodes'] as $repo) {
 
 $recentReleases = [];
 foreach ($viewer['repositoriesContributedTo']['nodes'] as $repo) {
-    if (!is_array($repo)) {
+    if (!is_array($repo) || $repo['isArchived'] || $repo['isFork']) {
         continue;
     }
     $release = $repo['latestRelease'] ?? null;
@@ -349,7 +358,8 @@ $recentReleases = array_slice($recentReleases, 0, 10);
 
 $recentPullRequests = [];
 foreach ($viewer['pullRequests']['nodes'] as $pr) {
-    if (!is_array($pr) || !is_array($pr['repository'] ?? null) || $pr['repository']['isPrivate']) {
+    $repo = $pr['repository'] ?? null;
+    if (!is_array($pr) || !is_array($repo) || $repo['isPrivate'] || $repo['isArchived'] || $repo['isFork']) {
         continue;
     }
     $recentPullRequests[] = new PullRequest(
@@ -367,7 +377,7 @@ foreach ($viewer['pullRequests']['nodes'] as $pr) {
 $recentStars = [];
 foreach ($viewer['starredRepositories']['edges'] as $edge) {
     $repo = $edge['node'] ?? null;
-    if (!is_array($repo) || $repo['isPrivate']) {
+    if (!is_array($repo) || $repo['isPrivate'] || $repo['isArchived'] || $repo['isFork']) {
         continue;
     }
     $recentStars[] = new Repo(
@@ -376,6 +386,9 @@ foreach ($viewer['starredRepositories']['edges'] as $edge) {
         description: cleanText($repo['description']),
         when: humanize($edge['starredAt'], $now),
     );
+    if (count($recentStars) === 10) {
+        break;
+    }
 }
 
 $sponsors = [];
