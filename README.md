@@ -19,6 +19,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 👷 What I'm currently working on
 
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/jeromegamez](https://github.com/jeromegamez/jeromegamez) (today)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (1 day ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (1 day ago)
 - [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 day ago)
@@ -27,7 +28,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer's geocoding system (1 day ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (1 day ago)
 - [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (1 day ago)
-- [jeromegamez/duration-php](https://github.com/jeromegamez/duration-php) - Working with durations made easy (1 day ago)
 
 #### 🌱 My latest projects
 
