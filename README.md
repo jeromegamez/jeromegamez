@@ -45,28 +45,28 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### 🔭 Latest releases I've contributed to
 
 - [beste/firebase-php](https://github.com/beste/firebase-php) ([8.7.0](https://github.com/beste/firebase-php/releases/tag/8.7.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) ([1.1.0](https://github.com/beste/psr-testlogger/releases/tag/1.1.0), 1 day ago) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.4.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.4.0), 1 day ago) - PHP CS Fixer Config used in BESTE projects
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.6.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.6.0), 1 day ago) - 🌍 Gustavo Niemeyer's geocoding system
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.5.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.5.0), 1 day ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.3.0](https://github.com/beste/laravel-firebase/releases/tag/7.3.0), 1 day ago) - A Laravel package for the Firebase PHP Admin SDK
-- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 6 days ago) - A Symfony Bundle for the Firebase PHP Admin SDK
+- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) ([1.1.0](https://github.com/beste/psr-testlogger/releases/tag/1.1.0), 2 days ago) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect.
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.4.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.4.0), 2 days ago) - PHP CS Fixer Config used in BESTE projects
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.6.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.6.0), 2 days ago) - 🌍 Gustavo Niemeyer's geocoding system
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.5.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.5.0), 2 days ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.3.0](https://github.com/beste/laravel-firebase/releases/tag/7.3.0), 2 days ago) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 1 week ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 3 months ago) - ⏱ A collection of Clock implementations.
 - [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) ([1.6.0](https://github.com/beste/in-memory-cache-php/releases/tag/1.6.0), 3 months ago) - A PSR-6 In-Memory cache that can be used as a fallback implementation and/or in tests.
 
 #### 🔨 My recent Pull Requests
 
-- [Add workflow security analysis and migrate to Renovate](https://github.com/beste/laravel-firebase/pull/268) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (1 day ago)
-- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (4 days ago)
-- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (4 days ago)
-- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (4 days ago)
-- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (4 days ago)
+- [Add workflow security analysis and migrate to Renovate](https://github.com/beste/laravel-firebase/pull/268) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (2 days ago)
+- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (5 days ago)
+- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (5 days ago)
+- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (5 days ago)
+- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (5 days ago)
 - [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (5 days ago)
-- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (5 days ago)
-- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (5 days ago)
-- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (5 days ago)
-- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (5 days ago)
+- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (6 days ago)
+- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (6 days ago)
+- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (6 days ago)
+- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (6 days ago)
 
 #### ⭐ Recent Stars
 
