@@ -13,12 +13,13 @@ and consider no code base to be unmaintainable 💪🏻.
 My most prolific project is the (unofficial)
 [Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) and its
 related libraries, which are
-[downloaded 2.8M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
+[downloaded 2.9M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
 projects at [BESTE](https://github.com/beste) and my [personal](https://github.com/jeromegamez) accounts.
 
 #### 👷 What I'm currently working on
 
 - [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (today)
 - [jeromegamez/jeromegamez](https://github.com/jeromegamez/jeromegamez) (1 day ago)
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (2 days ago)
 - [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (2 days ago)
@@ -27,7 +28,6 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 - [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (2 days ago)
 - [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer's geocoding system (2 days ago)
 - [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (2 days ago)
-- [beste/clock](https://github.com/beste/clock) - ⏱ A collection of Clock implementations. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,12 +44,12 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔭 Latest releases I've contributed to
 
-- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.7.0](https://github.com/beste/firebase-php/releases/tag/8.7.0), 1 day ago) - Unofficial Firebase Admin SDK for PHP
-- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) ([1.1.0](https://github.com/beste/psr-testlogger/releases/tag/1.1.0), 2 days ago) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect.
-- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.4.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.4.0), 2 days ago) - PHP CS Fixer Config used in BESTE projects
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.6.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.6.0), 2 days ago) - 🌍 Gustavo Niemeyer's geocoding system
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.5.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.5.0), 2 days ago) - Get the metadata from a Google Cloud Platform environment.
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.3.0](https://github.com/beste/laravel-firebase/releases/tag/7.3.0), 2 days ago) - A Laravel package for the Firebase PHP Admin SDK
+- [beste/firebase-php](https://github.com/beste/firebase-php) ([8.7.0](https://github.com/beste/firebase-php/releases/tag/8.7.0), 2 days ago) - Unofficial Firebase Admin SDK for PHP
+- [beste/psr-testlogger](https://github.com/beste/psr-testlogger) ([1.1.0](https://github.com/beste/psr-testlogger/releases/tag/1.1.0), 3 days ago) - PSR-3 compliant test logger for developers who like tests and want to check if their application logs messages as they expect.
+- [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) ([3.4.0](https://github.com/beste/php-cs-fixer-config/releases/tag/3.4.0), 3 days ago) - PHP CS Fixer Config used in BESTE projects
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) ([1.6.0](https://github.com/beste/latlon-geohash-php/releases/tag/1.6.0), 3 days ago) - 🌍 Gustavo Niemeyer's geocoding system
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) ([1.5.0](https://github.com/beste/gcp-metadata-php/releases/tag/1.5.0), 3 days ago) - Get the metadata from a Google Cloud Platform environment.
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) ([7.3.0](https://github.com/beste/laravel-firebase/releases/tag/7.3.0), 3 days ago) - A Laravel package for the Firebase PHP Admin SDK
 - [beste/firebase-bundle](https://github.com/beste/firebase-bundle) ([6.2.0](https://github.com/beste/firebase-bundle/releases/tag/6.2.0), 1 week ago) - A Symfony Bundle for the Firebase PHP Admin SDK
 - [beste/firebase-tokens-php](https://github.com/beste/firebase-tokens-php) ([5.6.2](https://github.com/beste/firebase-tokens-php/releases/tag/5.6.2), 1 month ago) - A PHP library to work with Firebase tokens
 - [beste/clock](https://github.com/beste/clock) ([4.0.0](https://github.com/beste/clock/releases/tag/4.0.0), 3 months ago) - ⏱ A collection of Clock implementations.
@@ -57,22 +57,22 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### 🔨 My recent Pull Requests
 
-- [Add workflow security analysis and migrate to Renovate](https://github.com/beste/laravel-firebase/pull/268) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (2 days ago)
-- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (5 days ago)
-- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (5 days ago)
-- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (5 days ago)
-- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (5 days ago)
-- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (5 days ago)
-- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (6 days ago)
-- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (6 days ago)
-- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (6 days ago)
-- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (6 days ago)
+- [Add workflow security analysis and migrate to Renovate](https://github.com/beste/laravel-firebase/pull/268) on [beste/laravel-firebase](https://github.com/beste/laravel-firebase) (3 days ago)
+- [Update PHP CI and add workflow security analysis](https://github.com/beste/latlon-geohash-php/pull/24) on [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) (6 days ago)
+- [Add shared Renovate and GitHub Actions security configuration](https://github.com/beste/kirby-plainkit/pull/2) on [beste/kirby-plainkit](https://github.com/beste/kirby-plainkit) (6 days ago)
+- [Add PHP 8.6 CI and workflow security checks](https://github.com/beste/psr-testlogger/pull/3) on [beste/psr-testlogger](https://github.com/beste/psr-testlogger) (6 days ago)
+- [Add PHP 8.6 CI and workflow security analysis](https://github.com/beste/php-cs-fixer-config/pull/3) on [beste/php-cs-fixer-config](https://github.com/beste/php-cs-fixer-config) (6 days ago)
+- [Enable PHP 8.6 CI and migrate to Renovate](https://github.com/beste/gcp-metadata-php/pull/8) on [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) (6 days ago)
+- [Copy security workflow without Cookiecutter rendering](https://github.com/jeromegamez/cookiecutter-php/pull/23) on [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) (1 week ago)
+- [Add PHP 8.6 CI and migrate dependency updates to Renovate](https://github.com/jeromegamez/pinboard-for-newsblur/pull/13) on [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) (1 week ago)
+- [Test PHP 8.6 normally and migrate to Renovate](https://github.com/jeromegamez/typed-collection/pull/40) on [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) (1 week ago)
+- [Normalize PHP 8.6 CI and add workflow security analysis](https://github.com/beste/in-memory-cache-php/pull/14) on [beste/in-memory-cache-php](https://github.com/beste/in-memory-cache-php) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6 (1 week ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (2 weeks ago)
-- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) - svg-sanitize - restrictive, visual-only SVG sanitizer (2 weeks ago)
+- [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) - svg-sanitize - restrictive, visual-only SVG sanitizer (3 weeks ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (3 weeks ago)
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source music player made for Jellyfin (3 weeks ago)
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. (4 weeks ago)
@@ -83,7 +83,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [tdomarkas](https://github.com/tdomarkas) (5 months ago)
+- [tdomarkas](https://github.com/tdomarkas) (6 months ago)
 - [polidog](https://github.com/polidog) (1 year ago)
 - [notdefine](https://github.com/notdefine) (1 year ago)
 - [exitable](https://github.com/exitable) (2 years ago)
