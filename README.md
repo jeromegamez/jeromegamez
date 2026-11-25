@@ -13,21 +13,21 @@ and consider no code base to be unmaintainable 💪🏻.
 My most prolific project is the (unofficial)
 [Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) and its
 related libraries, which are
-[downloaded 3M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
+[downloaded 2.9M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
 projects at [BESTE](https://github.com/beste) and my [personal](https://github.com/jeromegamez) accounts.
 
 #### 👷 What I'm currently working on
 
 - [beste/firebase-php](https://github.com/beste/firebase-php) - Unofficial Firebase Admin SDK for PHP (today)
-- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (today)
-- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (today)
-- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (1 day ago)
-- [jeromegamez/jeromegamez](https://github.com/jeromegamez/jeromegamez) (2 days ago)
-- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (3 days ago)
-- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (3 days ago)
-- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (3 days ago)
-- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer's geocoding system (3 days ago)
-- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (3 days ago)
+- [beste/renovate-config](https://github.com/beste/renovate-config) - BESTE Renovate Config (1 day ago)
+- [jeromegamez/pinboard-for-newsblur](https://github.com/jeromegamez/pinboard-for-newsblur) - Fixing pinboard.in keywords to be displayed correctly in NewsBlur (1 day ago)
+- [jeromegamez/dotfiles](https://github.com/jeromegamez/dotfiles) - My dotfiles, managed with https://chezmoi.io. (2 days ago)
+- [jeromegamez/jeromegamez](https://github.com/jeromegamez/jeromegamez) (3 days ago)
+- [jeromegamez/cookiecutter-php](https://github.com/jeromegamez/cookiecutter-php) - Cookiecutter template for new PHP projects. (4 days ago)
+- [beste/firebase-jwt](https://github.com/beste/firebase-jwt) - A framework-agnostic PHP library to work with Firebase JSON Web Tokens. (4 days ago)
+- [beste/laravel-firebase](https://github.com/beste/laravel-firebase) - A Laravel package for the Firebase PHP Admin SDK (4 days ago)
+- [beste/latlon-geohash-php](https://github.com/beste/latlon-geohash-php) - 🌍 Gustavo Niemeyer's geocoding system (4 days ago)
+- [beste/gcp-metadata-php](https://github.com/beste/gcp-metadata-php) - Get the metadata from a Google Cloud Platform environment. (4 days ago)
 
 #### 🌱 My latest projects
 
