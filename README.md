@@ -13,7 +13,7 @@ and consider no code base to be unmaintainable 💪🏻.
 My most prolific project is the (unofficial)
 [Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) and its
 related libraries, which are
-[downloaded 2.9M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
+[downloaded 3M+ times a month](https://packagist.org/packages/kreait/firebase-php/stats), but I also publish and maintain many more Open Source
 projects at [BESTE](https://github.com/beste) and my [personal](https://github.com/jeromegamez) accounts.
 
 #### 👷 What I'm currently working on
@@ -71,7 +71,7 @@ projects at [BESTE](https://github.com/beste) and my [personal](https://github.c
 #### ⭐ Recent Stars
 
 - [kalkman-code/beamer](https://github.com/kalkman-code/beamer) - One keyboard and mouse for a Mac and a Windows PC over the local network, in either direction. (1 day ago)
-- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6 (1 week ago)
+- [ardia-browser/ardia](https://github.com/ardia-browser/ardia) - A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6 (2 weeks ago)
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (2 weeks ago)
 - [adulau/svg-sanitize](https://github.com/adulau/svg-sanitize) - svg-sanitize - restrictive, visual-only SVG sanitizer (3 weeks ago)
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone (3 weeks ago)
